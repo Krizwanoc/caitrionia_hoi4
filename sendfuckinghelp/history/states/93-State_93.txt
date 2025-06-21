@@ -1,0 +1,9 @@
+state={
+	id=93
+	name="STATE_93"
+	provinces={
+		749 1226 1952 1964 1977 1979 
+	}
+	manpower=0
+	buildings_max_level_factor=1.000
+}
