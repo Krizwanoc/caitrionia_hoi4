@@ -1,0 +1,36 @@
+
+state={
+	id=532
+	name="STATE_532"
+	manpower = 296662
+	
+	state_category = wasteland
+	resources={
+		aluminium=0
+		chromium=0
+		oil=1
+		rubber=-2147483648
+		steel=0
+		tungsten=0
+	}
+
+	history={
+		victory_points = { 1461 1}
+		
+		owner = aaa
+		buildings = {
+			infrastructure = 1
+			
+			arms_factory = 0
+			industrial_complex = 0
+			
+			
+		}
+		add_core_of = aaa
+	}
+
+	provinces={
+		1461 1462 
+	}
+	local_supplies=0.0 
+}

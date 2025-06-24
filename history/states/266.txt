@@ -1,0 +1,36 @@
+
+state={
+	id=266
+	name="STATE_266"
+	manpower = 482828
+	
+	state_category = wasteland
+	resources={
+		aluminium=1
+		chromium=0
+		oil=0
+		rubber=-2147483648
+		steel=1
+		tungsten=1
+	}
+
+	history={
+		victory_points = { 776 1}
+		
+		owner = aaa
+		buildings = {
+			infrastructure = 1
+			
+			arms_factory = 0
+			industrial_complex = 0
+			
+			
+		}
+		add_core_of = aaa
+	}
+
+	provinces={
+		774 775 776 
+	}
+	local_supplies=0.0 
+}

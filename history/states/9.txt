@@ -1,0 +1,38 @@
+
+state={
+	id=9
+	name="STATE_9"
+	manpower = 587
+	
+	state_category = small_island
+	resources={
+		aluminium=0
+		chromium=0
+		oil=0
+		rubber=-2147483648
+		steel=0
+		tungsten=0
+	}
+
+	history={
+		
+		owner = aaa
+		buildings = {
+			infrastructure = 1
+			
+			arms_factory = 0
+			industrial_complex = 0
+			
+			9 = {
+				naval_base = 1
+			}
+			
+		}
+		add_core_of = aaa
+	}
+
+	provinces={
+		9 
+	}
+	local_supplies=0.0 
+}

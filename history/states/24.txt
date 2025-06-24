@@ -1,0 +1,38 @@
+
+state={
+	id=24
+	name="STATE_24"
+	manpower = 319155
+	
+	state_category = wasteland
+	resources={
+		aluminium=0
+		chromium=0
+		oil=1
+		rubber=-2147483648
+		steel=1
+		tungsten=0
+	}
+
+	history={
+		
+		owner = aaa
+		buildings = {
+			infrastructure = 1
+			
+			arms_factory = 0
+			industrial_complex = 0
+			
+			31 = {
+				naval_base = 1
+			}
+			
+		}
+		add_core_of = aaa
+	}
+
+	provinces={
+		30 31 
+	}
+	local_supplies=0.0 
+}

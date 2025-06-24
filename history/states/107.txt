@@ -1,0 +1,38 @@
+
+state={
+	id=107
+	name="STATE_107"
+	manpower = 534680
+	
+	state_category = wasteland
+	resources={
+		aluminium=1
+		chromium=0
+		oil=0
+		rubber=-2147483648
+		steel=0
+		tungsten=0
+	}
+
+	history={
+		
+		owner = aaa
+		buildings = {
+			infrastructure = 1
+			
+			arms_factory = 0
+			industrial_complex = 0
+			
+			282 = {
+				naval_base = 1
+			}
+			
+		}
+		add_core_of = aaa
+	}
+
+	provinces={
+		282 283 284 
+	}
+	local_supplies=0.0 
+}

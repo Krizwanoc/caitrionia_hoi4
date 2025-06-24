@@ -1,0 +1,38 @@
+
+state={
+	id=255
+	name="STATE_255"
+	manpower = 500790
+	
+	state_category = wasteland
+	resources={
+		aluminium=1
+		chromium=1
+		oil=0
+		rubber=-2147483648
+		steel=0
+		tungsten=0
+	}
+
+	history={
+		
+		owner = aaa
+		buildings = {
+			infrastructure = 1
+			
+			arms_factory = 0
+			industrial_complex = 0
+			
+			746 = {
+				naval_base = 1
+			}
+			
+		}
+		add_core_of = aaa
+	}
+
+	provinces={
+		744 745 746 
+	}
+	local_supplies=0.0 
+}

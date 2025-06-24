@@ -1,0 +1,36 @@
+
+state={
+	id=630
+	name="STATE_630"
+	manpower = 292247
+	
+	state_category = small_island
+	resources={
+		aluminium=1
+		chromium=0
+		oil=0
+		rubber=-2147483648
+		steel=0
+		tungsten=0
+	}
+
+	history={
+		victory_points = { 1708 1}
+		
+		owner = aaa
+		buildings = {
+			infrastructure = 1
+			
+			arms_factory = 0
+			industrial_complex = 0
+			
+			
+		}
+		add_core_of = aaa
+	}
+
+	provinces={
+		1708 
+	}
+	local_supplies=0.0 
+}

@@ -1,0 +1,35 @@
+
+state={
+	id=82
+	name="STATE_82"
+	manpower = 937829
+	
+	state_category = wasteland
+	resources={
+		aluminium=0
+		chromium=0
+		oil=1
+		rubber=-2147483648
+		steel=1
+		tungsten=0
+	}
+
+	history={
+		
+		owner = aaa
+		buildings = {
+			infrastructure = 1
+			
+			arms_factory = 0
+			industrial_complex = 0
+			
+			
+		}
+		add_core_of = aaa
+	}
+
+	provinces={
+		209 210 211 212 213 214 
+	}
+	local_supplies=0.0 
+}
