@@ -1,0 +1,38 @@
+
+state={
+	id=366
+	name="STATE_366"
+	manpower = 1020468
+	
+	state_category = large_town
+	resources={
+		aluminium=0
+		chromium=0
+		oil=0
+		rubber=0
+		steel=0
+		tungsten=0
+	}
+
+	history={
+		victory_points = { 1673 9}
+		victory_points = { 1674 3}
+		victory_points = { 1675 1}
+		
+		owner = AAA
+		buildings = {
+			infrastructure = 2
+			
+			arms_factory = 1
+			industrial_complex = 1
+			
+			
+		}
+		add_core_of = AAA
+	}
+
+	provinces={
+		1671 1672 1673 1674 1675 
+	}
+	local_supplies=0.0 
+}

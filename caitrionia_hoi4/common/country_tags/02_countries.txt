@@ -1,0 +1,1 @@
+AAA = "countries/Oipo.txt"

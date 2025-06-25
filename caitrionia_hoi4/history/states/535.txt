@@ -1,0 +1,39 @@
+
+state={
+	id=535
+	name="STATE_535"
+	manpower = 884268
+	
+	state_category = pastoral
+	resources={
+		aluminium=1
+		chromium=0
+		oil=0
+		rubber=0
+		steel=1
+		tungsten=1
+	}
+
+	history={
+		victory_points = { 2457 1}
+		victory_points = { 2458 3}
+		victory_points = { 2459 1}
+		victory_points = { 2460 2}
+		
+		owner = AAA
+		buildings = {
+			infrastructure = 1
+			
+			arms_factory = 0
+			industrial_complex = 1
+			
+			
+		}
+		add_core_of = AAA
+	}
+
+	provinces={
+		2456 2457 2458 2459 2460 2461 
+	}
+	local_supplies=0.0 
+}

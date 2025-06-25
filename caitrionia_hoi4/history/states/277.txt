@@ -1,0 +1,40 @@
+
+state={
+	id=277
+	name="STATE_277"
+	manpower = 1290223
+	
+	state_category = large_city
+	resources={
+		aluminium=0
+		chromium=0
+		oil=0
+		rubber=0
+		steel=0
+		tungsten=0
+	}
+
+	history={
+		victory_points = { 1275 12}
+		victory_points = { 1277 10}
+		
+		owner = AAA
+		buildings = {
+			infrastructure = 3
+			air_base = 2
+			arms_factory = 1
+			industrial_complex = 3
+			dockyard = 1
+			1277 = {
+				naval_base = 1
+			}
+			
+		}
+		add_core_of = AAA
+	}
+
+	provinces={
+		1272 1273 1274 1275 1276 1277 
+	}
+	local_supplies=0.0 
+}

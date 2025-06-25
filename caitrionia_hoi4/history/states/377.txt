@@ -1,0 +1,43 @@
+
+state={
+	id=377
+	name="STATE_377"
+	manpower = 2502829
+	
+	state_category = megalopolis
+	resources={
+		aluminium=0
+		chromium=0
+		oil=0
+		rubber=0
+		steel=0
+		tungsten=0
+	}
+
+	history={
+		victory_points = { 1719 8}
+		victory_points = { 1720 7}
+		victory_points = { 1721 12}
+		victory_points = { 1727 7}
+		victory_points = { 1728 7}
+		
+		owner = AAA
+		buildings = {
+			infrastructure = 4
+			air_base = 1
+			arms_factory = 1
+			industrial_complex = 8
+			
+			1719 = {
+				naval_base = 1
+			}
+			
+		}
+		add_core_of = AAA
+	}
+
+	provinces={
+		1719 1720 1721 1722 1723 1724 1725 1726 1727 1728 1729 1730 
+	}
+	local_supplies=0.0 
+}

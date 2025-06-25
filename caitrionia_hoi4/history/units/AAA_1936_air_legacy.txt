@@ -1,0 +1,1304 @@
+air_wings = {
+		13 = { 								
+		tac_bomber_equipment_0 = { owner = "AAA" amount = 50 version_name = "Oepp Mk 0" }
+
+	}
+	31 = { 								
+		fighter_equipment_0 = { owner = "AAA" amount = 50 version_name = "Ishoa Mk 0" }
+fighter_equipment_0 = { owner = "AAA" amount = 50 version_name = "Ishoa Mk 0" }
+
+	}
+	39 = { 								
+		tac_bomber_equipment_0 = { owner = "AAA" amount = 50 version_name = "Oepp Mk 0" }
+
+	}
+	40 = { 								
+		tac_bomber_equipment_0 = { owner = "AAA" amount = 50 version_name = "Oepp Mk 0" }
+
+	}
+	48 = { 								
+		fighter_equipment_0 = { owner = "AAA" amount = 50 version_name = "Ishoa Mk 0" }
+
+	}
+	1 = { 								
+		tac_bomber_equipment_0 = { owner = "AAA" amount = 50 version_name = "Oepp Mk 0" }
+fighter_equipment_0 = { owner = "AAA" amount = 50 version_name = "Ishoa Mk 0" }
+
+	}
+	28 = { 								
+		tac_bomber_equipment_0 = { owner = "AAA" amount = 50 version_name = "Oepp Mk 0" }
+fighter_equipment_0 = { owner = "AAA" amount = 50 version_name = "Ishoa Mk 0" }
+
+	}
+	2 = { 								
+		tac_bomber_equipment_0 = { owner = "AAA" amount = 50 version_name = "Oepp Mk 0" }
+
+	}
+	14 = { 								
+		tac_bomber_equipment_0 = { owner = "AAA" amount = 50 version_name = "Oepp Mk 0" }
+strat_bomber_equipment_0 = { owner = "AAA" amount = 50 version_name = "Eppeo Mk 0" }
+
+	}
+	17 = { 								
+		tac_bomber_equipment_0 = { owner = "AAA" amount = 50 version_name = "Oepp Mk 0" }
+
+	}
+	3 = { 								
+		tac_bomber_equipment_0 = { owner = "AAA" amount = 50 version_name = "Oepp Mk 0" }
+tac_bomber_equipment_0 = { owner = "AAA" amount = 50 version_name = "Oepp Mk 0" }
+
+	}
+	29 = { 								
+		tac_bomber_equipment_0 = { owner = "AAA" amount = 50 version_name = "Oepp Mk 0" }
+
+	}
+	7 = { 								
+		tac_bomber_equipment_0 = { owner = "AAA" amount = 50 version_name = "Oepp Mk 0" }
+
+	}
+	36 = { 								
+		strat_bomber_equipment_0 = { owner = "AAA" amount = 50 version_name = "Eppeo Mk 0" }
+
+	}
+	38 = { 								
+		tac_bomber_equipment_0 = { owner = "AAA" amount = 50 version_name = "Oepp Mk 0" }
+
+	}
+	41 = { 								
+		tac_bomber_equipment_0 = { owner = "AAA" amount = 50 version_name = "Oepp Mk 0" }
+
+	}
+	44 = { 								
+		tac_bomber_equipment_0 = { owner = "AAA" amount = 50 version_name = "Oepp Mk 0" }
+
+	}
+	49 = { 								
+		tac_bomber_equipment_0 = { owner = "AAA" amount = 50 version_name = "Oepp Mk 0" }
+tac_bomber_equipment_0 = { owner = "AAA" amount = 50 version_name = "Oepp Mk 0" }
+
+	}
+	52 = { 								
+		tac_bomber_equipment_0 = { owner = "AAA" amount = 50 version_name = "Oepp Mk 0" }
+
+	}
+	56 = { 								
+		tac_bomber_equipment_0 = { owner = "AAA" amount = 50 version_name = "Oepp Mk 0" }
+
+	}
+	58 = { 								
+		fighter_equipment_0 = { owner = "AAA" amount = 50 version_name = "Oeglux Mk 2" }
+
+	}
+	60 = { 								
+		tac_bomber_equipment_0 = { owner = "AAA" amount = 50 version_name = "Oepp Mk 0" }
+
+	}
+	61 = { 								
+		tac_bomber_equipment_0 = { owner = "AAA" amount = 50 version_name = "Oepp Mk 0" }
+strat_bomber_equipment_0 = { owner = "AAA" amount = 50 version_name = "Eppeo Mk 0" }
+
+	}
+	62 = { 								
+		tac_bomber_equipment_0 = { owner = "AAA" amount = 50 version_name = "Oepp Mk 0" }
+tac_bomber_equipment_0 = { owner = "AAA" amount = 50 version_name = "Oepp Mk 0" }
+fighter_equipment_0 = { owner = "AAA" amount = 50 version_name = "Oeglux Mk 2" }
+
+	}
+	90 = { 								
+		tac_bomber_equipment_0 = { owner = "AAA" amount = 50 version_name = "Oepp Mk 0" }
+
+	}
+	74 = { 								
+		strat_bomber_equipment_0 = { owner = "AAA" amount = 50 version_name = "Eoplaeng Mk 2" }
+
+	}
+	99 = { 								
+		tac_bomber_equipment_0 = { owner = "AAA" amount = 50 version_name = "Oepp Mk 0" }
+
+	}
+	82 = { 								
+		tac_bomber_equipment_0 = { owner = "AAA" amount = 50 version_name = "Ondua Mk 1" }
+
+	}
+	86 = { 								
+		strat_bomber_equipment_0 = { owner = "AAA" amount = 50 version_name = "Eoplaeng Mk 2" }
+
+	}
+	69 = { 								
+		tac_bomber_equipment_0 = { owner = "AAA" amount = 50 version_name = "Oepp Mk 0" }
+
+	}
+	72 = { 								
+		tac_bomber_equipment_0 = { owner = "AAA" amount = 50 version_name = "Oepp Mk 0" }
+
+	}
+	65 = { 								
+		tac_bomber_equipment_0 = { owner = "AAA" amount = 50 version_name = "Oepp Mk 0" }
+fighter_equipment_0 = { owner = "AAA" amount = 50 version_name = "Oeglux Mk 2" }
+fighter_equipment_0 = { owner = "AAA" amount = 50 version_name = "Ishoa Mk 0" }
+
+	}
+	116 = { 								
+		tac_bomber_equipment_0 = { owner = "AAA" amount = 50 version_name = "Oepp Mk 0" }
+tac_bomber_equipment_0 = { owner = "AAA" amount = 50 version_name = "Oepp Mk 0" }
+
+	}
+	112 = { 								
+		tac_bomber_equipment_0 = { owner = "AAA" amount = 50 version_name = "Oepp Mk 0" }
+
+	}
+	84 = { 								
+		tac_bomber_equipment_0 = { owner = "AAA" amount = 50 version_name = "Oepp Mk 0" }
+
+	}
+	75 = { 								
+		strat_bomber_equipment_0 = { owner = "AAA" amount = 50 version_name = "Eppeo Mk 0" }
+
+	}
+	89 = { 								
+		tac_bomber_equipment_0 = { owner = "AAA" amount = 50 version_name = "Oepp Mk 0" }
+
+	}
+	92 = { 								
+		tac_bomber_equipment_0 = { owner = "AAA" amount = 50 version_name = "Oepp Mk 0" }
+tac_bomber_equipment_0 = { owner = "AAA" amount = 50 version_name = "Oepp Mk 0" }
+
+	}
+	71 = { 								
+		tac_bomber_equipment_0 = { owner = "AAA" amount = 50 version_name = "Oepp Mk 0" }
+
+	}
+	94 = { 								
+		tac_bomber_equipment_0 = { owner = "AAA" amount = 50 version_name = "Oepp Mk 0" }
+strat_bomber_equipment_0 = { owner = "AAA" amount = 50 version_name = "Eppeo Mk 0" }
+
+	}
+	98 = { 								
+		tac_bomber_equipment_0 = { owner = "AAA" amount = 50 version_name = "Oepp Mk 0" }
+
+	}
+	102 = { 								
+		tac_bomber_equipment_0 = { owner = "AAA" amount = 50 version_name = "Ondua Mk 1" }
+
+	}
+	107 = { 								
+		tac_bomber_equipment_0 = { owner = "AAA" amount = 50 version_name = "Oepp Mk 0" }
+
+	}
+	108 = { 								
+		tac_bomber_equipment_0 = { owner = "AAA" amount = 50 version_name = "Oepp Mk 0" }
+
+	}
+	115 = { 								
+		tac_bomber_equipment_0 = { owner = "AAA" amount = 50 version_name = "Oepp Mk 0" }
+
+	}
+	119 = { 								
+		tac_bomber_equipment_0 = { owner = "AAA" amount = 50 version_name = "Oepp Mk 0" }
+
+	}
+	121 = { 								
+		strat_bomber_equipment_0 = { owner = "AAA" amount = 50 version_name = "Eppeo Mk 0" }
+
+	}
+	120 = { 								
+		tac_bomber_equipment_0 = { owner = "AAA" amount = 50 version_name = "Oepp Mk 0" }
+tac_bomber_equipment_0 = { owner = "AAA" amount = 50 version_name = "Ondua Mk 1" }
+
+	}
+	122 = { 								
+		tac_bomber_equipment_0 = { owner = "AAA" amount = 50 version_name = "Oepp Mk 0" }
+
+	}
+	127 = { 								
+		tac_bomber_equipment_0 = { owner = "AAA" amount = 50 version_name = "Oepp Mk 0" }
+tac_bomber_equipment_0 = { owner = "AAA" amount = 50 version_name = "Oepp Mk 0" }
+
+	}
+	136 = { 								
+		tac_bomber_equipment_0 = { owner = "AAA" amount = 50 version_name = "Oepp Mk 0" }
+tac_bomber_equipment_0 = { owner = "AAA" amount = 50 version_name = "Oepp Mk 0" }
+
+	}
+	143 = { 								
+		CAS_equipment_0 = { owner = "AAA" amount = 50 version_name = "Uablaoss Mk 0" }
+
+	}
+	155 = { 								
+		tac_bomber_equipment_0 = { owner = "AAA" amount = 50 version_name = "Oepp Mk 0" }
+
+	}
+	173 = { 								
+		tac_bomber_equipment_0 = { owner = "AAA" amount = 50 version_name = "Oepp Mk 0" }
+
+	}
+	135 = { 								
+		tac_bomber_equipment_0 = { owner = "AAA" amount = 50 version_name = "Oepp Mk 0" }
+
+	}
+	178 = { 								
+		tac_bomber_equipment_0 = { owner = "AAA" amount = 50 version_name = "Oepp Mk 0" }
+
+	}
+	139 = { 								
+		tac_bomber_equipment_0 = { owner = "AAA" amount = 50 version_name = "Ondua Mk 1" }
+
+	}
+	144 = { 								
+		CAS_equipment_0 = { owner = "AAA" amount = 50 version_name = "Uablaoss Mk 0" }
+
+	}
+	141 = { 								
+		tac_bomber_equipment_0 = { owner = "AAA" amount = 50 version_name = "Oepp Mk 0" }
+
+	}
+	152 = { 								
+		tac_bomber_equipment_0 = { owner = "AAA" amount = 50 version_name = "Oepp Mk 0" }
+
+	}
+	156 = { 								
+		fighter_equipment_0 = { owner = "AAA" amount = 50 version_name = "Oeglux Mk 2" }
+
+	}
+	158 = { 								
+		tac_bomber_equipment_0 = { owner = "AAA" amount = 50 version_name = "Oepp Mk 0" }
+
+	}
+	128 = { 								
+		tac_bomber_equipment_0 = { owner = "AAA" amount = 50 version_name = "Oepp Mk 0" }
+
+	}
+	154 = { 								
+		tac_bomber_equipment_0 = { owner = "AAA" amount = 50 version_name = "Oepp Mk 0" }
+tac_bomber_equipment_0 = { owner = "AAA" amount = 50 version_name = "Oepp Mk 0" }
+
+	}
+	163 = { 								
+		tac_bomber_equipment_0 = { owner = "AAA" amount = 50 version_name = "Oepp Mk 0" }
+
+	}
+	138 = { 								
+		tac_bomber_equipment_0 = { owner = "AAA" amount = 50 version_name = "Oepp Mk 0" }
+tac_bomber_equipment_0 = { owner = "AAA" amount = 50 version_name = "Oepp Mk 0" }
+tac_bomber_equipment_0 = { owner = "AAA" amount = 50 version_name = "Oepp Mk 0" }
+CAS_equipment_0 = { owner = "AAA" amount = 50 version_name = "Iospog Mk 2" }
+
+	}
+	175 = { 								
+		tac_bomber_equipment_0 = { owner = "AAA" amount = 50 version_name = "Oepp Mk 0" }
+
+	}
+	149 = { 								
+		strat_bomber_equipment_0 = { owner = "AAA" amount = 50 version_name = "Eoplaeng Mk 2" }
+
+	}
+	134 = { 								
+		tac_bomber_equipment_0 = { owner = "AAA" amount = 50 version_name = "Oepp Mk 0" }
+
+	}
+	133 = { 								
+		tac_bomber_equipment_0 = { owner = "AAA" amount = 50 version_name = "Oepp Mk 0" }
+tac_bomber_equipment_0 = { owner = "AAA" amount = 50 version_name = "Oepp Mk 0" }
+strat_bomber_equipment_0 = { owner = "AAA" amount = 50 version_name = "Eoplaeng Mk 2" }
+
+	}
+	147 = { 								
+		tac_bomber_equipment_0 = { owner = "AAA" amount = 50 version_name = "Oepp Mk 0" }
+
+	}
+	161 = { 								
+		tac_bomber_equipment_0 = { owner = "AAA" amount = 50 version_name = "Ondua Mk 1" }
+
+	}
+	168 = { 								
+		tac_bomber_equipment_0 = { owner = "AAA" amount = 50 version_name = "Ondua Mk 1" }
+
+	}
+	169 = { 								
+		tac_bomber_equipment_0 = { owner = "AAA" amount = 50 version_name = "Oepp Mk 0" }
+tac_bomber_equipment_0 = { owner = "AAA" amount = 50 version_name = "Oepp Mk 0" }
+
+	}
+	172 = { 								
+		tac_bomber_equipment_0 = { owner = "AAA" amount = 50 version_name = "Oepp Mk 0" }
+
+	}
+	181 = { 								
+		tac_bomber_equipment_0 = { owner = "AAA" amount = 50 version_name = "Oepp Mk 0" }
+CAS_equipment_0 = { owner = "AAA" amount = 50 version_name = "Iospog Mk 2" }
+
+	}
+	182 = { 								
+		tac_bomber_equipment_0 = { owner = "AAA" amount = 50 version_name = "Oepp Mk 0" }
+strat_bomber_equipment_0 = { owner = "AAA" amount = 50 version_name = "Eppeo Mk 0" }
+
+	}
+	185 = { 								
+		tac_bomber_equipment_0 = { owner = "AAA" amount = 50 version_name = "Ondua Mk 1" }
+
+	}
+	187 = { 								
+		tac_bomber_equipment_0 = { owner = "AAA" amount = 50 version_name = "Oepp Mk 0" }
+
+	}
+	188 = { 								
+		fighter_equipment_0 = { owner = "AAA" amount = 50 version_name = "Oeglux Mk 2" }
+
+	}
+	190 = { 								
+		tac_bomber_equipment_0 = { owner = "AAA" amount = 50 version_name = "Oepp Mk 0" }
+
+	}
+	222 = { 								
+		CAS_equipment_0 = { owner = "AAA" amount = 50 version_name = "Iospog Mk 2" }
+
+	}
+	192 = { 								
+		tac_bomber_equipment_0 = { owner = "AAA" amount = 50 version_name = "Oepp Mk 0" }
+
+	}
+	226 = { 								
+		tac_bomber_equipment_0 = { owner = "AAA" amount = 50 version_name = "Oepp Mk 0" }
+
+	}
+	201 = { 								
+		tac_bomber_equipment_0 = { owner = "AAA" amount = 50 version_name = "Oepp Mk 0" }
+tac_bomber_equipment_0 = { owner = "AAA" amount = 50 version_name = "Oepp Mk 0" }
+
+	}
+	220 = { 								
+		tac_bomber_equipment_0 = { owner = "AAA" amount = 50 version_name = "Oepp Mk 0" }
+
+	}
+	231 = { 								
+		CAS_equipment_0 = { owner = "AAA" amount = 50 version_name = "Uablaoss Mk 0" }
+
+	}
+	244 = { 								
+		tac_bomber_equipment_0 = { owner = "AAA" amount = 50 version_name = "Oepp Mk 0" }
+CAS_equipment_0 = { owner = "AAA" amount = 50 version_name = "Uablaoss Mk 0" }
+
+	}
+	203 = { 								
+		tac_bomber_equipment_0 = { owner = "AAA" amount = 50 version_name = "Oepp Mk 0" }
+strat_bomber_equipment_0 = { owner = "AAA" amount = 50 version_name = "Eppeo Mk 0" }
+
+	}
+	214 = { 								
+		tac_bomber_equipment_0 = { owner = "AAA" amount = 50 version_name = "Ondua Mk 1" }
+
+	}
+	218 = { 								
+		tac_bomber_equipment_0 = { owner = "AAA" amount = 50 version_name = "Oepp Mk 0" }
+tac_bomber_equipment_0 = { owner = "AAA" amount = 50 version_name = "Oepp Mk 0" }
+
+	}
+	206 = { 								
+		tac_bomber_equipment_0 = { owner = "AAA" amount = 50 version_name = "Oepp Mk 0" }
+
+	}
+	221 = { 								
+		tac_bomber_equipment_0 = { owner = "AAA" amount = 50 version_name = "Oepp Mk 0" }
+tac_bomber_equipment_0 = { owner = "AAA" amount = 50 version_name = "Oepp Mk 0" }
+fighter_equipment_0 = { owner = "AAA" amount = 50 version_name = "Oeglux Mk 2" }
+strat_bomber_equipment_0 = { owner = "AAA" amount = 50 version_name = "Eppeo Mk 0" }
+
+	}
+	200 = { 								
+		CAS_equipment_0 = { owner = "AAA" amount = 50 version_name = "Uablaoss Mk 0" }
+
+	}
+	208 = { 								
+		tac_bomber_equipment_0 = { owner = "AAA" amount = 50 version_name = "Oepp Mk 0" }
+
+	}
+	209 = { 								
+		strat_bomber_equipment_0 = { owner = "AAA" amount = 50 version_name = "Eoplaeng Mk 2" }
+
+	}
+	199 = { 								
+		fighter_equipment_0 = { owner = "AAA" amount = 50 version_name = "Oeglux Mk 2" }
+
+	}
+	229 = { 								
+		tac_bomber_equipment_0 = { owner = "AAA" amount = 50 version_name = "Oepp Mk 0" }
+tac_bomber_equipment_0 = { owner = "AAA" amount = 50 version_name = "Oepp Mk 0" }
+
+	}
+	234 = { 								
+		tac_bomber_equipment_0 = { owner = "AAA" amount = 50 version_name = "Oepp Mk 0" }
+
+	}
+	235 = { 								
+		tac_bomber_equipment_0 = { owner = "AAA" amount = 50 version_name = "Oepp Mk 0" }
+tac_bomber_equipment_0 = { owner = "AAA" amount = 50 version_name = "Ondua Mk 1" }
+
+	}
+	227 = { 								
+		tac_bomber_equipment_0 = { owner = "AAA" amount = 50 version_name = "Oepp Mk 0" }
+
+	}
+	238 = { 								
+		tac_bomber_equipment_0 = { owner = "AAA" amount = 50 version_name = "Oepp Mk 0" }
+strat_bomber_equipment_0 = { owner = "AAA" amount = 50 version_name = "Eppeo Mk 0" }
+CAS_equipment_0 = { owner = "AAA" amount = 50 version_name = "Iospog Mk 2" }
+
+	}
+	239 = { 								
+		CAS_equipment_0 = { owner = "AAA" amount = 50 version_name = "Uablaoss Mk 0" }
+
+	}
+	241 = { 								
+		tac_bomber_equipment_0 = { owner = "AAA" amount = 50 version_name = "Oepp Mk 0" }
+tac_bomber_equipment_0 = { owner = "AAA" amount = 50 version_name = "Oepp Mk 0" }
+tac_bomber_equipment_0 = { owner = "AAA" amount = 50 version_name = "Oepp Mk 0" }
+
+	}
+	242 = { 								
+		fighter_equipment_0 = { owner = "AAA" amount = 50 version_name = "Oeglux Mk 2" }
+
+	}
+	243 = { 								
+		CAS_equipment_0 = { owner = "AAA" amount = 50 version_name = "Iospog Mk 2" }
+
+	}
+	254 = { 								
+		tac_bomber_equipment_0 = { owner = "AAA" amount = 50 version_name = "Oepp Mk 0" }
+fighter_equipment_0 = { owner = "AAA" amount = 50 version_name = "Ishoa Mk 0" }
+fighter_equipment_0 = { owner = "AAA" amount = 50 version_name = "Ishoa Mk 0" }
+strat_bomber_equipment_0 = { owner = "AAA" amount = 50 version_name = "Eoplaeng Mk 2" }
+
+	}
+	277 = { 								
+		strat_bomber_equipment_0 = { owner = "AAA" amount = 50 version_name = "Eoplaeng Mk 2" }
+
+	}
+	281 = { 								
+		tac_bomber_equipment_0 = { owner = "AAA" amount = 50 version_name = "Oepp Mk 0" }
+
+	}
+	270 = { 								
+		tac_bomber_equipment_0 = { owner = "AAA" amount = 50 version_name = "Oepp Mk 0" }
+tac_bomber_equipment_0 = { owner = "AAA" amount = 50 version_name = "Oepp Mk 0" }
+
+	}
+	276 = { 								
+		tac_bomber_equipment_0 = { owner = "AAA" amount = 50 version_name = "Oepp Mk 0" }
+
+	}
+	257 = { 								
+		tac_bomber_equipment_0 = { owner = "AAA" amount = 50 version_name = "Oepp Mk 0" }
+
+	}
+	294 = { 								
+		tac_bomber_equipment_0 = { owner = "AAA" amount = 50 version_name = "Oepp Mk 0" }
+
+	}
+	260 = { 								
+		CAS_equipment_0 = { owner = "AAA" amount = 50 version_name = "Uablaoss Mk 0" }
+
+	}
+	291 = { 								
+		tac_bomber_equipment_0 = { owner = "AAA" amount = 50 version_name = "Oepp Mk 0" }
+CAS_equipment_0 = { owner = "AAA" amount = 50 version_name = "Iospog Mk 2" }
+CAS_equipment_0 = { owner = "AAA" amount = 50 version_name = "Iospog Mk 2" }
+
+	}
+	298 = { 								
+		tac_bomber_equipment_0 = { owner = "AAA" amount = 50 version_name = "Oepp Mk 0" }
+tac_bomber_equipment_0 = { owner = "AAA" amount = 50 version_name = "Oepp Mk 0" }
+
+	}
+	296 = { 								
+		tac_bomber_equipment_0 = { owner = "AAA" amount = 50 version_name = "Oepp Mk 0" }
+
+	}
+	264 = { 								
+		CAS_equipment_0 = { owner = "AAA" amount = 50 version_name = "Iospog Mk 2" }
+
+	}
+	258 = { 								
+		tac_bomber_equipment_0 = { owner = "AAA" amount = 50 version_name = "Oepp Mk 0" }
+tac_bomber_equipment_0 = { owner = "AAA" amount = 50 version_name = "Oepp Mk 0" }
+
+	}
+	299 = { 								
+		tac_bomber_equipment_0 = { owner = "AAA" amount = 50 version_name = "Oepp Mk 0" }
+strat_bomber_equipment_0 = { owner = "AAA" amount = 50 version_name = "Eppeo Mk 0" }
+
+	}
+	316 = { 								
+		fighter_equipment_0 = { owner = "AAA" amount = 50 version_name = "Oeglux Mk 2" }
+
+	}
+	273 = { 								
+		tac_bomber_equipment_0 = { owner = "AAA" amount = 50 version_name = "Oepp Mk 0" }
+
+	}
+	318 = { 								
+		tac_bomber_equipment_0 = { owner = "AAA" amount = 50 version_name = "Oepp Mk 0" }
+
+	}
+	280 = { 								
+		tac_bomber_equipment_0 = { owner = "AAA" amount = 50 version_name = "Oepp Mk 0" }
+tac_bomber_equipment_0 = { owner = "AAA" amount = 50 version_name = "Oepp Mk 0" }
+
+	}
+	263 = { 								
+		tac_bomber_equipment_0 = { owner = "AAA" amount = 50 version_name = "Oepp Mk 0" }
+
+	}
+	265 = { 								
+		tac_bomber_equipment_0 = { owner = "AAA" amount = 50 version_name = "Oepp Mk 0" }
+fighter_equipment_0 = { owner = "AAA" amount = 50 version_name = "Oeglux Mk 2" }
+
+	}
+	268 = { 								
+		fighter_equipment_0 = { owner = "AAA" amount = 50 version_name = "Ishoa Mk 0" }
+
+	}
+	255 = { 								
+		tac_bomber_equipment_0 = { owner = "AAA" amount = 50 version_name = "Oepp Mk 0" }
+tac_bomber_equipment_0 = { owner = "AAA" amount = 50 version_name = "Oepp Mk 0" }
+strat_bomber_equipment_0 = { owner = "AAA" amount = 50 version_name = "Eppeo Mk 0" }
+
+	}
+	256 = { 								
+		fighter_equipment_0 = { owner = "AAA" amount = 50 version_name = "Oeglux Mk 2" }
+
+	}
+	272 = { 								
+		strat_bomber_equipment_0 = { owner = "AAA" amount = 50 version_name = "Eppeo Mk 0" }
+
+	}
+	278 = { 								
+		tac_bomber_equipment_0 = { owner = "AAA" amount = 50 version_name = "Oepp Mk 0" }
+
+	}
+	282 = { 								
+		strat_bomber_equipment_0 = { owner = "AAA" amount = 50 version_name = "Eoplaeng Mk 2" }
+
+	}
+	285 = { 								
+		tac_bomber_equipment_0 = { owner = "AAA" amount = 50 version_name = "Oepp Mk 0" }
+tac_bomber_equipment_0 = { owner = "AAA" amount = 50 version_name = "Oepp Mk 0" }
+
+	}
+	286 = { 								
+		CAS_equipment_0 = { owner = "AAA" amount = 50 version_name = "Uablaoss Mk 0" }
+
+	}
+	287 = { 								
+		tac_bomber_equipment_0 = { owner = "AAA" amount = 50 version_name = "Oepp Mk 0" }
+tac_bomber_equipment_0 = { owner = "AAA" amount = 50 version_name = "Oepp Mk 0" }
+CAS_equipment_0 = { owner = "AAA" amount = 50 version_name = "Iospog Mk 2" }
+
+	}
+	289 = { 								
+		fighter_equipment_0 = { owner = "AAA" amount = 50 version_name = "Ishoa Mk 0" }
+
+	}
+	297 = { 								
+		fighter_equipment_0 = { owner = "AAA" amount = 50 version_name = "Oeglux Mk 2" }
+
+	}
+	300 = { 								
+		tac_bomber_equipment_0 = { owner = "AAA" amount = 50 version_name = "Oepp Mk 0" }
+strat_bomber_equipment_0 = { owner = "AAA" amount = 50 version_name = "Eppeo Mk 0" }
+
+	}
+	314 = { 								
+		tac_bomber_equipment_0 = { owner = "AAA" amount = 50 version_name = "Oepp Mk 0" }
+tac_bomber_equipment_0 = { owner = "AAA" amount = 50 version_name = "Oepp Mk 0" }
+
+	}
+	315 = { 								
+		tac_bomber_equipment_0 = { owner = "AAA" amount = 50 version_name = "Oepp Mk 0" }
+
+	}
+	307 = { 								
+		tac_bomber_equipment_0 = { owner = "AAA" amount = 50 version_name = "Oepp Mk 0" }
+
+	}
+	319 = { 								
+		tac_bomber_equipment_0 = { owner = "AAA" amount = 50 version_name = "Oepp Mk 0" }
+
+	}
+	325 = { 								
+		tac_bomber_equipment_0 = { owner = "AAA" amount = 50 version_name = "Oepp Mk 0" }
+fighter_equipment_0 = { owner = "AAA" amount = 50 version_name = "Ishoa Mk 0" }
+
+	}
+	320 = { 								
+		tac_bomber_equipment_0 = { owner = "AAA" amount = 50 version_name = "Oepp Mk 0" }
+
+	}
+	321 = { 								
+		tac_bomber_equipment_0 = { owner = "AAA" amount = 50 version_name = "Oepp Mk 0" }
+tac_bomber_equipment_0 = { owner = "AAA" amount = 50 version_name = "Oepp Mk 0" }
+
+	}
+	351 = { 								
+		tac_bomber_equipment_0 = { owner = "AAA" amount = 50 version_name = "Oepp Mk 0" }
+
+	}
+	349 = { 								
+		fighter_equipment_0 = { owner = "AAA" amount = 50 version_name = "Oeglux Mk 2" }
+
+	}
+	350 = { 								
+		tac_bomber_equipment_0 = { owner = "AAA" amount = 50 version_name = "Oepp Mk 0" }
+
+	}
+	352 = { 								
+		tac_bomber_equipment_0 = { owner = "AAA" amount = 50 version_name = "Oepp Mk 0" }
+
+	}
+	354 = { 								
+		tac_bomber_equipment_0 = { owner = "AAA" amount = 50 version_name = "Oepp Mk 0" }
+
+	}
+	353 = { 								
+		CAS_equipment_0 = { owner = "AAA" amount = 50 version_name = "Uablaoss Mk 0" }
+
+	}
+	358 = { 								
+		tac_bomber_equipment_0 = { owner = "AAA" amount = 50 version_name = "Oepp Mk 0" }
+
+	}
+	340 = { 								
+		tac_bomber_equipment_0 = { owner = "AAA" amount = 50 version_name = "Oepp Mk 0" }
+
+	}
+	342 = { 								
+		tac_bomber_equipment_0 = { owner = "AAA" amount = 50 version_name = "Ondua Mk 1" }
+
+	}
+	336 = { 								
+		tac_bomber_equipment_0 = { owner = "AAA" amount = 50 version_name = "Oepp Mk 0" }
+tac_bomber_equipment_0 = { owner = "AAA" amount = 50 version_name = "Oepp Mk 0" }
+
+	}
+	346 = { 								
+		tac_bomber_equipment_0 = { owner = "AAA" amount = 50 version_name = "Oepp Mk 0" }
+
+	}
+	347 = { 								
+		tac_bomber_equipment_0 = { owner = "AAA" amount = 50 version_name = "Oepp Mk 0" }
+
+	}
+	328 = { 								
+		tac_bomber_equipment_0 = { owner = "AAA" amount = 50 version_name = "Oepp Mk 0" }
+
+	}
+	330 = { 								
+		tac_bomber_equipment_0 = { owner = "AAA" amount = 50 version_name = "Oepp Mk 0" }
+fighter_equipment_0 = { owner = "AAA" amount = 50 version_name = "Ishoa Mk 0" }
+
+	}
+	337 = { 								
+		CAS_equipment_0 = { owner = "AAA" amount = 50 version_name = "Uablaoss Mk 0" }
+CAS_equipment_0 = { owner = "AAA" amount = 50 version_name = "Iospog Mk 2" }
+
+	}
+	339 = { 								
+		tac_bomber_equipment_0 = { owner = "AAA" amount = 50 version_name = "Oepp Mk 0" }
+strat_bomber_equipment_0 = { owner = "AAA" amount = 50 version_name = "Eppeo Mk 0" }
+
+	}
+	341 = { 								
+		CAS_equipment_0 = { owner = "AAA" amount = 50 version_name = "Iospog Mk 2" }
+
+	}
+	621 = { 								
+		tac_bomber_equipment_0 = { owner = "AAA" amount = 50 version_name = "Oepp Mk 0" }
+
+	}
+	651 = { 								
+		tac_bomber_equipment_0 = { owner = "AAA" amount = 50 version_name = "Oepp Mk 0" }
+tac_bomber_equipment_0 = { owner = "AAA" amount = 50 version_name = "Oepp Mk 0" }
+
+	}
+	623 = { 								
+		strat_bomber_equipment_0 = { owner = "AAA" amount = 50 version_name = "Eoplaeng Mk 2" }
+
+	}
+	644 = { 								
+		strat_bomber_equipment_0 = { owner = "AAA" amount = 50 version_name = "Eppeo Mk 0" }
+
+	}
+	633 = { 								
+		tac_bomber_equipment_0 = { owner = "AAA" amount = 50 version_name = "Oepp Mk 0" }
+strat_bomber_equipment_0 = { owner = "AAA" amount = 50 version_name = "Eoplaeng Mk 2" }
+
+	}
+	665 = { 								
+		CAS_equipment_0 = { owner = "AAA" amount = 50 version_name = "Uablaoss Mk 0" }
+
+	}
+	647 = { 								
+		tac_bomber_equipment_0 = { owner = "AAA" amount = 50 version_name = "Oepp Mk 0" }
+
+	}
+	630 = { 								
+		tac_bomber_equipment_0 = { owner = "AAA" amount = 50 version_name = "Oepp Mk 0" }
+fighter_equipment_0 = { owner = "AAA" amount = 50 version_name = "Oeglux Mk 2" }
+
+	}
+	622 = { 								
+		tac_bomber_equipment_0 = { owner = "AAA" amount = 50 version_name = "Oepp Mk 0" }
+
+	}
+	659 = { 								
+		fighter_equipment_0 = { owner = "AAA" amount = 50 version_name = "Oeglux Mk 2" }
+
+	}
+	645 = { 								
+		tac_bomber_equipment_0 = { owner = "AAA" amount = 50 version_name = "Oepp Mk 0" }
+
+	}
+	620 = { 								
+		strat_bomber_equipment_0 = { owner = "AAA" amount = 50 version_name = "Eoplaeng Mk 2" }
+
+	}
+	646 = { 								
+		fighter_equipment_0 = { owner = "AAA" amount = 50 version_name = "Ishoa Mk 0" }
+
+	}
+	634 = { 								
+		strat_bomber_equipment_0 = { owner = "AAA" amount = 50 version_name = "Eppeo Mk 0" }
+
+	}
+	626 = { 								
+		tac_bomber_equipment_0 = { owner = "AAA" amount = 50 version_name = "Oepp Mk 0" }
+
+	}
+	637 = { 								
+		tac_bomber_equipment_0 = { owner = "AAA" amount = 50 version_name = "Oepp Mk 0" }
+tac_bomber_equipment_0 = { owner = "AAA" amount = 50 version_name = "Oepp Mk 0" }
+tac_bomber_equipment_0 = { owner = "AAA" amount = 50 version_name = "Ondua Mk 1" }
+
+	}
+	640 = { 								
+		strat_bomber_equipment_0 = { owner = "AAA" amount = 50 version_name = "Eppeo Mk 0" }
+
+	}
+	657 = { 								
+		tac_bomber_equipment_0 = { owner = "AAA" amount = 50 version_name = "Oepp Mk 0" }
+tac_bomber_equipment_0 = { owner = "AAA" amount = 50 version_name = "Oepp Mk 0" }
+
+	}
+	661 = { 								
+		tac_bomber_equipment_0 = { owner = "AAA" amount = 50 version_name = "Oepp Mk 0" }
+
+	}
+	656 = { 								
+		tac_bomber_equipment_0 = { owner = "AAA" amount = 50 version_name = "Oepp Mk 0" }
+
+	}
+	364 = { 								
+		tac_bomber_equipment_0 = { owner = "AAA" amount = 50 version_name = "Oepp Mk 0" }
+
+	}
+	387 = { 								
+		tac_bomber_equipment_0 = { owner = "AAA" amount = 50 version_name = "Oepp Mk 0" }
+
+	}
+	382 = { 								
+		tac_bomber_equipment_0 = { owner = "AAA" amount = 50 version_name = "Oepp Mk 0" }
+
+	}
+	375 = { 								
+		tac_bomber_equipment_0 = { owner = "AAA" amount = 50 version_name = "Oepp Mk 0" }
+
+	}
+	399 = { 								
+		tac_bomber_equipment_0 = { owner = "AAA" amount = 50 version_name = "Oepp Mk 0" }
+
+	}
+	368 = { 								
+		tac_bomber_equipment_0 = { owner = "AAA" amount = 50 version_name = "Oepp Mk 0" }
+
+	}
+	373 = { 								
+		CAS_equipment_0 = { owner = "AAA" amount = 50 version_name = "Uablaoss Mk 0" }
+
+	}
+	384 = { 								
+		fighter_equipment_0 = { owner = "AAA" amount = 50 version_name = "Ishoa Mk 0" }
+
+	}
+	389 = { 								
+		tac_bomber_equipment_0 = { owner = "AAA" amount = 50 version_name = "Oepp Mk 0" }
+
+	}
+	391 = { 								
+		tac_bomber_equipment_0 = { owner = "AAA" amount = 50 version_name = "Oepp Mk 0" }
+
+	}
+	394 = { 								
+		strat_bomber_equipment_0 = { owner = "AAA" amount = 50 version_name = "Eoplaeng Mk 2" }
+
+	}
+	386 = { 								
+		tac_bomber_equipment_0 = { owner = "AAA" amount = 50 version_name = "Ondua Mk 1" }
+
+	}
+	395 = { 								
+		tac_bomber_equipment_0 = { owner = "AAA" amount = 50 version_name = "Oepp Mk 0" }
+tac_bomber_equipment_0 = { owner = "AAA" amount = 50 version_name = "Oepp Mk 0" }
+tac_bomber_equipment_0 = { owner = "AAA" amount = 50 version_name = "Ondua Mk 1" }
+
+	}
+	360 = { 								
+		tac_bomber_equipment_0 = { owner = "AAA" amount = 50 version_name = "Oepp Mk 0" }
+
+	}
+	400 = { 								
+		tac_bomber_equipment_0 = { owner = "AAA" amount = 50 version_name = "Oepp Mk 0" }
+
+	}
+	388 = { 								
+		CAS_equipment_0 = { owner = "AAA" amount = 50 version_name = "Iospog Mk 2" }
+
+	}
+	408 = { 								
+		fighter_equipment_0 = { owner = "AAA" amount = 50 version_name = "Ishoa Mk 0" }
+
+	}
+	409 = { 								
+		tac_bomber_equipment_0 = { owner = "AAA" amount = 50 version_name = "Oepp Mk 0" }
+tac_bomber_equipment_0 = { owner = "AAA" amount = 50 version_name = "Oepp Mk 0" }
+
+	}
+	410 = { 								
+		tac_bomber_equipment_0 = { owner = "AAA" amount = 50 version_name = "Oepp Mk 0" }
+
+	}
+	414 = { 								
+		strat_bomber_equipment_0 = { owner = "AAA" amount = 50 version_name = "Eoplaeng Mk 2" }
+
+	}
+	416 = { 								
+		tac_bomber_equipment_0 = { owner = "AAA" amount = 50 version_name = "Oepp Mk 0" }
+
+	}
+	417 = { 								
+		tac_bomber_equipment_0 = { owner = "AAA" amount = 50 version_name = "Oepp Mk 0" }
+tac_bomber_equipment_0 = { owner = "AAA" amount = 50 version_name = "Ondua Mk 1" }
+
+	}
+	420 = { 								
+		tac_bomber_equipment_0 = { owner = "AAA" amount = 50 version_name = "Oepp Mk 0" }
+strat_bomber_equipment_0 = { owner = "AAA" amount = 50 version_name = "Eoplaeng Mk 2" }
+
+	}
+	421 = { 								
+		fighter_equipment_0 = { owner = "AAA" amount = 50 version_name = "Oeglux Mk 2" }
+
+	}
+	412 = { 								
+		strat_bomber_equipment_0 = { owner = "AAA" amount = 50 version_name = "Eppeo Mk 0" }
+
+	}
+	425 = { 								
+		tac_bomber_equipment_0 = { owner = "AAA" amount = 50 version_name = "Oepp Mk 0" }
+CAS_equipment_0 = { owner = "AAA" amount = 50 version_name = "Uablaoss Mk 0" }
+
+	}
+	451 = { 								
+		CAS_equipment_0 = { owner = "AAA" amount = 50 version_name = "Uablaoss Mk 0" }
+fighter_equipment_0 = { owner = "AAA" amount = 50 version_name = "Oeglux Mk 2" }
+
+	}
+	468 = { 								
+		fighter_equipment_0 = { owner = "AAA" amount = 50 version_name = "Oeglux Mk 2" }
+
+	}
+	452 = { 								
+		tac_bomber_equipment_0 = { owner = "AAA" amount = 50 version_name = "Oepp Mk 0" }
+tac_bomber_equipment_0 = { owner = "AAA" amount = 50 version_name = "Oepp Mk 0" }
+
+	}
+	448 = { 								
+		strat_bomber_equipment_0 = { owner = "AAA" amount = 50 version_name = "Eoplaeng Mk 2" }
+
+	}
+	450 = { 								
+		CAS_equipment_0 = { owner = "AAA" amount = 50 version_name = "Iospog Mk 2" }
+
+	}
+	453 = { 								
+		tac_bomber_equipment_0 = { owner = "AAA" amount = 50 version_name = "Oepp Mk 0" }
+
+	}
+	440 = { 								
+		CAS_equipment_0 = { owner = "AAA" amount = 50 version_name = "Uablaoss Mk 0" }
+
+	}
+	441 = { 								
+		tac_bomber_equipment_0 = { owner = "AAA" amount = 50 version_name = "Oepp Mk 0" }
+
+	}
+	446 = { 								
+		CAS_equipment_0 = { owner = "AAA" amount = 50 version_name = "Iospog Mk 2" }
+
+	}
+	449 = { 								
+		tac_bomber_equipment_0 = { owner = "AAA" amount = 50 version_name = "Oepp Mk 0" }
+
+	}
+	442 = { 								
+		tac_bomber_equipment_0 = { owner = "AAA" amount = 50 version_name = "Oepp Mk 0" }
+
+	}
+	454 = { 								
+		tac_bomber_equipment_0 = { owner = "AAA" amount = 50 version_name = "Oepp Mk 0" }
+
+	}
+	443 = { 								
+		tac_bomber_equipment_0 = { owner = "AAA" amount = 50 version_name = "Oepp Mk 0" }
+tac_bomber_equipment_0 = { owner = "AAA" amount = 50 version_name = "Oepp Mk 0" }
+tac_bomber_equipment_0 = { owner = "AAA" amount = 50 version_name = "Oepp Mk 0" }
+
+	}
+	430 = { 								
+		tac_bomber_equipment_0 = { owner = "AAA" amount = 50 version_name = "Oepp Mk 0" }
+
+	}
+	438 = { 								
+		tac_bomber_equipment_0 = { owner = "AAA" amount = 50 version_name = "Oepp Mk 0" }
+
+	}
+	447 = { 								
+		CAS_equipment_0 = { owner = "AAA" amount = 50 version_name = "Uablaoss Mk 0" }
+fighter_equipment_0 = { owner = "AAA" amount = 50 version_name = "Ishoa Mk 0" }
+
+	}
+	439 = { 								
+		fighter_equipment_0 = { owner = "AAA" amount = 50 version_name = "Ishoa Mk 0" }
+
+	}
+	459 = { 								
+		tac_bomber_equipment_0 = { owner = "AAA" amount = 50 version_name = "Oepp Mk 0" }
+
+	}
+	461 = { 								
+		tac_bomber_equipment_0 = { owner = "AAA" amount = 50 version_name = "Oepp Mk 0" }
+
+	}
+	460 = { 								
+		tac_bomber_equipment_0 = { owner = "AAA" amount = 50 version_name = "Oepp Mk 0" }
+
+	}
+	469 = { 								
+		tac_bomber_equipment_0 = { owner = "AAA" amount = 50 version_name = "Oepp Mk 0" }
+
+	}
+	479 = { 								
+		fighter_equipment_0 = { owner = "AAA" amount = 50 version_name = "Ishoa Mk 0" }
+
+	}
+	480 = { 								
+		tac_bomber_equipment_0 = { owner = "AAA" amount = 50 version_name = "Oepp Mk 0" }
+tac_bomber_equipment_0 = { owner = "AAA" amount = 50 version_name = "Oepp Mk 0" }
+strat_bomber_equipment_0 = { owner = "AAA" amount = 50 version_name = "Eppeo Mk 0" }
+
+	}
+	481 = { 								
+		tac_bomber_equipment_0 = { owner = "AAA" amount = 50 version_name = "Oepp Mk 0" }
+tac_bomber_equipment_0 = { owner = "AAA" amount = 50 version_name = "Oepp Mk 0" }
+CAS_equipment_0 = { owner = "AAA" amount = 50 version_name = "Iospog Mk 2" }
+
+	}
+	483 = { 								
+		tac_bomber_equipment_0 = { owner = "AAA" amount = 50 version_name = "Oepp Mk 0" }
+
+	}
+	519 = { 								
+		tac_bomber_equipment_0 = { owner = "AAA" amount = 50 version_name = "Oepp Mk 0" }
+
+	}
+	507 = { 								
+		tac_bomber_equipment_0 = { owner = "AAA" amount = 50 version_name = "Oepp Mk 0" }
+
+	}
+	524 = { 								
+		strat_bomber_equipment_0 = { owner = "AAA" amount = 50 version_name = "Eppeo Mk 0" }
+tac_bomber_equipment_0 = { owner = "AAA" amount = 50 version_name = "Ondua Mk 1" }
+
+	}
+	500 = { 								
+		CAS_equipment_0 = { owner = "AAA" amount = 50 version_name = "Iospog Mk 2" }
+
+	}
+	502 = { 								
+		tac_bomber_equipment_0 = { owner = "AAA" amount = 50 version_name = "Ondua Mk 1" }
+tac_bomber_equipment_0 = { owner = "AAA" amount = 50 version_name = "Ondua Mk 1" }
+
+	}
+	496 = { 								
+		tac_bomber_equipment_0 = { owner = "AAA" amount = 50 version_name = "Oepp Mk 0" }
+tac_bomber_equipment_0 = { owner = "AAA" amount = 50 version_name = "Oepp Mk 0" }
+fighter_equipment_0 = { owner = "AAA" amount = 50 version_name = "Oeglux Mk 2" }
+
+	}
+	518 = { 								
+		CAS_equipment_0 = { owner = "AAA" amount = 50 version_name = "Uablaoss Mk 0" }
+
+	}
+	511 = { 								
+		tac_bomber_equipment_0 = { owner = "AAA" amount = 50 version_name = "Oepp Mk 0" }
+strat_bomber_equipment_0 = { owner = "AAA" amount = 50 version_name = "Eoplaeng Mk 2" }
+
+	}
+	503 = { 								
+		tac_bomber_equipment_0 = { owner = "AAA" amount = 50 version_name = "Oepp Mk 0" }
+tac_bomber_equipment_0 = { owner = "AAA" amount = 50 version_name = "Oepp Mk 0" }
+
+	}
+	498 = { 								
+		tac_bomber_equipment_0 = { owner = "AAA" amount = 50 version_name = "Oepp Mk 0" }
+
+	}
+	487 = { 								
+		tac_bomber_equipment_0 = { owner = "AAA" amount = 50 version_name = "Oepp Mk 0" }
+
+	}
+	489 = { 								
+		tac_bomber_equipment_0 = { owner = "AAA" amount = 50 version_name = "Oepp Mk 0" }
+tac_bomber_equipment_0 = { owner = "AAA" amount = 50 version_name = "Oepp Mk 0" }
+
+	}
+	514 = { 								
+		tac_bomber_equipment_0 = { owner = "AAA" amount = 50 version_name = "Oepp Mk 0" }
+tac_bomber_equipment_0 = { owner = "AAA" amount = 50 version_name = "Oepp Mk 0" }
+
+	}
+	506 = { 								
+		tac_bomber_equipment_0 = { owner = "AAA" amount = 50 version_name = "Oepp Mk 0" }
+
+	}
+	517 = { 								
+		tac_bomber_equipment_0 = { owner = "AAA" amount = 50 version_name = "Oepp Mk 0" }
+
+	}
+	509 = { 								
+		strat_bomber_equipment_0 = { owner = "AAA" amount = 50 version_name = "Eppeo Mk 0" }
+
+	}
+	523 = { 								
+		tac_bomber_equipment_0 = { owner = "AAA" amount = 50 version_name = "Oepp Mk 0" }
+tac_bomber_equipment_0 = { owner = "AAA" amount = 50 version_name = "Oepp Mk 0" }
+
+	}
+	510 = { 								
+		tac_bomber_equipment_0 = { owner = "AAA" amount = 50 version_name = "Oepp Mk 0" }
+
+	}
+	492 = { 								
+		strat_bomber_equipment_0 = { owner = "AAA" amount = 50 version_name = "Eoplaeng Mk 2" }
+
+	}
+	504 = { 								
+		tac_bomber_equipment_0 = { owner = "AAA" amount = 50 version_name = "Oepp Mk 0" }
+tac_bomber_equipment_0 = { owner = "AAA" amount = 50 version_name = "Oepp Mk 0" }
+
+	}
+	515 = { 								
+		CAS_equipment_0 = { owner = "AAA" amount = 50 version_name = "Iospog Mk 2" }
+
+	}
+	526 = { 								
+		tac_bomber_equipment_0 = { owner = "AAA" amount = 50 version_name = "Oepp Mk 0" }
+tac_bomber_equipment_0 = { owner = "AAA" amount = 50 version_name = "Oepp Mk 0" }
+
+	}
+	529 = { 								
+		tac_bomber_equipment_0 = { owner = "AAA" amount = 50 version_name = "Oepp Mk 0" }
+
+	}
+	530 = { 								
+		tac_bomber_equipment_0 = { owner = "AAA" amount = 50 version_name = "Oepp Mk 0" }
+
+	}
+	532 = { 								
+		fighter_equipment_0 = { owner = "AAA" amount = 50 version_name = "Oeglux Mk 2" }
+
+	}
+	533 = { 								
+		tac_bomber_equipment_0 = { owner = "AAA" amount = 50 version_name = "Oepp Mk 0" }
+
+	}
+	535 = { 								
+		tac_bomber_equipment_0 = { owner = "AAA" amount = 50 version_name = "Oepp Mk 0" }
+tac_bomber_equipment_0 = { owner = "AAA" amount = 50 version_name = "Oepp Mk 0" }
+tac_bomber_equipment_0 = { owner = "AAA" amount = 50 version_name = "Oepp Mk 0" }
+
+	}
+	537 = { 								
+		CAS_equipment_0 = { owner = "AAA" amount = 50 version_name = "Iospog Mk 2" }
+
+	}
+	538 = { 								
+		tac_bomber_equipment_0 = { owner = "AAA" amount = 50 version_name = "Oepp Mk 0" }
+
+	}
+	542 = { 								
+		CAS_equipment_0 = { owner = "AAA" amount = 50 version_name = "Iospog Mk 2" }
+strat_bomber_equipment_0 = { owner = "AAA" amount = 50 version_name = "Eoplaeng Mk 2" }
+
+	}
+	545 = { 								
+		tac_bomber_equipment_0 = { owner = "AAA" amount = 50 version_name = "Ondua Mk 1" }
+
+	}
+	540 = { 								
+		tac_bomber_equipment_0 = { owner = "AAA" amount = 50 version_name = "Oepp Mk 0" }
+
+	}
+	547 = { 								
+		tac_bomber_equipment_0 = { owner = "AAA" amount = 50 version_name = "Oepp Mk 0" }
+
+	}
+	552 = { 								
+		tac_bomber_equipment_0 = { owner = "AAA" amount = 50 version_name = "Oepp Mk 0" }
+
+	}
+	588 = { 								
+		tac_bomber_equipment_0 = { owner = "AAA" amount = 50 version_name = "Ondua Mk 1" }
+
+	}
+	575 = { 								
+		fighter_equipment_0 = { owner = "AAA" amount = 50 version_name = "Ishoa Mk 0" }
+
+	}
+	582 = { 								
+		tac_bomber_equipment_0 = { owner = "AAA" amount = 50 version_name = "Oepp Mk 0" }
+
+	}
+	554 = { 								
+		strat_bomber_equipment_0 = { owner = "AAA" amount = 50 version_name = "Eoplaeng Mk 2" }
+
+	}
+	567 = { 								
+		fighter_equipment_0 = { owner = "AAA" amount = 50 version_name = "Ishoa Mk 0" }
+
+	}
+	562 = { 								
+		tac_bomber_equipment_0 = { owner = "AAA" amount = 50 version_name = "Oepp Mk 0" }
+
+	}
+	594 = { 								
+		tac_bomber_equipment_0 = { owner = "AAA" amount = 50 version_name = "Oepp Mk 0" }
+
+	}
+	565 = { 								
+		tac_bomber_equipment_0 = { owner = "AAA" amount = 50 version_name = "Ondua Mk 1" }
+
+	}
+	563 = { 								
+		tac_bomber_equipment_0 = { owner = "AAA" amount = 50 version_name = "Oepp Mk 0" }
+tac_bomber_equipment_0 = { owner = "AAA" amount = 50 version_name = "Oepp Mk 0" }
+
+	}
+	593 = { 								
+		tac_bomber_equipment_0 = { owner = "AAA" amount = 50 version_name = "Oepp Mk 0" }
+
+	}
+	558 = { 								
+		CAS_equipment_0 = { owner = "AAA" amount = 50 version_name = "Iospog Mk 2" }
+
+	}
+	573 = { 								
+		tac_bomber_equipment_0 = { owner = "AAA" amount = 50 version_name = "Oepp Mk 0" }
+
+	}
+	551 = { 								
+		tac_bomber_equipment_0 = { owner = "AAA" amount = 50 version_name = "Oepp Mk 0" }
+tac_bomber_equipment_0 = { owner = "AAA" amount = 50 version_name = "Oepp Mk 0" }
+
+	}
+	566 = { 								
+		tac_bomber_equipment_0 = { owner = "AAA" amount = 50 version_name = "Ondua Mk 1" }
+
+	}
+	559 = { 								
+		CAS_equipment_0 = { owner = "AAA" amount = 50 version_name = "Uablaoss Mk 0" }
+
+	}
+	580 = { 								
+		tac_bomber_equipment_0 = { owner = "AAA" amount = 50 version_name = "Oepp Mk 0" }
+tac_bomber_equipment_0 = { owner = "AAA" amount = 50 version_name = "Oepp Mk 0" }
+
+	}
+	586 = { 								
+		tac_bomber_equipment_0 = { owner = "AAA" amount = 50 version_name = "Oepp Mk 0" }
+
+	}
+	587 = { 								
+		strat_bomber_equipment_0 = { owner = "AAA" amount = 50 version_name = "Eoplaeng Mk 2" }
+
+	}
+	589 = { 								
+		CAS_equipment_0 = { owner = "AAA" amount = 50 version_name = "Iospog Mk 2" }
+
+	}
+	596 = { 								
+		tac_bomber_equipment_0 = { owner = "AAA" amount = 50 version_name = "Oepp Mk 0" }
+tac_bomber_equipment_0 = { owner = "AAA" amount = 50 version_name = "Oepp Mk 0" }
+
+	}
+	597 = { 								
+		fighter_equipment_0 = { owner = "AAA" amount = 50 version_name = "Oeglux Mk 2" }
+
+	}
+	603 = { 								
+		tac_bomber_equipment_0 = { owner = "AAA" amount = 50 version_name = "Oepp Mk 0" }
+
+	}
+	606 = { 								
+		tac_bomber_equipment_0 = { owner = "AAA" amount = 50 version_name = "Oepp Mk 0" }
+
+	}
+	604 = { 								
+		CAS_equipment_0 = { owner = "AAA" amount = 50 version_name = "Uablaoss Mk 0" }
+tac_bomber_equipment_0 = { owner = "AAA" amount = 50 version_name = "Ondua Mk 1" }
+
+	}
+	609 = { 								
+		fighter_equipment_0 = { owner = "AAA" amount = 50 version_name = "Oeglux Mk 2" }
+
+	}
+	617 = { 								
+		strat_bomber_equipment_0 = { owner = "AAA" amount = 50 version_name = "Eppeo Mk 0" }
+
+	}
+	614 = { 								
+		strat_bomber_equipment_0 = { owner = "AAA" amount = 50 version_name = "Eoplaeng Mk 2" }
+
+	}
+	616 = { 								
+		tac_bomber_equipment_0 = { owner = "AAA" amount = 50 version_name = "Oepp Mk 0" }
+
+	}
+	619 = { 								
+		tac_bomber_equipment_0 = { owner = "AAA" amount = 50 version_name = "Oepp Mk 0" }
+
+	}
+	612 = { 								
+		tac_bomber_equipment_0 = { owner = "AAA" amount = 50 version_name = "Oepp Mk 0" }
+CAS_equipment_0 = { owner = "AAA" amount = 50 version_name = "Uablaoss Mk 0" }
+
+	}
+	615 = { 								
+		tac_bomber_equipment_0 = { owner = "AAA" amount = 50 version_name = "Oepp Mk 0" }
+
+	}
+	613 = { 								
+		CAS_equipment_0 = { owner = "AAA" amount = 50 version_name = "Uablaoss Mk 0" }
+
+	}
+
+
+}

@@ -1,0 +1,37 @@
+
+state={
+	id=488
+	name="STATE_488"
+	manpower = 498491
+	
+	state_category = pastoral
+	resources={
+		aluminium=0
+		chromium=0
+		oil=0
+		rubber=0
+		steel=1
+		tungsten=0
+	}
+
+	history={
+		victory_points = { 2227 3}
+		victory_points = { 2228 1}
+		
+		owner = AAA
+		buildings = {
+			infrastructure = 1
+			air_base = 4
+			arms_factory = 0
+			industrial_complex = 1
+			
+			
+		}
+		add_core_of = AAA
+	}
+
+	provinces={
+		2226 2227 2228 
+	}
+	local_supplies=0.0 
+}

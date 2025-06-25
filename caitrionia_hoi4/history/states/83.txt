@@ -1,0 +1,40 @@
+
+state={
+	id=83
+	name="STATE_83"
+	manpower = 1652328
+	
+	state_category = city
+	resources={
+		aluminium=1
+		chromium=0
+		oil=0
+		rubber=0
+		steel=0
+		tungsten=0
+	}
+
+	history={
+		victory_points = { 260 6}
+		victory_points = { 261 7}
+		victory_points = { 264 1}
+		victory_points = { 267 5}
+		victory_points = { 268 3}
+		
+		owner = AAA
+		buildings = {
+			infrastructure = 3
+			
+			arms_factory = 2
+			industrial_complex = 2
+			
+			
+		}
+		add_core_of = AAA
+	}
+
+	provinces={
+		260 261 262 263 264 265 266 267 268 
+	}
+	local_supplies=0.0 
+}

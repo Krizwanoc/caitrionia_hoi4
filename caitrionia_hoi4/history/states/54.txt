@@ -1,0 +1,39 @@
+
+state={
+	id=54
+	name="STATE_54"
+	manpower = 635598
+	
+	state_category = town
+	resources={
+		aluminium=0
+		chromium=0
+		oil=0
+		rubber=0
+		steel=0
+		tungsten=0
+	}
+
+	history={
+		victory_points = { 131 9}
+		
+		owner = AAA
+		buildings = {
+			infrastructure = 2
+			air_base = 4
+			arms_factory = 0
+			industrial_complex = 1
+			
+			131 = {
+				naval_base = 1
+			}
+			
+		}
+		add_core_of = AAA
+	}
+
+	provinces={
+		131 132 133 
+	}
+	local_supplies=0.0 
+}

@@ -1,0 +1,38 @@
+
+state={
+	id=424
+	name="STATE_424"
+	manpower = 895738
+	
+	state_category = large_town
+	resources={
+		aluminium=0
+		chromium=0
+		oil=0
+		rubber=0
+		steel=0
+		tungsten=0
+	}
+
+	history={
+		victory_points = { 1949 6}
+		victory_points = { 1950 1}
+		victory_points = { 1951 7}
+		
+		owner = AAA
+		buildings = {
+			infrastructure = 3
+			air_base = 1
+			arms_factory = 2
+			industrial_complex = 1
+			
+			
+		}
+		add_core_of = AAA
+	}
+
+	provinces={
+		1948 1949 1950 1951 
+	}
+	local_supplies=0.0 
+}

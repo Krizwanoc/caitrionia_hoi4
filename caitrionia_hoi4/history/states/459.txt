@@ -1,0 +1,36 @@
+
+state={
+	id=459
+	name="STATE_459"
+	manpower = 512127
+	
+	state_category = rural
+	resources={
+		aluminium=0
+		chromium=0
+		oil=0
+		rubber=0
+		steel=1
+		tungsten=0
+	}
+
+	history={
+		victory_points = { 2121 8}
+		
+		owner = AAA
+		buildings = {
+			infrastructure = 3
+			air_base = 1
+			arms_factory = 0
+			industrial_complex = 1
+			
+			
+		}
+		add_core_of = AAA
+	}
+
+	provinces={
+		2120 2121 
+	}
+	local_supplies=0.0 
+}

@@ -1,0 +1,37 @@
+
+state={
+	id=461
+	name="STATE_461"
+	manpower = 1290603
+	
+	state_category = city
+	resources={
+		aluminium=0
+		chromium=3
+		oil=1
+		rubber=382
+		steel=0
+		tungsten=0
+	}
+
+	history={
+		victory_points = { 2135 13}
+		victory_points = { 2136 6}
+		
+		owner = AAA
+		buildings = {
+			infrastructure = 3
+			air_base = 2
+			arms_factory = 2
+			industrial_complex = 1
+			
+			
+		}
+		add_core_of = AAA
+	}
+
+	provinces={
+		2130 2131 2132 2133 2134 2135 2136 
+	}
+	local_supplies=0.0 
+}

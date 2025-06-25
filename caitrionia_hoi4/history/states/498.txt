@@ -1,0 +1,39 @@
+
+state={
+	id=498
+	name="STATE_498"
+	manpower = 1476675
+	
+	state_category = city
+	resources={
+		aluminium=0
+		chromium=0
+		oil=0
+		rubber=0
+		steel=0
+		tungsten=0
+	}
+
+	history={
+		victory_points = { 2271 2}
+		victory_points = { 2272 7}
+		victory_points = { 2275 7}
+		victory_points = { 2277 6}
+		
+		owner = AAA
+		buildings = {
+			infrastructure = 3
+			air_base = 1
+			arms_factory = 2
+			industrial_complex = 2
+			
+			
+		}
+		add_core_of = AAA
+	}
+
+	provinces={
+		2271 2272 2273 2274 2275 2276 2277 2278 
+	}
+	local_supplies=0.0 
+}

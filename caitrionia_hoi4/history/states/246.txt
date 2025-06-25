@@ -1,0 +1,40 @@
+
+state={
+	id=246
+	name="STATE_246"
+	manpower = 1437970
+	
+	state_category = city
+	resources={
+		aluminium=0
+		chromium=0
+		oil=1
+		rubber=0
+		steel=1
+		tungsten=0
+	}
+
+	history={
+		victory_points = { 1134 16}
+		victory_points = { 1135 6}
+		
+		owner = AAA
+		buildings = {
+			infrastructure = 3
+			
+			arms_factory = 1
+			industrial_complex = 3
+			
+			1137 = {
+				naval_base = 1
+			}
+			
+		}
+		add_core_of = AAA
+	}
+
+	provinces={
+		1132 1133 1134 1135 1136 1137 1138 
+	}
+	local_supplies=0.0 
+}

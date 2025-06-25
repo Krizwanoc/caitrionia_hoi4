@@ -1,0 +1,37 @@
+
+state={
+	id=287
+	name="STATE_287"
+	manpower = 612003
+	
+	state_category = rural
+	resources={
+		aluminium=0
+		chromium=0
+		oil=0
+		rubber=0
+		steel=1
+		tungsten=0
+	}
+
+	history={
+		victory_points = { 1324 6}
+		victory_points = { 1325 1}
+		
+		owner = AAA
+		buildings = {
+			infrastructure = 2
+			
+			arms_factory = 0
+			industrial_complex = 1
+			
+			
+		}
+		add_core_of = AAA
+	}
+
+	provinces={
+		1323 1324 1325 
+	}
+	local_supplies=0.0 
+}

@@ -1,0 +1,39 @@
+
+state={
+	id=3
+	name="STATE_3"
+	manpower = 3093
+	
+	state_category = pastoral
+	resources={
+		aluminium=0
+		chromium=0
+		oil=0
+		rubber=0
+		steel=0
+		tungsten=0
+	}
+
+	history={
+		victory_points = { 3 1}
+		
+		owner = AAA
+		buildings = {
+			infrastructure = 1
+			air_base = 1
+			arms_factory = 0
+			industrial_complex = 0
+			
+			3 = {
+				naval_base = 1
+			}
+			
+		}
+		add_core_of = AAA
+	}
+
+	provinces={
+		3 
+	}
+	local_supplies=0.0 
+}

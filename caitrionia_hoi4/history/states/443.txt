@@ -1,0 +1,37 @@
+
+state={
+	id=443
+	name="STATE_443"
+	manpower = 425260
+	
+	state_category = rural
+	resources={
+		aluminium=0
+		chromium=0
+		oil=0
+		rubber=0
+		steel=0
+		tungsten=1
+	}
+
+	history={
+		victory_points = { 2037 1}
+		victory_points = { 2038 5}
+		
+		owner = AAA
+		buildings = {
+			infrastructure = 2
+			
+			arms_factory = 0
+			industrial_complex = 1
+			
+			
+		}
+		add_core_of = AAA
+	}
+
+	provinces={
+		2037 2038 
+	}
+	local_supplies=0.0 
+}

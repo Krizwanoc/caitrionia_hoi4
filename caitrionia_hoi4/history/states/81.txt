@@ -1,0 +1,43 @@
+
+state={
+	id=81
+	name="STATE_81"
+	manpower = 1185576
+	
+	state_category = city
+	resources={
+		aluminium=1
+		chromium=0
+		oil=0
+		rubber=0
+		steel=1
+		tungsten=0
+	}
+
+	history={
+		victory_points = { 241 1}
+		victory_points = { 242 1}
+		victory_points = { 244 12}
+		victory_points = { 245 2}
+		victory_points = { 246 1}
+		
+		owner = AAA
+		buildings = {
+			infrastructure = 3
+			
+			arms_factory = 0
+			industrial_complex = 1
+			dockyard = 2
+			242 = {
+				naval_base = 1
+			}
+			
+		}
+		add_core_of = AAA
+	}
+
+	provinces={
+		241 242 243 244 245 246 
+	}
+	local_supplies=0.0 
+}

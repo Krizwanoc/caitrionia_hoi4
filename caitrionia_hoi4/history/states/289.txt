@@ -1,0 +1,39 @@
+
+state={
+	id=289
+	name="STATE_289"
+	manpower = 1344359
+	
+	state_category = city
+	resources={
+		aluminium=0
+		chromium=0
+		oil=0
+		rubber=0
+		steel=1
+		tungsten=0
+	}
+
+	history={
+		victory_points = { 1331 8}
+		victory_points = { 1332 2}
+		victory_points = { 1333 8}
+		victory_points = { 1335 1}
+		
+		owner = AAA
+		buildings = {
+			infrastructure = 3
+			
+			arms_factory = 1
+			industrial_complex = 2
+			
+			
+		}
+		add_core_of = AAA
+	}
+
+	provinces={
+		1330 1331 1332 1333 1334 1335 1336 
+	}
+	local_supplies=0.0 
+}

@@ -1,0 +1,37 @@
+
+state={
+	id=204
+	name="STATE_204"
+	manpower = 598997
+	
+	state_category = rural
+	resources={
+		aluminium=0
+		chromium=0
+		oil=1
+		rubber=0
+		steel=0
+		tungsten=0
+	}
+
+	history={
+		victory_points = { 922 2}
+		victory_points = { 924 3}
+		
+		owner = AAA
+		buildings = {
+			infrastructure = 2
+			air_base = 1
+			arms_factory = 0
+			industrial_complex = 1
+			
+			
+		}
+		add_core_of = AAA
+	}
+
+	provinces={
+		922 923 924 
+	}
+	local_supplies=0.0 
+}

@@ -1,0 +1,37 @@
+
+state={
+	id=101
+	name="STATE_101"
+	manpower = 1053613
+	
+	state_category = town
+	resources={
+		aluminium=0
+		chromium=0
+		oil=1
+		rubber=0
+		steel=0
+		tungsten=0
+	}
+
+	history={
+		victory_points = { 374 5}
+		victory_points = { 376 7}
+		
+		owner = AAA
+		buildings = {
+			infrastructure = 2
+			
+			arms_factory = 0
+			industrial_complex = 2
+			
+			
+		}
+		add_core_of = AAA
+	}
+
+	provinces={
+		374 375 376 377 378 379 
+	}
+	local_supplies=0.0 
+}

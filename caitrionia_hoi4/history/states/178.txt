@@ -1,0 +1,40 @@
+
+state={
+	id=178
+	name="STATE_178"
+	manpower = 469951
+	
+	state_category = town
+	resources={
+		aluminium=1
+		chromium=0
+		oil=0
+		rubber=0
+		steel=0
+		tungsten=0
+	}
+
+	history={
+		victory_points = { 782 1}
+		victory_points = { 783 6}
+		
+		owner = AAA
+		buildings = {
+			infrastructure = 3
+			air_base = 1
+			arms_factory = 0
+			industrial_complex = 1
+			
+			782 = {
+				naval_base = 1
+			}
+			
+		}
+		add_core_of = AAA
+	}
+
+	provinces={
+		782 783 
+	}
+	local_supplies=0.0 
+}

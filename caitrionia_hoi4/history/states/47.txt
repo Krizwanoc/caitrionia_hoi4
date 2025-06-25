@@ -1,0 +1,37 @@
+
+state={
+	id=47
+	name="STATE_47"
+	manpower = 463046
+	
+	state_category = rural
+	resources={
+		aluminium=0
+		chromium=0
+		oil=1
+		rubber=0
+		steel=1
+		tungsten=0
+	}
+
+	history={
+		victory_points = { 105 2}
+		victory_points = { 106 4}
+		
+		owner = AAA
+		buildings = {
+			infrastructure = 2
+			air_base = 1
+			arms_factory = 0
+			industrial_complex = 1
+			
+			
+		}
+		add_core_of = AAA
+	}
+
+	provinces={
+		105 106 
+	}
+	local_supplies=0.0 
+}

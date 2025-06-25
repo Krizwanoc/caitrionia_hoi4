@@ -1,0 +1,42 @@
+
+state={
+	id=569
+	name="STATE_569"
+	manpower = 884146
+	
+	state_category = large_town
+	resources={
+		aluminium=0
+		chromium=0
+		oil=0
+		rubber=0
+		steel=0
+		tungsten=0
+	}
+
+	history={
+		victory_points = { 2596 7}
+		victory_points = { 2597 2}
+		victory_points = { 2598 1}
+		victory_points = { 2599 4}
+		
+		owner = AAA
+		buildings = {
+			infrastructure = 3
+			air_base = 1
+			arms_factory = 0
+			industrial_complex = 2
+			dockyard = 1
+			2596 = {
+				naval_base = 1
+			}
+			
+		}
+		add_core_of = AAA
+	}
+
+	provinces={
+		2596 2597 2598 2599 
+	}
+	local_supplies=0.0 
+}

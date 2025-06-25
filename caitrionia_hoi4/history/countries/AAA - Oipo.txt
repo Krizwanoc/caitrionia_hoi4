@@ -1,0 +1,1304 @@
+capital = 623
+
+oob = "AAA_1936"
+if = {
+	limit = {
+		NOT = {
+			has_dlc = "No Step Back"
+		}
+	}
+	set_oob = "AAA_1936"
+}
+if = {
+	limit = {
+		has_dlc = "No Step Back"
+	}
+	set_oob = "AAA_1936_nsb"
+}
+starting_train_buffer = 2
+set_fuel_ratio = 0.8
+starting_truck_buffer = 0.8
+
+# Starting tech
+set_technology = {
+	basic_train = 1
+	infantry_weapons= 1
+	support_weapons= 1
+	tech_trucks= 1
+	tech_support= 1
+	gw_artillery= 1
+	infantry_weapons1= 1
+	armored_car1= 1
+	tech_engineers= 1
+	tech_recon= 1
+	tech_maintenance_company= 1
+	interwar_antiair= 1
+	interwar_antitank= 1
+	interwar_artillery= 1
+	basic_machine_tools= 1
+	fuel_silos= 1
+	fuel_refining= 1
+	
+}
+
+### ARMOR ###
+### Vanilla Techs ###
+if = {
+	limit = {
+		NOT = { has_dlc = "No Step Back" }
+	}
+	set_technology = {
+		gwtank = 1
+		basic_light_tank = 1
+		basic_light_tank = 1
+		basic_heavy_tank = 1
+		basic_heavy_tank = 1
+		
+	}
+}
+### NSB Techs ###
+if = {
+	limit = {
+		has_dlc = "No Step Back"
+	}
+	set_technology = {
+		gwtank_chassis = 1
+		basic_light_tank_chassis = 1
+		basic_light_tank_chassis = 1
+		basic_heavy_tank_chassis = 1
+		basic_heavy_tank_chassis = 1
+		engine_tech_1 = 1
+		armor_tech_1 = 1
+		
+	}
+}
+
+if = {
+	limit = {
+		has_dlc = "No Step Back"
+	}
+		create_equipment_variant = {
+		name = "Oegley Mk 0"
+		type = heavy_tank_chassis_0
+		parent_version = 1
+		show_position = no
+		modules = {
+			armor_type_slot = tank_cast_armor
+			engine_type_slot = tank_gasoline_engine
+			main_armament_slot = tank_heavy_cannon
+			special_type_slot_1 = secondary_turret_hmg
+			special_type_slot_2 = expanded_fuel_tank
+			special_type_slot_3 = extra_ammo_storage
+			suspension_type_slot = tank_interleaved_suspension
+			turret_type_slot = tank_heavy_fixed_superstructure_turret
+
+		}
+		icon = "GFX_ENG_basic_light_tank_medium"
+		upgrades = {
+			tank_nsb_engine_upgrade = 0
+			tank_nsb_armor_upgrade = 0
+		}
+	}
+	create_equipment_variant = {
+		name = "Ispoa Mk 2"
+		type = heavy_tank_chassis_1
+		parent_version = 1
+		show_position = no
+		modules = {
+			armor_type_slot = tank_cast_armor
+			engine_type_slot = tank_gasoline_engine
+			main_armament_slot = tank_heavy_cannon
+			special_type_slot_1 = secondary_turret_hmg
+			special_type_slot_2 = smoke_launchers
+			special_type_slot_3 = extra_ammo_storage
+			suspension_type_slot = tank_interleaved_suspension
+			turret_type_slot = tank_heavy_fixed_superstructure_turret
+
+		}
+		icon = "GFX_ENG_basic_light_tank_medium"
+		upgrades = {
+			tank_nsb_engine_upgrade = 0
+			tank_nsb_armor_upgrade = 0
+		}
+	}
+	create_equipment_variant = {
+		name = "Assoe Mk 1"
+		type = light_tank_chassis_0
+		parent_version = 1
+		show_position = no
+		modules = {
+			armor_type_slot = tank_riveted_armor
+			engine_type_slot = tank_petrol_electric_engine
+			main_armament_slot = tank_heavy_machine_gun
+			special_type_slot_1 = secondary_turret_small_cannon
+			special_type_slot_3 = extra_ammo_storage
+			suspension_type_slot = tank_bogie_suspension
+			turret_type_slot = tank_light_two_man_tank_turret
+
+		}
+		icon = "GFX_ENG_basic_light_tank_medium"
+		upgrades = {
+			tank_nsb_engine_upgrade = 0
+			tank_nsb_armor_upgrade = 0
+		}
+	}
+	create_equipment_variant = {
+		name = "Uld Mk 0"
+		type = light_tank_chassis_1
+		parent_version = 1
+		show_position = no
+		modules = {
+			armor_type_slot = tank_welded_armor
+			engine_type_slot = tank_diesel_engine
+			main_armament_slot = tank_heavy_machine_gun
+			special_type_slot_1 = secondary_turret_hmg
+			special_type_slot_2 = expanded_fuel_tank
+			special_type_slot_3 = smoke_launchers
+			suspension_type_slot = tank_bogie_suspension
+			turret_type_slot = tank_light_fixed_superstructure_turret
+
+		}
+		icon = "GFX_ENG_basic_light_tank_medium"
+		upgrades = {
+			tank_nsb_engine_upgrade = 0
+			tank_nsb_armor_upgrade = 0
+		}
+	}
+	create_equipment_variant = {
+		name = "Osheo Mk 0"
+		type = light_tank_chassis_2
+		parent_version = 1
+		show_position = no
+		modules = {
+			armor_type_slot = tank_welded_armor
+			engine_type_slot = tank_diesel_engine
+			main_armament_slot = tank_heavy_machine_gun
+			special_type_slot_1 = secondary_turret_hmg
+			special_type_slot_2 = wet_ammo_storage
+			special_type_slot_3 = extra_ammo_storage
+			suspension_type_slot = tank_torsion_bar_suspension
+			turret_type_slot = tank_light_one_man_tank_turret
+
+		}
+		icon = "GFX_ENG_basic_light_tank_medium"
+		upgrades = {
+			tank_nsb_engine_upgrade = 0
+			tank_nsb_armor_upgrade = 0
+		}
+	}
+	create_equipment_variant = {
+		name = "Oss Mk 2"
+		type = medium_tank_chassis_0
+		parent_version = 1
+		show_position = no
+		modules = {
+			armor_type_slot = tank_riveted_armor
+			engine_type_slot = tank_petrol_electric_engine
+			main_armament_slot = tank_medium_cannon
+			special_type_slot_1 = expanded_fuel_tank
+			special_type_slot_2 = extra_ammo_storage
+			special_type_slot_3 = wet_ammo_storage
+			suspension_type_slot = tank_christie_suspension
+			turret_type_slot = tank_medium_fixed_superstructure_turret
+
+		}
+		icon = "GFX_ENG_basic_light_tank_medium"
+		upgrades = {
+			tank_nsb_engine_upgrade = 0
+			tank_nsb_armor_upgrade = 0
+		}
+	}
+	create_equipment_variant = {
+		name = "Iold Mk 0"
+		type = heavy_tank_chassis_0
+		parent_version = 1
+		show_position = no
+		modules = {
+			armor_type_slot = tank_cast_armor
+			engine_type_slot = tank_petrol_electric_engine
+			main_armament_slot = tank_heavy_cannon
+			special_type_slot_1 = expanded_fuel_tank
+			special_type_slot_2 = wet_ammo_storage
+			special_type_slot_3 = smoke_launchers
+			suspension_type_slot = tank_interleaved_suspension
+			turret_type_slot = tank_heavy_three_man_tank_turret
+
+		}
+		icon = "GFX_ENG_basic_light_tank_medium"
+		upgrades = {
+			tank_nsb_engine_upgrade = 0
+			tank_nsb_armor_upgrade = 0
+		}
+	}
+	create_equipment_variant = {
+		name = "Ishue Mk 0"
+		type = heavy_tank_chassis_1
+		parent_version = 1
+		show_position = no
+		modules = {
+			armor_type_slot = tank_welded_armor
+			engine_type_slot = tank_gasoline_engine
+			main_armament_slot = tank_heavy_cannon
+			special_type_slot_1 = secondary_turret_small_cannon
+			special_type_slot_2 = extra_ammo_storage
+			suspension_type_slot = tank_christie_suspension
+			turret_type_slot = tank_heavy_two_man_tank_turret
+
+		}
+		icon = "GFX_ENG_basic_light_tank_medium"
+		upgrades = {
+			tank_nsb_engine_upgrade = 0
+			tank_nsb_armor_upgrade = 0
+		}
+	}
+	create_equipment_variant = {
+		name = "Ishue Mk 0"
+		type = light_tank_chassis_0
+		parent_version = 1
+		show_position = no
+		modules = {
+			armor_type_slot = tank_cast_armor
+			engine_type_slot = tank_gasoline_engine
+			main_armament_slot = tank_small_cannon_2
+			special_type_slot_1 = expanded_fuel_tank
+			special_type_slot_2 = smoke_launchers
+			suspension_type_slot = tank_bogie_suspension
+			turret_type_slot = tank_light_three_man_tank_turret
+
+		}
+		icon = "GFX_ENG_basic_light_tank_medium"
+		upgrades = {
+			tank_nsb_engine_upgrade = 0
+			tank_nsb_armor_upgrade = 0
+		}
+	}
+	create_equipment_variant = {
+		name = "And Mk 0"
+		type = light_tank_chassis_1
+		parent_version = 1
+		show_position = no
+		modules = {
+			armor_type_slot = tank_cast_armor
+			engine_type_slot = tank_petrol_electric_engine
+			main_armament_slot = tank_small_cannon
+			special_type_slot_1 = secondary_turret_small_cannon
+			special_type_slot_2 = expanded_fuel_tank
+			special_type_slot_3 = smoke_launchers
+			suspension_type_slot = tank_christie_suspension
+			turret_type_slot = tank_light_three_man_tank_turret
+
+		}
+		icon = "GFX_ENG_basic_light_tank_medium"
+		upgrades = {
+			tank_nsb_engine_upgrade = 0
+			tank_nsb_armor_upgrade = 0
+		}
+	}
+	create_equipment_variant = {
+		name = "Ondoa Mk 1"
+		type = medium_tank_chassis_0
+		parent_version = 1
+		show_position = no
+		modules = {
+			armor_type_slot = tank_welded_armor
+			engine_type_slot = tank_petrol_electric_engine
+			main_armament_slot = tank_medium_cannon
+			special_type_slot_1 = wet_ammo_storage
+			special_type_slot_2 = extra_ammo_storage
+			suspension_type_slot = tank_bogie_suspension
+			turret_type_slot = tank_medium_fixed_superstructure_turret
+
+		}
+		icon = "GFX_ENG_basic_light_tank_medium"
+		upgrades = {
+			tank_nsb_engine_upgrade = 0
+			tank_nsb_armor_upgrade = 0
+		}
+	}
+
+
+}
+
+
+### AIRFORCE ###
+if = {
+	limit = { has_dlc = "By Blood Alone" }
+		set_air_oob = "AAA_1936_air_bba"
+		set_technology = {
+			iw_small_airframe = 1
+			iw_medium_airframe = 1
+			iw_large_airframe = 1
+			armor_piercing_bombs = 1
+			aa_lmg = 1
+			early_bombs = 1
+			basic_small_airframe = 1
+			basic_large_airframe = 1
+			
+		}
+		create_equipment_variant = {
+			name = "Uablaoss Mk 0"
+			type = small_plane_cas_airframe_1
+			modules = {
+							engine_type_slot = engine_1_1x
+			fixed_main_weapon_slot = bomb_locks
+			special_type_slot_1 = empty
+
+			}
+		}
+		create_equipment_variant = {
+			name = "Oeglux Mk 2"
+			type = small_plane_airframe_1
+			modules = {
+							engine_type_slot = engine_1_1x
+			fixed_main_weapon_slot = light_mg_2x
+			special_type_slot_1 = empty
+
+			}
+		}
+		create_equipment_variant = {
+			name = "Eppeo Mk 0"
+			type = large_plane_airframe_1
+			modules = {
+							engine_type_slot = engine_1_4x
+			fixed_main_weapon_slot = large_bomb_bay
+			special_type_slot_1 = lmg_defense_turret
+
+			}
+		}
+		create_equipment_variant = {
+			name = "Iospog Mk 2"
+			type = small_plane_cas_airframe_0
+			modules = {
+							engine_type_slot = engine_1_1x
+			fixed_main_weapon_slot = bomb_locks
+			special_type_slot_1 = empty
+
+			}
+		}
+		create_equipment_variant = {
+			name = "Ishoa Mk 0"
+			type = small_plane_airframe_0
+			modules = {
+							engine_type_slot = engine_1_1x
+			fixed_main_weapon_slot = light_mg_2x
+			special_type_slot_1 = empty
+
+			}
+		}
+		create_equipment_variant = {
+			name = "Eoplaeng Mk 2"
+			type = large_plane_airframe_0
+			modules = {
+							engine_type_slot = engine_1_4x
+			fixed_main_weapon_slot = large_bomb_bay
+			special_type_slot_1 = lmg_defense_turret
+
+			}
+		}
+		create_equipment_variant = {
+			name = "Ondua Mk 1"
+			type = medium_plane_airframe_0
+			modules = {
+							engine_type_slot = engine_1_2x
+			fixed_main_weapon_slot = medium_bomb_bay
+			special_type_slot_1 = lmg_defense_turret
+
+			}
+		}
+
+	else = {
+		set_air_oob = "AAA_1936_air_legacy"
+		set_technology = {
+			early_fighter = 1
+			early_bomber = 1
+			strategic_bomber1 = 1
+			CAS1 = 1
+			
+		}
+	}
+}
+
+
+### NAVY ###
+######### Vanilla #########
+if = {
+	limit = {
+		not = { has_dlc = "Man the Guns" }
+	}
+	set_technology = {
+	basic_battlecruiser = 1
+	basic_battleship = 1
+	basic_destroyer = 1
+	basic_heavy_cruiser = 1
+	basic_light_cruiser = 1
+	basic_submarine = 1
+	early_battlecruiser = 1
+	early_battleship = 1
+	early_carrier = 1
+	early_destroyer = 1
+	early_heavy_cruiser = 1
+	early_light_cruiser = 1
+	early_submarine = 1
+	
+	}
+	set_naval_oob = "AAA_1936_naval"
+}
+
+### Ship Variants ###
+
+if = {
+	limit = { not = { has_dlc = "Man the Guns" } }
+	### Variants ###
+			create_equipment_variant = {
+			name = "Uand Class"
+			type = destroyer_1
+			upgrades = {
+				ship_anti_air_upgrade = 1
+				ship_torpedo_upgrade = 1
+				destroyer_engine_upgrade = 1
+				ship_ASW_upgrade = 1
+			}
+		}
+		create_equipment_variant = {
+			name = "Andao Class"
+			type = destroyer_2
+			upgrades = {
+				ship_anti_air_upgrade = 1
+				ship_torpedo_upgrade = 1
+				destroyer_engine_upgrade = 1
+				ship_ASW_upgrade = 1
+			}
+		}
+		create_equipment_variant = {
+			name = "Ispue Class"
+			type = destroyer_1
+			upgrades = {
+				ship_anti_air_upgrade = 1
+				ship_torpedo_upgrade = 1
+				destroyer_engine_upgrade = 1
+				ship_ASW_upgrade = 1
+			}
+		}
+		create_equipment_variant = {
+			name = "Eshoe Class"
+			type = destroyer_2
+			upgrades = {
+				ship_anti_air_upgrade = 1
+				ship_torpedo_upgrade = 1
+				destroyer_engine_upgrade = 1
+				ship_ASW_upgrade = 1
+			}
+		}
+		create_equipment_variant = {
+			name = "Ess Class"
+			type = light_cruiser_1
+			upgrades = {
+				ship_reliability_upgrade = 1
+				ship_anti_air_upgrade = 1
+				ship_gun_upgrade = 1
+				ship_engine_upgrade = 1
+			}
+		}
+		create_equipment_variant = {
+			name = "Oaphiond Class"
+			type = light_cruiser_1
+			upgrades = {
+				ship_reliability_upgrade = 1
+				ship_anti_air_upgrade = 1
+				ship_gun_upgrade = 1
+				ship_engine_upgrade = 1
+			}
+		}
+		create_equipment_variant = {
+			name = "Auphoh Class"
+			type = light_cruiser_2
+			upgrades = {
+				ship_reliability_upgrade = 1
+				ship_anti_air_upgrade = 1
+				ship_gun_upgrade = 1
+				ship_engine_upgrade = 1
+			}
+		}
+		create_equipment_variant = {
+			name = "Assao Class"
+			type = heavy_cruiser_1
+			upgrades = {
+				ship_reliability_upgrade = 1
+				ship_armor_upgrade = 1
+				ship_gun_upgrade = 1
+				ship_engine_upgrade = 1
+			}
+		}
+		create_equipment_variant = {
+			name = "Oebluapp Class"
+			type = heavy_cruiser_1
+			upgrades = {
+				ship_reliability_upgrade = 1
+				ship_armor_upgrade = 1
+				ship_gun_upgrade = 1
+				ship_engine_upgrade = 1
+			}
+		}
+		create_equipment_variant = {
+			name = "Iss Class"
+			type = heavy_cruiser_2
+			upgrades = {
+				ship_reliability_upgrade = 1
+				ship_armor_upgrade = 1
+				ship_gun_upgrade = 1
+				ship_engine_upgrade = 1
+			}
+		}
+		create_equipment_variant = {
+			name = "Ung Class"
+			type = battle_cruiser_1
+			upgrades = {
+				ship_reliability_upgrade = 1
+				ship_armor_upgrade = 1
+				ship_gun_upgrade = 1
+				ship_engine_upgrade = 1
+			}
+		}
+		create_equipment_variant = {
+			name = "Ashae Class"
+			type = battle_cruiser_2
+			upgrades = {
+				ship_reliability_upgrade = 1
+				ship_armor_upgrade = 1
+				ship_gun_upgrade = 1
+				ship_engine_upgrade = 1
+			}
+		}
+		create_equipment_variant = {
+			name = "Ossua Class"
+			type = battle_cruiser_1
+			upgrades = {
+				ship_reliability_upgrade = 1
+				ship_armor_upgrade = 1
+				ship_gun_upgrade = 1
+				ship_engine_upgrade = 1
+			}
+		}
+		create_equipment_variant = {
+			name = "Uppae Class"
+			type = battle_cruiser_2
+			upgrades = {
+				ship_reliability_upgrade = 1
+				ship_armor_upgrade = 1
+				ship_gun_upgrade = 1
+				ship_engine_upgrade = 1
+			}
+		}
+		create_equipment_variant = {
+			name = "Opp Class"
+			type = battleship_1
+			upgrades = {
+				ship_reliability_upgrade = 1
+				ship_armor_upgrade = 1
+				ship_gun_upgrade = 1
+				ship_engine_upgrade = 1
+			}
+		}
+		create_equipment_variant = {
+			name = "Iugluand Class"
+			type = battleship_2
+			upgrades = {
+				ship_reliability_upgrade = 1
+				ship_armor_upgrade = 1
+				ship_gun_upgrade = 1
+				ship_engine_upgrade = 1
+			}
+		}
+		create_equipment_variant = {
+			name = "Ospae Class"
+			type = battleship_1
+			upgrades = {
+				ship_reliability_upgrade = 1
+				ship_armor_upgrade = 1
+				ship_gun_upgrade = 1
+				ship_engine_upgrade = 1
+			}
+		}
+		create_equipment_variant = {
+			name = "Ondao Class"
+			type = battleship_2
+			upgrades = {
+				ship_reliability_upgrade = 1
+				ship_armor_upgrade = 1
+				ship_gun_upgrade = 1
+				ship_engine_upgrade = 1
+			}
+		}
+		create_equipment_variant = {
+			name = "Auphoh Class"
+			type = carrier_1
+			upgrades = {
+				ship_reliability_upgrade = 1
+				ship_engine_upgrade = 1
+				ship_deckspace_upgrade = 1
+			}
+		}
+		create_equipment_variant = {
+			name = "Auglil Class"
+			type = carrier_1
+			upgrades = {
+				ship_reliability_upgrade = 1
+				ship_engine_upgrade = 1
+				ship_deckspace_upgrade = 1
+			}
+		}
+		create_equipment_variant = {
+			name = "Aspua Class"
+			type = submarine_1
+			upgrades = {
+				ship_reliability_upgrade = 1
+				sub_torpedo_upgrade = 1
+				sub_engine_upgrade = 1
+				sub_stealth_upgrade = 1
+			}
+		}
+		create_equipment_variant = {
+			name = "Oaglug Class"
+			type = submarine_2
+			upgrades = {
+				ship_reliability_upgrade = 1
+				sub_torpedo_upgrade = 1
+				sub_engine_upgrade = 1
+				sub_stealth_upgrade = 1
+			}
+		}
+		create_equipment_variant = {
+			name = "Iuspaopp Class"
+			type = submarine_1
+			upgrades = {
+				ship_reliability_upgrade = 1
+				sub_torpedo_upgrade = 1
+				sub_engine_upgrade = 1
+				sub_stealth_upgrade = 1
+			}
+		}
+		create_equipment_variant = {
+			name = "Aobluv Class"
+			type = submarine_2
+			upgrades = {
+				ship_reliability_upgrade = 1
+				sub_torpedo_upgrade = 1
+				sub_engine_upgrade = 1
+				sub_stealth_upgrade = 1
+			}
+		}
+
+}
+
+
+######### MTG #########
+
+if = {
+	limit = {
+		has_dlc = "Man the Guns"
+	}
+	set_technology = {
+	basic_battery = 1
+	basic_cruiser_armor_scheme = 1
+	basic_depth_charges = 1
+	basic_heavy_armor_scheme = 1
+	basic_heavy_battery = 1
+	basic_light_battery = 1
+	basic_naval_mines = 1
+	basic_ship_hull_cruiser = 1
+	basic_ship_hull_heavy = 1
+	basic_ship_hull_light = 1
+	basic_ship_hull_submarine = 1
+	early_ship_hull_carrier = 1
+	early_ship_hull_cruiser = 1
+	early_ship_hull_heavy = 1
+	early_ship_hull_light = 1
+	early_ship_hull_submarine = 1
+	improved_depth_charges = 1
+	mtg_transport = 1
+	smoke_generator = 1
+	sonar = 1
+	submarine_mine_laying = 1
+	
+	}
+	set_naval_oob = "AAA_1936_naval_mtg"
+}
+
+	if = {
+		limit = {
+			has_dlc = "Man the Guns"
+		}
+		create_equipment_variant = {
+			name = "Uand Class"
+			type = ship_hull_light_1
+			parent_version = 0
+			modules = {
+				fixed_ship_anti_air_slot = empty
+				fixed_ship_battery_slot = ship_light_battery_1
+				fixed_ship_engine_slot = light_ship_engine_1
+				fixed_ship_fire_control_system_slot = empty
+				fixed_ship_radar_slot = empty
+				fixed_ship_torpedo_slot = ship_torpedo_1
+				mid_1_custom_slot = ship_torpedo_1
+				rear_1_custom_slot = ship_torpedo_1
+			}
+		}
+		create_equipment_variant = {
+			name = "Andao Class"
+			type = ship_hull_light_2
+			parent_version = 0
+			modules = {
+				fixed_ship_anti_air_slot = empty
+				fixed_ship_battery_slot = ship_light_battery_2
+				fixed_ship_engine_slot = light_ship_engine_2
+				fixed_ship_fire_control_system_slot = empty
+				fixed_ship_radar_slot = empty
+				fixed_ship_torpedo_slot = ship_torpedo_1
+				mid_1_custom_slot = empty
+				rear_1_custom_slot = ship_torpedo_1
+			}
+		}
+		create_equipment_variant = {
+			name = "Ispue Class"
+			type = ship_hull_light_1
+			parent_version = 0
+			modules = {
+				fixed_ship_anti_air_slot = empty
+				fixed_ship_battery_slot = ship_light_battery_1
+				fixed_ship_engine_slot = light_ship_engine_1
+				fixed_ship_fire_control_system_slot = empty
+				fixed_ship_radar_slot = empty
+				fixed_ship_torpedo_slot = empty
+				mid_1_custom_slot = ship_mine_layer_1
+				rear_1_custom_slot = empty
+			}
+		}
+		create_equipment_variant = {
+			name = "Eshoe Class"
+			type = ship_hull_light_2
+			parent_version = 0
+			modules = {
+				fixed_ship_anti_air_slot = empty
+				fixed_ship_battery_slot = ship_light_battery_2
+				fixed_ship_engine_slot = light_ship_engine_2
+				fixed_ship_fire_control_system_slot = empty
+				fixed_ship_radar_slot = empty
+				fixed_ship_torpedo_slot = empty
+				mid_1_custom_slot = empty
+				rear_1_custom_slot = ship_depth_charge_2
+			}
+		}
+		create_equipment_variant = {
+			name = "Ess Class"
+			type = ship_hull_cruiser_1
+			parent_version = 0
+			modules = {
+				fixed_ship_anti_air_slot = empty
+				fixed_ship_armor_slot = empty
+				fixed_ship_battery_slot = ship_medium_battery_1
+				fixed_ship_engine_slot = cruiser_ship_engine_1
+				fixed_ship_fire_control_system_slot = ship_sonar_1
+				fixed_ship_radar_slot = empty
+				mid_1_custom_slot = ship_mine_layer_1
+				mid_2_custom_slot = empty
+				rear_1_custom_slot = empty
+			}
+		}
+		create_equipment_variant = {
+			name = "Oaphiond Class"
+			type = ship_hull_cruiser_1
+			parent_version = 0
+			modules = {
+				fixed_ship_anti_air_slot = empty
+				fixed_ship_armor_slot = ship_armor_cruiser_1
+				fixed_ship_battery_slot = ship_medium_battery_1
+				fixed_ship_engine_slot = cruiser_ship_engine_1
+				fixed_ship_fire_control_system_slot = ship_sonar_1
+				fixed_ship_radar_slot = empty
+				mid_1_custom_slot = empty
+				mid_2_custom_slot = ship_medium_battery_1
+				rear_1_custom_slot = ship_medium_battery_1
+			}
+		}
+		create_equipment_variant = {
+			name = "Auphoh Class"
+			type = ship_hull_cruiser_2
+			parent_version = 0
+			modules = {
+				fixed_ship_anti_air_slot = empty
+				fixed_ship_armor_slot = ship_armor_cruiser_2
+				fixed_ship_battery_slot = ship_medium_battery_1
+				fixed_ship_engine_slot = cruiser_ship_engine_2
+				fixed_ship_fire_control_system_slot = ship_sonar_1
+				fixed_ship_radar_slot = empty
+				mid_1_custom_slot = ship_mine_layer_1
+				mid_2_custom_slot = ship_secondaries_1
+				rear_1_custom_slot = empty
+			}
+		}
+		create_equipment_variant = {
+			name = "Assao Class"
+			type = ship_hull_cruiser_1
+			parent_version = 0
+			modules = {
+				fixed_ship_anti_air_slot = empty
+				fixed_ship_armor_slot = empty
+				fixed_ship_battery_slot = ship_medium_battery_1
+				fixed_ship_engine_slot = cruiser_ship_engine_1
+				fixed_ship_fire_control_system_slot = ship_sonar_1
+				fixed_ship_radar_slot = empty
+				mid_1_custom_slot = ship_mine_layer_1
+				mid_2_custom_slot = empty
+				rear_1_custom_slot = ship_mine_layer_1
+			}
+		}
+		create_equipment_variant = {
+			name = "Oebluapp Class"
+			type = ship_hull_cruiser_1
+			parent_version = 0
+			modules = {
+				fixed_ship_anti_air_slot = empty
+				fixed_ship_armor_slot = ship_armor_cruiser_1
+				fixed_ship_battery_slot = ship_medium_battery_1
+				fixed_ship_engine_slot = cruiser_ship_engine_1
+				fixed_ship_fire_control_system_slot = ship_sonar_1
+				fixed_ship_radar_slot = empty
+				mid_1_custom_slot = ship_medium_battery_1
+				mid_2_custom_slot = ship_mine_layer_1
+				rear_1_custom_slot = ship_medium_battery_1
+			}
+		}
+		create_equipment_variant = {
+			name = "Iss Class"
+			type = ship_hull_cruiser_2
+			parent_version = 0
+			modules = {
+				fixed_ship_anti_air_slot = empty
+				fixed_ship_armor_slot = ship_armor_cruiser_2
+				fixed_ship_battery_slot = ship_medium_battery_1
+				fixed_ship_engine_slot = cruiser_ship_engine_2
+				fixed_ship_fire_control_system_slot = ship_sonar_1
+				fixed_ship_radar_slot = empty
+				mid_1_custom_slot = ship_mine_layer_1
+				mid_2_custom_slot = empty
+				rear_1_custom_slot = ship_mine_layer_1
+			}
+		}
+		create_equipment_variant = {
+			name = "Ung Class"
+			type = ship_hull_heavy_1
+			parent_version = 0
+			modules = {
+				fixed_ship_anti_air_slot = empty
+				fixed_ship_armor_slot = empty
+				fixed_ship_battery_slot = ship_heavy_battery_1
+				fixed_ship_engine_slot = heavy_ship_engine_1
+				fixed_ship_fire_control_system_slot = empty
+				fixed_ship_radar_slot = empty
+				front_1_custom_slot = empty
+				mid_1_custom_slot = empty
+				mid_2_custom_slot = empty
+				rear_1_custom_slot = empty
+			}
+		}
+		create_equipment_variant = {
+			name = "Ashae Class"
+			type = ship_hull_heavy_2
+			parent_version = 0
+			modules = {
+				fixed_ship_anti_air_slot = empty
+				fixed_ship_armor_slot = empty
+				fixed_ship_battery_slot = ship_heavy_battery_1
+				fixed_ship_engine_slot = heavy_ship_engine_2
+				fixed_ship_fire_control_system_slot = empty
+				fixed_ship_radar_slot = empty
+				front_1_custom_slot = empty
+				mid_1_custom_slot = empty
+				mid_2_custom_slot = empty
+				rear_1_custom_slot = empty
+			}
+		}
+		create_equipment_variant = {
+			name = "Ossua Class"
+			type = ship_hull_heavy_1
+			parent_version = 0
+			modules = {
+				fixed_ship_anti_air_slot = empty
+				fixed_ship_armor_slot = ship_armor_bc_1
+				fixed_ship_battery_slot = ship_heavy_battery_1
+				fixed_ship_engine_slot = heavy_ship_engine_1
+				fixed_ship_fire_control_system_slot = empty
+				fixed_ship_radar_slot = empty
+				front_1_custom_slot = empty
+				mid_1_custom_slot = empty
+				mid_2_custom_slot = empty
+				rear_1_custom_slot = ship_heavy_battery_1
+			}
+		}
+		create_equipment_variant = {
+			name = "Uppae Class"
+			type = ship_hull_heavy_2
+			parent_version = 0
+			modules = {
+				fixed_ship_anti_air_slot = empty
+				fixed_ship_armor_slot = ship_armor_bc_2
+				fixed_ship_battery_slot = ship_heavy_battery_2
+				fixed_ship_engine_slot = heavy_ship_engine_2
+				fixed_ship_fire_control_system_slot = empty
+				fixed_ship_radar_slot = empty
+				front_1_custom_slot = ship_heavy_battery_2
+				mid_1_custom_slot = ship_secondaries_1
+				mid_2_custom_slot = empty
+				rear_1_custom_slot = ship_heavy_battery_2
+			}
+		}
+		create_equipment_variant = {
+			name = "Opp Class"
+			type = ship_hull_heavy_1
+			parent_version = 0
+			modules = {
+				fixed_ship_anti_air_slot = empty
+				fixed_ship_armor_slot = empty
+				fixed_ship_battery_slot = ship_heavy_battery_1
+				fixed_ship_engine_slot = heavy_ship_engine_1
+				fixed_ship_fire_control_system_slot = empty
+				fixed_ship_radar_slot = empty
+				front_1_custom_slot = ship_heavy_battery_1
+				mid_1_custom_slot = empty
+				mid_2_custom_slot = empty
+				rear_1_custom_slot = ship_heavy_battery_1
+			}
+		}
+		create_equipment_variant = {
+			name = "Iugluand Class"
+			type = ship_hull_heavy_2
+			parent_version = 0
+			modules = {
+				fixed_ship_anti_air_slot = empty
+				fixed_ship_armor_slot = empty
+				fixed_ship_battery_slot = ship_heavy_battery_1
+				fixed_ship_engine_slot = heavy_ship_engine_2
+				fixed_ship_fire_control_system_slot = empty
+				fixed_ship_radar_slot = empty
+				front_1_custom_slot = ship_heavy_battery_1
+				mid_1_custom_slot = ship_secondaries_2
+				mid_2_custom_slot = empty
+				rear_1_custom_slot = ship_secondaries_2
+			}
+		}
+		create_equipment_variant = {
+			name = "Ospae Class"
+			type = ship_hull_heavy_1
+			parent_version = 0
+			modules = {
+				fixed_ship_anti_air_slot = empty
+				fixed_ship_armor_slot = ship_armor_bb_1
+				fixed_ship_battery_slot = ship_heavy_battery_1
+				fixed_ship_engine_slot = heavy_ship_engine_1
+				fixed_ship_fire_control_system_slot = empty
+				fixed_ship_radar_slot = empty
+				front_1_custom_slot = empty
+				mid_1_custom_slot = empty
+				mid_2_custom_slot = empty
+				rear_1_custom_slot = ship_heavy_battery_1
+			}
+		}
+		create_equipment_variant = {
+			name = "Ondao Class"
+			type = ship_hull_heavy_2
+			parent_version = 0
+			modules = {
+				fixed_ship_anti_air_slot = empty
+				fixed_ship_armor_slot = ship_armor_bb_2
+				fixed_ship_battery_slot = ship_heavy_battery_2
+				fixed_ship_engine_slot = heavy_ship_engine_2
+				fixed_ship_fire_control_system_slot = empty
+				fixed_ship_radar_slot = empty
+				front_1_custom_slot = empty
+				mid_1_custom_slot = empty
+				mid_2_custom_slot = empty
+				rear_1_custom_slot = ship_secondaries_1
+			}
+		}
+		create_equipment_variant = {
+			name = "Auphoh Class"
+			type = ship_hull_carrier_1
+			parent_version = 0
+			modules = {
+				fixed_ship_anti_air_slot = empty
+				fixed_ship_armor_slot = empty
+				fixed_ship_deck_slot_1 = ship_deck_space
+				fixed_ship_deck_slot_2 = ship_deck_space
+				fixed_ship_engine_slot = carrier_ship_engine_1
+				fixed_ship_radar_slot = empty
+				fixed_ship_secondaries_slot = ship_secondaries_1
+				front_1_custom_slot = ship_armor_carrier_deck
+				mid_1_custom_slot = empty
+			}
+		}
+		create_equipment_variant = {
+			name = "Auglil Class"
+			type = ship_hull_carrier_1
+			parent_version = 0
+			modules = {
+				fixed_ship_anti_air_slot = empty
+				fixed_ship_armor_slot = ship_armor_cruiser_1
+				fixed_ship_deck_slot_1 = ship_deck_space
+				fixed_ship_deck_slot_2 = ship_deck_space
+				fixed_ship_engine_slot = carrier_ship_engine_1
+				fixed_ship_radar_slot = empty
+				fixed_ship_secondaries_slot = ship_secondaries_1
+				front_1_custom_slot = empty
+				mid_1_custom_slot = ship_armor_carrier_deck
+			}
+		}
+		create_equipment_variant = {
+			name = "Aspua Class"
+			type = ship_hull_submarine_1
+			parent_version = 0
+			modules = {
+				fixed_ship_engine_slot = sub_ship_engine_1
+				fixed_ship_torpedo_slot = ship_torpedo_sub_1
+				rear_1_custom_slot = empty
+			}
+		}
+		create_equipment_variant = {
+			name = "Oaglug Class"
+			type = ship_hull_submarine_2
+			parent_version = 0
+			modules = {
+				fixed_ship_engine_slot = sub_ship_engine_2
+				fixed_ship_torpedo_slot = ship_torpedo_sub_2
+				rear_1_custom_slot = empty
+			}
+		}
+		create_equipment_variant = {
+			name = "Iuspaopp Class"
+			type = ship_hull_submarine_1
+			parent_version = 0
+			modules = {
+				fixed_ship_engine_slot = sub_ship_engine_1
+				fixed_ship_torpedo_slot = ship_torpedo_sub_1
+				rear_1_custom_slot = ship_torpedo_sub_1
+			}
+		}
+		create_equipment_variant = {
+			name = "Aobluv Class"
+			type = ship_hull_submarine_2
+			parent_version = 0
+			modules = {
+				fixed_ship_engine_slot = sub_ship_engine_2
+				fixed_ship_torpedo_slot = ship_torpedo_sub_2
+				rear_1_custom_slot = empty
+			}
+		}
+
+	}
+
+
+recruit_character = AAA_Oppua_Ispae
+recruit_character = AAA_Aospoc_Eobloand
+recruit_character = AAA_Oephuend_Aond
+recruit_character = AAA_Uspoa_Eospeold
+recruit_character = AAA_Oaspux_Oeld
+recruit_character = AAA_Aebloepp_Eophag
+recruit_character = AAA_Ess_Ispae
+recruit_character = AAA_Aoglic_Appio
+recruit_character = AAA_Oeplel_Ong
+recruit_character = AAA_Uss_Eopheb
+recruit_character = AAA_Aublel_Oeld
+recruit_character = AAA_Ashoe_Appio
+recruit_character = AAA_Aoglic_Aond
+recruit_character = AAA_Ishau_Uaglaung
+recruit_character = AAA_Aoss_Uablaepp
+recruit_character = AAA_Ossoa_Oagliuss
+recruit_character = AAA_Oagliong_Ong
+recruit_character = AAA_Oald_Aospoh
+recruit_character = AAA_Andao_Eobloand
+recruit_character = AAA_Aoss_Oableong
+recruit_character = AAA_Aogleq_Oagliuss
+recruit_character = AAA_Oppio_Eophueng
+recruit_character = AAA_Uaphuand_Und
+recruit_character = AAA_Iopluass_Aospog
+recruit_character = AAA_Ossua_Eophueng
+recruit_character = AAA_Uss_Ispue
+recruit_character = AAA_Aoss_Uppoe
+recruit_character = AAA_Ueploapp_Oagliuss
+recruit_character = AAA_Oald_Uaglaung
+recruit_character = AAA_Iophoapp_Ishiu
+recruit_character = AAA_Indau_Uabloapp
+recruit_character = AAA_Uald_Eospeold
+recruit_character = AAA_Ussua_Oeld
+recruit_character = AAA_Uaspet_And
+recruit_character = AAA_Uand_Oeblaupp
+recruit_character = AAA_Ippae_Oppoa
+recruit_character = AAA_Oaspaond_Eld
+recruit_character = AAA_Undiu_Oaglag
+recruit_character = AAA_Ussua_Oableong
+recruit_character = AAA_Oaspaond_Undio
+recruit_character = AAA_Oablaong_Aoplim
+recruit_character = AAA_Oagliong_Uaglaung
+recruit_character = AAA_Aupp_Iung
+recruit_character = AAA_Uand_Eophueng
+recruit_character = AAA_Uspoe_Oeblaupp
+recruit_character = AAA_Ippae_Uppoe
+recruit_character = AAA_Ild_Eshue
+recruit_character = AAA_Aspiu_Uppoa
+recruit_character = AAA_Aepp_Uass
+recruit_character = AAA_Ioploeng_Uagluang
+recruit_character = AAA_Ospua_Eobloand
+recruit_character = AAA_Aospoeld_Und
+recruit_character = AAA_Ing_Aospoh
+recruit_character = AAA_Iophoapp_Ushue
+recruit_character = AAA_Indeo_Aeblauld
+recruit_character = AAA_Eoss_Ung
+recruit_character = AAA_Aong_Issoe
+recruit_character = AAA_Indeo_Iung
+recruit_character = AAA_Aoglic_Ong
+recruit_character = AAA_Oepp_Oppoa
+recruit_character = AAA_Uaphug_Ishua
+recruit_character = AAA_Ueglob_Oaspup
+recruit_character = AAA_Ueblaq_Oephoass
+recruit_character = AAA_Oppio_Oeplaepp
+recruit_character = AAA_Oppio_Iuspeoss
+recruit_character = AAA_Iong_Aospoh
+recruit_character = AAA_Aepp_And
+recruit_character = AAA_Oaspux_Iuspeoss
+recruit_character = AAA_Oaspaond_Oableong
+recruit_character = AAA_Uaphuand_Iuglay
+recruit_character = AAA_Uespep_Oagliuss
+recruit_character = AAA_Iophew_And
+recruit_character = AAA_Aespev_Oableong
+recruit_character = AAA_Aogleq_Appio
+recruit_character = AAA_Oagliong_Uppoa
+recruit_character = AAA_Uephur_Endoa
+recruit_character = AAA_Oald_Oeblaupp
+recruit_character = AAA_Oppua_Oaglon
+recruit_character = AAA_Aspiu_Ushue
+recruit_character = AAA_Uaspet_Oeplaepp
+recruit_character = AAA_Aospoeld_Andua
+recruit_character = AAA_Ueploapp_Aond
+recruit_character = AAA_Oeplel_Aobloess
+recruit_character = AAA_Oppeo_Esseo
+recruit_character = AAA_Uephur_Undio
+recruit_character = AAA_Uand_Ushue
+recruit_character = AAA_Ashoe_Aoplim
+recruit_character = AAA_Ishau_Iuglay
+recruit_character = AAA_Oeplel_And
+recruit_character = AAA_Indau_Ishiu
+recruit_character = AAA_Oald_Eospeold
+recruit_character = AAA_Endeo_Ung
+recruit_character = AAA_Endio_Oaglag
+recruit_character = AAA_Aebloepp_Uablaepp
+recruit_character = AAA_Aebloepp_Ossio
+recruit_character = AAA_Ishau_Oaplam
+recruit_character = AAA_Ald_Undua
+recruit_character = AAA_Uppio_Uaglag
+recruit_character = AAA_End_Eopheb
+recruit_character = AAA_Oppue_Oaplam
+recruit_character = AAA_Ueblaq_Aobloess
+recruit_character = AAA_Ind_Oaspoh
+recruit_character = AAA_Uspoa_Und
+recruit_character = AAA_Aopp_Appio
+recruit_character = AAA_Ussua_And
+recruit_character = AAA_End_Ushue
+recruit_character = AAA_Aeld_Appio
+recruit_character = AAA_Oppeo_Ispue
+recruit_character = AAA_Aoplig_Aeblauld
+recruit_character = AAA_Aupp_Eshue
+recruit_character = AAA_Espoe_Ossio
+recruit_character = AAA_Iopluass_Eshue
+recruit_character = AAA_Aoglic_Uegled
+recruit_character = AAA_Uppio_Oeblaupp
+recruit_character = AAA_Oass_Undio
+recruit_character = AAA_Oppio_Oeld
+recruit_character = AAA_Ippae_Oaglon
+recruit_character = AAA_Ind_Ong
+recruit_character = AAA_Aepp_Ishiu
+recruit_character = AAA_Ueploapp_Uaglag
+recruit_character = AAA_Aeld_Esseo
+recruit_character = AAA_Indau_Oeld
+recruit_character = AAA_Iophew_Oephoass
+recruit_character = AAA_Uppio_Eopheb
+recruit_character = AAA_Ioploeng_Aond
+recruit_character = AAA_Eng_Aobloass
+recruit_character = AAA_Ospae_Aospoh
+recruit_character = AAA_Oald_Uegled
+recruit_character = AAA_Aospoc_Iung
+recruit_character = AAA_Aepp_Ossio
+recruit_character = AAA_Uaphuand_Aublox
+recruit_character = AAA_Epp_Uaglag
+recruit_character = AAA_Uespep_Iuspeoss
+recruit_character = AAA_Andao_Uabloapp
+recruit_character = AAA_Ossau_Oephoass
+recruit_character = AAA_Iong_Uagluang
+recruit_character = AAA_Oass_And
+recruit_character = AAA_Oss_Oableong
+recruit_character = AAA_Uld_Oaglag
+recruit_character = AAA_Ashoe_Aublox
+recruit_character = AAA_Uaphuand_Und
+recruit_character = AAA_Aopp_Aobloass
+recruit_character = AAA_Uephur_Uablaepp
+recruit_character = AAA_Ippae_Ioplar
+recruit_character = AAA_Aoglic_Oaspup
+recruit_character = AAA_Ossua_Oagliuss
+recruit_character = AAA_Uephur_Aoplim
+recruit_character = AAA_Espoe_Eopheb
+recruit_character = AAA_Ashoe_Uppoe
+recruit_character = AAA_Aend_Uaglaung
+recruit_character = AAA_Iophoapp_Undua
+recruit_character = AAA_Ussua_Eophag
+recruit_character = AAA_Iss_Ung
+recruit_character = AAA_Eoss_Oeblaupp
+recruit_character = AAA_Aospoeld_Aublox
+recruit_character = AAA_Assue_Oaglon
+recruit_character = AAA_Andao_Und
+recruit_character = AAA_Oephuend_Undio
+recruit_character = AAA_Ashoe_Aoplim
+recruit_character = AAA_Aespev_Aeblauld
+recruit_character = AAA_Aospoeld_Eobloand
+recruit_character = AAA_Endeo_Eospeold
+recruit_character = AAA_Oaspaond_Oagliuss
+recruit_character = AAA_Oppue_Uaglag
+recruit_character = AAA_Aebloepp_Undua
+recruit_character = AAA_Eppae_And
+recruit_character = AAA_Oephaend_Ossio
+recruit_character = AAA_Oepp_Aoplim
+recruit_character = AAA_Aoglic_Eospeold
+recruit_character = AAA_Uld_Uaglaung
+recruit_character = AAA_Ippae_Undua
+recruit_character = AAA_Aeld_Aobloass
+recruit_character = AAA_Ussae_Oagliuss
+recruit_character = AAA_Aoplig_Aoplim
+
+
+if = {
+	limit = {
+		has_dlc = "La Resistance"
+	}
+	set_technology = {
+		armored_car1 = 1
+	}
+}
+set_research_slots = 5
+set_convoys = 1017
+set_stability = 0
+set_war_support = 13
+
+set_politics = {
+	ruling_party = democratic
+	last_election = "1934.4.26"
+	election_frequency = 48
+	elections_allowed = yes
+}
+set_popularities = {
+	democratic = 49
+	fascism = 0
+	communism = 41
+	neutrality = 10
+}
+
+
+#create_faction = templateFactionName
+#add_to_faction = AAA
+

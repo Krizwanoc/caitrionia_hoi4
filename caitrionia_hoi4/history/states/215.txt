@@ -1,0 +1,38 @@
+
+state={
+	id=215
+	name="STATE_215"
+	manpower = 770832
+	
+	state_category = town
+	resources={
+		aluminium=0
+		chromium=0
+		oil=0
+		rubber=0
+		steel=0
+		tungsten=0
+	}
+
+	history={
+		victory_points = { 970 5}
+		victory_points = { 971 5}
+		victory_points = { 972 1}
+		
+		owner = AAA
+		buildings = {
+			infrastructure = 3
+			air_base = 1
+			arms_factory = 1
+			industrial_complex = 1
+			
+			
+		}
+		add_core_of = AAA
+	}
+
+	provinces={
+		969 970 971 972 
+	}
+	local_supplies=0.0 
+}

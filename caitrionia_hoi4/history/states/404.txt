@@ -1,0 +1,43 @@
+
+state={
+	id=404
+	name="STATE_404"
+	manpower = 1364223
+	
+	state_category = large_city
+	resources={
+		aluminium=0
+		chromium=0
+		oil=0
+		rubber=0
+		steel=0
+		tungsten=1
+	}
+
+	history={
+		victory_points = { 1866 7}
+		victory_points = { 1867 4}
+		victory_points = { 1868 8}
+		victory_points = { 1869 1}
+		victory_points = { 1870 2}
+		
+		owner = AAA
+		buildings = {
+			infrastructure = 3
+			
+			arms_factory = 2
+			industrial_complex = 3
+			
+			1867 = {
+				naval_base = 1
+			}
+			
+		}
+		add_core_of = AAA
+	}
+
+	provinces={
+		1865 1866 1867 1868 1869 1870 
+	}
+	local_supplies=0.0 
+}

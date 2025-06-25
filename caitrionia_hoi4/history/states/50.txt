@@ -1,0 +1,41 @@
+
+state={
+	id=50
+	name="STATE_50"
+	manpower = 778322
+	
+	state_category = large_town
+	resources={
+		aluminium=0
+		chromium=0
+		oil=0
+		rubber=0
+		steel=0
+		tungsten=0
+	}
+
+	history={
+		victory_points = { 114 1}
+		victory_points = { 115 2}
+		victory_points = { 116 9}
+		
+		owner = AAA
+		buildings = {
+			infrastructure = 3
+			air_base = 1
+			arms_factory = 1
+			industrial_complex = 2
+			
+			115 = {
+				naval_base = 1
+			}
+			
+		}
+		add_core_of = AAA
+	}
+
+	provinces={
+		114 115 116 
+	}
+	local_supplies=0.0 
+}

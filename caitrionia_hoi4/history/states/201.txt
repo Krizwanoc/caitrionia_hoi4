@@ -1,0 +1,40 @@
+
+state={
+	id=201
+	name="STATE_201"
+	manpower = 1847845
+	
+	state_category = megalopolis
+	resources={
+		aluminium=0
+		chromium=0
+		oil=0
+		rubber=0
+		steel=2
+		tungsten=0
+	}
+
+	history={
+		victory_points = { 906 5}
+		victory_points = { 907 7}
+		victory_points = { 909 12}
+		victory_points = { 910 2}
+		victory_points = { 913 3}
+		
+		owner = AAA
+		buildings = {
+			infrastructure = 3
+			air_base = 3
+			arms_factory = 3
+			industrial_complex = 3
+			
+			
+		}
+		add_core_of = AAA
+	}
+
+	provinces={
+		906 907 908 909 910 911 912 913 914 
+	}
+	local_supplies=0.0 
+}

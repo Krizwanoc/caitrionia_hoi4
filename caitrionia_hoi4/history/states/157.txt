@@ -1,0 +1,42 @@
+
+state={
+	id=157
+	name="STATE_157"
+	manpower = 1713674
+	
+	state_category = megalopolis
+	resources={
+		aluminium=0
+		chromium=0
+		oil=1
+		rubber=0
+		steel=0
+		tungsten=0
+	}
+
+	history={
+		victory_points = { 672 3}
+		victory_points = { 674 3}
+		victory_points = { 675 23}
+		victory_points = { 677 1}
+		
+		owner = AAA
+		buildings = {
+			infrastructure = 4
+			
+			arms_factory = 3
+			industrial_complex = 1
+			dockyard = 2
+			675 = {
+				naval_base = 1
+			}
+			
+		}
+		add_core_of = AAA
+	}
+
+	provinces={
+		672 673 674 675 676 677 678 
+	}
+	local_supplies=0.0 
+}

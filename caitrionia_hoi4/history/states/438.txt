@@ -1,0 +1,38 @@
+
+state={
+	id=438
+	name="STATE_438"
+	manpower = 1295723
+	
+	state_category = large_city
+	resources={
+		aluminium=0
+		chromium=0
+		oil=0
+		rubber=0
+		steel=0
+		tungsten=0
+	}
+
+	history={
+		victory_points = { 2012 9}
+		victory_points = { 2013 4}
+		victory_points = { 2014 7}
+		
+		owner = AAA
+		buildings = {
+			infrastructure = 3
+			
+			arms_factory = 1
+			industrial_complex = 3
+			
+			
+		}
+		add_core_of = AAA
+	}
+
+	provinces={
+		2009 2010 2011 2012 2013 2014 
+	}
+	local_supplies=0.0 
+}

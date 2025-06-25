@@ -1,0 +1,40 @@
+
+state={
+	id=291
+	name="STATE_291"
+	manpower = 890973
+	
+	state_category = large_town
+	resources={
+		aluminium=0
+		chromium=0
+		oil=0
+		rubber=0
+		steel=0
+		tungsten=0
+	}
+
+	history={
+		victory_points = { 1344 9}
+		victory_points = { 1346 7}
+		
+		owner = AAA
+		buildings = {
+			infrastructure = 3
+			air_base = 2
+			arms_factory = 1
+			industrial_complex = 2
+			
+			1344 = {
+				naval_base = 1
+			}
+			
+		}
+		add_core_of = AAA
+	}
+
+	provinces={
+		1344 1345 1346 1347 
+	}
+	local_supplies=0.0 
+}

@@ -1,0 +1,40 @@
+
+state={
+	id=62
+	name="STATE_62"
+	manpower = 392181
+	
+	state_category = pastoral
+	resources={
+		aluminium=0
+		chromium=0
+		oil=0
+		rubber=0
+		steel=0
+		tungsten=0
+	}
+
+	history={
+		victory_points = { 154 3}
+		victory_points = { 155 1}
+		
+		owner = AAA
+		buildings = {
+			infrastructure = 2
+			air_base = 1
+			arms_factory = 1
+			industrial_complex = 0
+			
+			154 = {
+				naval_base = 1
+			}
+			
+		}
+		add_core_of = AAA
+	}
+
+	provinces={
+		154 155 
+	}
+	local_supplies=0.0 
+}

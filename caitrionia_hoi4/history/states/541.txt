@@ -1,0 +1,40 @@
+
+state={
+	id=541
+	name="STATE_541"
+	manpower = 1818366
+	
+	state_category = large_town
+	resources={
+		aluminium=0
+		chromium=0
+		oil=2
+		rubber=0
+		steel=1
+		tungsten=1
+	}
+
+	history={
+		victory_points = { 2479 3}
+		victory_points = { 2481 1}
+		victory_points = { 2482 3}
+		victory_points = { 2487 5}
+		victory_points = { 2489 8}
+		
+		owner = AAA
+		buildings = {
+			infrastructure = 2
+			
+			arms_factory = 0
+			industrial_complex = 3
+			
+			
+		}
+		add_core_of = AAA
+	}
+
+	provinces={
+		2479 2480 2481 2482 2483 2484 2485 2486 2487 2488 2489 
+	}
+	local_supplies=0.0 
+}

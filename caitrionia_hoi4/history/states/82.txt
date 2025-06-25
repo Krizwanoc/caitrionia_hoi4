@@ -1,0 +1,41 @@
+
+state={
+	id=82
+	name="STATE_82"
+	manpower = 2628814
+	
+	state_category = megalopolis
+	resources={
+		aluminium=0
+		chromium=0
+		oil=0
+		rubber=0
+		steel=0
+		tungsten=0
+	}
+
+	history={
+		victory_points = { 249 13}
+		victory_points = { 250 6}
+		victory_points = { 253 28}
+		
+		owner = AAA
+		buildings = {
+			infrastructure = 4
+			air_base = 1
+			arms_factory = 1
+			industrial_complex = 6
+			dockyard = 2
+			247 = {
+				naval_base = 1
+			}
+			
+		}
+		add_core_of = AAA
+	}
+
+	provinces={
+		247 248 249 250 251 252 253 254 255 256 257 258 259 
+	}
+	local_supplies=0.0 
+}

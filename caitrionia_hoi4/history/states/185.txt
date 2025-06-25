@@ -1,0 +1,38 @@
+
+state={
+	id=185
+	name="STATE_185"
+	manpower = 801090
+	
+	state_category = town
+	resources={
+		aluminium=0
+		chromium=2
+		oil=1
+		rubber=0
+		steel=1
+		tungsten=0
+	}
+
+	history={
+		victory_points = { 810 2}
+		victory_points = { 812 6}
+		victory_points = { 813 2}
+		
+		owner = AAA
+		buildings = {
+			infrastructure = 2
+			air_base = 1
+			arms_factory = 0
+			industrial_complex = 1
+			
+			
+		}
+		add_core_of = AAA
+	}
+
+	provinces={
+		810 811 812 813 
+	}
+	local_supplies=0.0 
+}

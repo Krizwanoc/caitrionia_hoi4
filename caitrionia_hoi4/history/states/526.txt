@@ -1,0 +1,41 @@
+
+state={
+	id=526
+	name="STATE_526"
+	manpower = 1506782
+	
+	state_category = metropolis
+	resources={
+		aluminium=0
+		chromium=0
+		oil=0
+		rubber=0
+		steel=1
+		tungsten=0
+	}
+
+	history={
+		victory_points = { 2409 15}
+		victory_points = { 2410 1}
+		victory_points = { 2411 10}
+		
+		owner = AAA
+		buildings = {
+			infrastructure = 3
+			
+			arms_factory = 1
+			industrial_complex = 4
+			
+			2411 = {
+				naval_base = 1
+			}
+			
+		}
+		add_core_of = AAA
+	}
+
+	provinces={
+		2407 2408 2409 2410 2411 2412 2413 
+	}
+	local_supplies=0.0 
+}

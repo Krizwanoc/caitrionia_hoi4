@@ -1,0 +1,44 @@
+
+state={
+	id=308
+	name="STATE_308"
+	manpower = 2838742
+	
+	state_category = megalopolis
+	resources={
+		aluminium=1
+		chromium=0
+		oil=0
+		rubber=0
+		steel=1
+		tungsten=0
+	}
+
+	history={
+		victory_points = { 1404 29}
+		victory_points = { 1407 8}
+		victory_points = { 1408 1}
+		victory_points = { 1411 2}
+		victory_points = { 1412 2}
+		victory_points = { 1417 4}
+		
+		owner = AAA
+		buildings = {
+			infrastructure = 4
+			air_base = 1
+			arms_factory = 2
+			industrial_complex = 3
+			dockyard = 4
+			1412 = {
+				naval_base = 1
+			}
+			
+		}
+		add_core_of = AAA
+	}
+
+	provinces={
+		1404 1405 1406 1407 1408 1409 1410 1411 1412 1413 1414 1415 1416 1417 
+	}
+	local_supplies=0.0 
+}

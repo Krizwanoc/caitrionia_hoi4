@@ -1,0 +1,38 @@
+
+state={
+	id=353
+	name="STATE_353"
+	manpower = 566322
+	
+	state_category = rural
+	resources={
+		aluminium=0
+		chromium=1
+		oil=0
+		rubber=0
+		steel=0
+		tungsten=0
+	}
+
+	history={
+		victory_points = { 1622 1}
+		victory_points = { 1623 1}
+		victory_points = { 1624 5}
+		
+		owner = AAA
+		buildings = {
+			infrastructure = 2
+			air_base = 2
+			arms_factory = 1
+			industrial_complex = 0
+			
+			
+		}
+		add_core_of = AAA
+	}
+
+	provinces={
+		1622 1623 1624 
+	}
+	local_supplies=0.0 
+}

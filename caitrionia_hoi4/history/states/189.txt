@@ -1,0 +1,40 @@
+
+state={
+	id=189
+	name="STATE_189"
+	manpower = 844320
+	
+	state_category = large_town
+	resources={
+		aluminium=0
+		chromium=0
+		oil=0
+		rubber=0
+		steel=0
+		tungsten=0
+	}
+
+	history={
+		victory_points = { 823 7}
+		victory_points = { 824 7}
+		
+		owner = AAA
+		buildings = {
+			infrastructure = 3
+			air_base = 2
+			arms_factory = 2
+			industrial_complex = 0
+			dockyard = 1
+			826 = {
+				naval_base = 1
+			}
+			
+		}
+		add_core_of = AAA
+	}
+
+	provinces={
+		823 824 825 826 
+	}
+	local_supplies=0.0 
+}

@@ -1,0 +1,38 @@
+
+state={
+	id=478
+	name="STATE_478"
+	manpower = 1514614
+	
+	state_category = large_town
+	resources={
+		aluminium=0
+		chromium=0
+		oil=1
+		rubber=0
+		steel=1
+		tungsten=0
+	}
+
+	history={
+		victory_points = { 2183 13}
+		victory_points = { 2184 5}
+		victory_points = { 2187 2}
+		
+		owner = AAA
+		buildings = {
+			infrastructure = 2
+			
+			arms_factory = 2
+			industrial_complex = 1
+			
+			
+		}
+		add_core_of = AAA
+	}
+
+	provinces={
+		2181 2182 2183 2184 2185 2186 2187 2188 
+	}
+	local_supplies=0.0 
+}

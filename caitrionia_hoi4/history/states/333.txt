@@ -1,0 +1,37 @@
+
+state={
+	id=333
+	name="STATE_333"
+	manpower = 858319
+	
+	state_category = large_town
+	resources={
+		aluminium=0
+		chromium=0
+		oil=0
+		rubber=0
+		steel=0
+		tungsten=0
+	}
+
+	history={
+		victory_points = { 1547 9}
+		victory_points = { 1549 6}
+		
+		owner = AAA
+		buildings = {
+			infrastructure = 3
+			air_base = 3
+			arms_factory = 1
+			industrial_complex = 2
+			
+			
+		}
+		add_core_of = AAA
+	}
+
+	provinces={
+		1547 1548 1549 1550 
+	}
+	local_supplies=0.0 
+}

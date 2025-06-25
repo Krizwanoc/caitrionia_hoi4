@@ -1,0 +1,38 @@
+
+state={
+	id=405
+	name="STATE_405"
+	manpower = 621318
+	
+	state_category = pastoral
+	resources={
+		aluminium=0
+		chromium=0
+		oil=0
+		rubber=0
+		steel=0
+		tungsten=1
+	}
+
+	history={
+		victory_points = { 1871 3}
+		victory_points = { 1873 1}
+		victory_points = { 1874 2}
+		
+		owner = AAA
+		buildings = {
+			infrastructure = 1
+			air_base = 1
+			arms_factory = 0
+			industrial_complex = 1
+			
+			
+		}
+		add_core_of = AAA
+	}
+
+	provinces={
+		1871 1872 1873 1874 
+	}
+	local_supplies=0.0 
+}

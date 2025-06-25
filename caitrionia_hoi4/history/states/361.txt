@@ -1,0 +1,41 @@
+
+state={
+	id=361
+	name="STATE_361"
+	manpower = 858106
+	
+	state_category = large_town
+	resources={
+		aluminium=0
+		chromium=0
+		oil=0
+		rubber=0
+		steel=0
+		tungsten=0
+	}
+
+	history={
+		victory_points = { 1654 1}
+		victory_points = { 1655 4}
+		victory_points = { 1656 8}
+		
+		owner = AAA
+		buildings = {
+			infrastructure = 3
+			air_base = 2
+			arms_factory = 0
+			industrial_complex = 3
+			
+			1657 = {
+				naval_base = 1
+			}
+			
+		}
+		add_core_of = AAA
+	}
+
+	provinces={
+		1654 1655 1656 1657 
+	}
+	local_supplies=0.0 
+}

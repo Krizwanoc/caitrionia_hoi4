@@ -1,0 +1,40 @@
+
+state={
+	id=514
+	name="STATE_514"
+	manpower = 1244708
+	
+	state_category = large_city
+	resources={
+		aluminium=0
+		chromium=0
+		oil=0
+		rubber=0
+		steel=1
+		tungsten=0
+	}
+
+	history={
+		victory_points = { 2351 1}
+		victory_points = { 2354 20}
+		
+		owner = AAA
+		buildings = {
+			infrastructure = 3
+			air_base = 1
+			arms_factory = 0
+			industrial_complex = 2
+			dockyard = 2
+			2353 = {
+				naval_base = 1
+			}
+			
+		}
+		add_core_of = AAA
+	}
+
+	provinces={
+		2350 2351 2352 2353 2354 2355 
+	}
+	local_supplies=0.0 
+}

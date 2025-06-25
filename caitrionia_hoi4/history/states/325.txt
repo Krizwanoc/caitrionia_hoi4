@@ -1,0 +1,39 @@
+
+state={
+	id=325
+	name="STATE_325"
+	manpower = 446666
+	
+	state_category = rural
+	resources={
+		aluminium=1
+		chromium=0
+		oil=0
+		rubber=0
+		steel=0
+		tungsten=0
+	}
+
+	history={
+		victory_points = { 1504 6}
+		
+		owner = AAA
+		buildings = {
+			infrastructure = 2
+			air_base = 5
+			arms_factory = 0
+			industrial_complex = 0
+			dockyard = 1
+			1504 = {
+				naval_base = 1
+			}
+			
+		}
+		add_core_of = AAA
+	}
+
+	provinces={
+		1504 1505 
+	}
+	local_supplies=0.0 
+}

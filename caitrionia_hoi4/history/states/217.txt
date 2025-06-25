@@ -1,0 +1,39 @@
+
+state={
+	id=217
+	name="STATE_217"
+	manpower = 1564380
+	
+	state_category = metropolis
+	resources={
+		aluminium=0
+		chromium=0
+		oil=0
+		rubber=0
+		steel=0
+		tungsten=0
+	}
+
+	history={
+		victory_points = { 979 11}
+		victory_points = { 981 5}
+		victory_points = { 983 10}
+		victory_points = { 984 1}
+		
+		owner = AAA
+		buildings = {
+			infrastructure = 3
+			air_base = 2
+			arms_factory = 3
+			industrial_complex = 3
+			
+			
+		}
+		add_core_of = AAA
+	}
+
+	provinces={
+		978 979 980 981 982 983 984 
+	}
+	local_supplies=0.0 
+}

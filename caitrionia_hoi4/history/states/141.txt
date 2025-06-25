@@ -1,0 +1,43 @@
+
+state={
+	id=141
+	name="STATE_141"
+	manpower = 1218688
+	
+	state_category = large_city
+	resources={
+		aluminium=0
+		chromium=0
+		oil=0
+		rubber=0
+		steel=0
+		tungsten=0
+	}
+
+	history={
+		victory_points = { 582 1}
+		victory_points = { 583 3}
+		victory_points = { 584 13}
+		victory_points = { 585 1}
+		victory_points = { 586 2}
+		
+		owner = AAA
+		buildings = {
+			infrastructure = 3
+			
+			arms_factory = 2
+			industrial_complex = 0
+			dockyard = 2
+			584 = {
+				naval_base = 1
+			}
+			
+		}
+		add_core_of = AAA
+	}
+
+	provinces={
+		582 583 584 585 586 
+	}
+	local_supplies=0.0 
+}

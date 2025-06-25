@@ -1,0 +1,42 @@
+
+state={
+	id=623
+	name="STATE_623"
+	manpower = 3112194
+	
+	state_category = megalopolis
+	resources={
+		aluminium=0
+		chromium=1
+		oil=0
+		rubber=0
+		steel=1
+		tungsten=1
+	}
+
+	history={
+		victory_points = { 2811 29}
+		victory_points = { 2815 4}
+		victory_points = { 2821 9}
+		victory_points = { 2823 10}
+		
+		owner = AAA
+		buildings = {
+			infrastructure = 4
+			
+			arms_factory = 4
+			industrial_complex = 4
+			dockyard = 3
+			2821 = {
+				naval_base = 1
+			}
+			
+		}
+		add_core_of = AAA
+	}
+
+	provinces={
+		2810 2811 2812 2813 2814 2815 2816 2817 2818 2819 2820 2821 2822 2823 2824 2825 
+	}
+	local_supplies=0.0 
+}

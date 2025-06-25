@@ -1,0 +1,38 @@
+
+state={
+	id=255
+	name="STATE_255"
+	manpower = 818324
+	
+	state_category = large_town
+	resources={
+		aluminium=1
+		chromium=0
+		oil=0
+		rubber=0
+		steel=0
+		tungsten=0
+	}
+
+	history={
+		victory_points = { 1176 8}
+		victory_points = { 1177 4}
+		victory_points = { 1178 1}
+		
+		owner = AAA
+		buildings = {
+			infrastructure = 3
+			
+			arms_factory = 0
+			industrial_complex = 2
+			
+			
+		}
+		add_core_of = AAA
+	}
+
+	provinces={
+		1175 1176 1177 1178 
+	}
+	local_supplies=0.0 
+}

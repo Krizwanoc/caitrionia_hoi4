@@ -1,0 +1,40 @@
+
+state={
+	id=175
+	name="STATE_175"
+	manpower = 1132208
+	
+	state_category = city
+	resources={
+		aluminium=0
+		chromium=3
+		oil=0
+		rubber=0
+		steel=0
+		tungsten=0
+	}
+
+	history={
+		victory_points = { 769 15}
+		victory_points = { 770 5}
+		
+		owner = AAA
+		buildings = {
+			infrastructure = 3
+			air_base = 3
+			arms_factory = 1
+			industrial_complex = 1
+			dockyard = 2
+			766 = {
+				naval_base = 1
+			}
+			
+		}
+		add_core_of = AAA
+	}
+
+	provinces={
+		766 767 768 769 770 
+	}
+	local_supplies=0.0 
+}

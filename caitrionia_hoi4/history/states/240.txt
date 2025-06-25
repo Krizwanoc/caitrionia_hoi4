@@ -1,0 +1,39 @@
+
+state={
+	id=240
+	name="STATE_240"
+	manpower = 1601219
+	
+	state_category = large_city
+	resources={
+		aluminium=0
+		chromium=0
+		oil=0
+		rubber=0
+		steel=0
+		tungsten=0
+	}
+
+	history={
+		victory_points = { 1096 4}
+		victory_points = { 1098 4}
+		victory_points = { 1099 6}
+		victory_points = { 1102 10}
+		
+		owner = AAA
+		buildings = {
+			infrastructure = 3
+			
+			arms_factory = 0
+			industrial_complex = 5
+			
+			
+		}
+		add_core_of = AAA
+	}
+
+	provinces={
+		1096 1097 1098 1099 1100 1101 1102 1103 
+	}
+	local_supplies=0.0 
+}

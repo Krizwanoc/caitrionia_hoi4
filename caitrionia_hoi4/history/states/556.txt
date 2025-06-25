@@ -1,0 +1,40 @@
+
+state={
+	id=556
+	name="STATE_556"
+	manpower = 773396
+	
+	state_category = large_town
+	resources={
+		aluminium=0
+		chromium=0
+		oil=0
+		rubber=0
+		steel=0
+		tungsten=0
+	}
+
+	history={
+		victory_points = { 2548 7}
+		victory_points = { 2549 6}
+		
+		owner = AAA
+		buildings = {
+			infrastructure = 3
+			
+			arms_factory = 1
+			industrial_complex = 1
+			dockyard = 1
+			2549 = {
+				naval_base = 1
+			}
+			
+		}
+		add_core_of = AAA
+	}
+
+	provinces={
+		2548 2549 2550 
+	}
+	local_supplies=0.0 
+}
