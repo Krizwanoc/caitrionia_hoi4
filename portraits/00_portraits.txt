@@ -31,7 +31,7 @@ default = {
 }
 
 #all the continent visuals
-aaa = {
+AAA = {
 	army = {
 		male = {
 			"GFX_Portrait_Africa_Generic_land_1"

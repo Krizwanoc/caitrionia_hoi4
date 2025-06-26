@@ -2,37 +2,35 @@
 state={
 	id=643
 	name="STATE_643"
-	manpower = 912519
+	manpower = 350240
 	
-	state_category = wasteland
+	state_category = pastoral
 	resources={
-		aluminium=0
-		chromium=1
+		aluminium=1
+		chromium=0
 		oil=0
-		rubber=-2147483648
-		steel=1
+		rubber=0
+		steel=0
 		tungsten=0
 	}
 
 	history={
+		victory_points = { 2887 2}
 		
-		owner = aaa
+		owner = AAA
 		buildings = {
 			infrastructure = 1
-			
+			air_base = 4
 			arms_factory = 0
 			industrial_complex = 0
 			
-			1741 = {
-				naval_base = 1
-			}
 			
 		}
-		add_core_of = aaa
+		add_core_of = AAA
 	}
 
 	provinces={
-		1738 1739 1740 1741 1742 
+		2886 2887 
 	}
 	local_supplies=0.0 
 }

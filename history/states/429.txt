@@ -2,37 +2,37 @@
 state={
 	id=429
 	name="STATE_429"
-	manpower = 353849
+	manpower = 1038334
 	
-	state_category = wasteland
+	state_category = pastoral
 	resources={
-		aluminium=0
-		chromium=0
-		oil=0
-		rubber=-2147483648
-		steel=0
-		tungsten=0
+		aluminium=2
+		chromium=6
+		oil=1
+		rubber=0
+		steel=4
+		tungsten=1
 	}
 
 	history={
+		victory_points = { 1966 1}
+		victory_points = { 1968 4}
+		victory_points = { 1969 1}
 		
-		owner = aaa
+		owner = AAA
 		buildings = {
 			infrastructure = 1
 			
 			arms_factory = 0
 			industrial_complex = 0
 			
-			1211 = {
-				naval_base = 1
-			}
 			
 		}
-		add_core_of = aaa
+		add_core_of = AAA
 	}
 
 	provinces={
-		1210 1211 
+		1965 1966 1967 1968 1969 1970 1971 
 	}
 	local_supplies=0.0 
 }

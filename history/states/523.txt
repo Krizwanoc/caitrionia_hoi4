@@ -2,34 +2,36 @@
 state={
 	id=523
 	name="STATE_523"
-	manpower = 556333
+	manpower = 549710
 	
-	state_category = wasteland
+	state_category = rural
 	resources={
 		aluminium=0
 		chromium=0
 		oil=0
-		rubber=-2147483648
+		rubber=0
 		steel=0
 		tungsten=0
 	}
 
 	history={
+		victory_points = { 2393 5}
+		victory_points = { 2394 2}
 		
-		owner = aaa
+		owner = AAA
 		buildings = {
-			infrastructure = 1
+			infrastructure = 2
 			
-			arms_factory = 0
+			arms_factory = 1
 			industrial_complex = 0
 			
 			
 		}
-		add_core_of = aaa
+		add_core_of = AAA
 	}
 
 	provinces={
-		1443 1444 1445 1446 
+		2392 2393 2394 
 	}
 	local_supplies=0.0 
 }

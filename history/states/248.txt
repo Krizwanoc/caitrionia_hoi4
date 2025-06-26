@@ -2,37 +2,43 @@
 state={
 	id=248
 	name="STATE_248"
-	manpower = 579841
+	manpower = 2066421
 	
-	state_category = wasteland
+	state_category = megalopolis
 	resources={
-		aluminium=0
+		aluminium=1
 		chromium=0
 		oil=0
-		rubber=-2147483648
-		steel=1
+		rubber=0
+		steel=0
 		tungsten=0
 	}
 
 	history={
+		victory_points = { 1144 5}
+		victory_points = { 1146 1}
+		victory_points = { 1147 2}
+		victory_points = { 1148 10}
+		victory_points = { 1149 14}
+		victory_points = { 1150 4}
 		
-		owner = aaa
+		owner = AAA
 		buildings = {
-			infrastructure = 1
-			
+			infrastructure = 4
+			air_base = 1
 			arms_factory = 0
-			industrial_complex = 0
-			
-			728 = {
+			industrial_complex = 6
+			dockyard = 2
+			1144 = {
 				naval_base = 1
 			}
 			
 		}
-		add_core_of = aaa
+		add_core_of = AAA
 	}
 
 	provinces={
-		726 727 728 
+		1141 1142 1143 1144 1145 1146 1147 1148 1149 1150 
 	}
 	local_supplies=0.0 
 }

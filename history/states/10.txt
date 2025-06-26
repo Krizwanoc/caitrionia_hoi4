@@ -2,24 +2,25 @@
 state={
 	id=10
 	name="STATE_10"
-	manpower = 0
+	manpower = 6063
 	
-	state_category = small_island
+	state_category = pastoral
 	resources={
 		aluminium=0
 		chromium=0
 		oil=0
-		rubber=-2147483648
+		rubber=0
 		steel=0
 		tungsten=0
 	}
 
 	history={
+		victory_points = { 10 1}
 		
-		owner = aaa
+		owner = AAA
 		buildings = {
 			infrastructure = 1
-			
+			air_base = 1
 			arms_factory = 0
 			industrial_complex = 0
 			
@@ -28,7 +29,7 @@ state={
 			}
 			
 		}
-		add_core_of = aaa
+		add_core_of = AAA
 	}
 
 	provinces={

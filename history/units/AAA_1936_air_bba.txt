@@ -1,0 +1,1304 @@
+air_wings = {
+		13 = { 								
+		medium_plane_airframe_0 = { owner = "AAA" amount = 50 version_name = "Oepp Mk 0" }
+
+	}
+	31 = { 								
+		small_plane_airframe_0 = { owner = "AAA" amount = 50 version_name = "Ishoa Mk 0" }
+small_plane_airframe_0 = { owner = "AAA" amount = 50 version_name = "Ishoa Mk 0" }
+
+	}
+	39 = { 								
+		medium_plane_airframe_0 = { owner = "AAA" amount = 50 version_name = "Oepp Mk 0" }
+
+	}
+	40 = { 								
+		medium_plane_airframe_0 = { owner = "AAA" amount = 50 version_name = "Oepp Mk 0" }
+
+	}
+	48 = { 								
+		small_plane_airframe_0 = { owner = "AAA" amount = 50 version_name = "Ishoa Mk 0" }
+
+	}
+	1 = { 								
+		medium_plane_airframe_0 = { owner = "AAA" amount = 50 version_name = "Oepp Mk 0" }
+small_plane_airframe_0 = { owner = "AAA" amount = 50 version_name = "Ishoa Mk 0" }
+
+	}
+	28 = { 								
+		medium_plane_airframe_0 = { owner = "AAA" amount = 50 version_name = "Oepp Mk 0" }
+small_plane_airframe_0 = { owner = "AAA" amount = 50 version_name = "Ishoa Mk 0" }
+
+	}
+	2 = { 								
+		medium_plane_airframe_0 = { owner = "AAA" amount = 50 version_name = "Oepp Mk 0" }
+
+	}
+	14 = { 								
+		medium_plane_airframe_0 = { owner = "AAA" amount = 50 version_name = "Oepp Mk 0" }
+large_plane_airframe_1 = { owner = "AAA" amount = 50 version_name = "Eppeo Mk 0" }
+
+	}
+	17 = { 								
+		medium_plane_airframe_0 = { owner = "AAA" amount = 50 version_name = "Oepp Mk 0" }
+
+	}
+	3 = { 								
+		medium_plane_airframe_0 = { owner = "AAA" amount = 50 version_name = "Oepp Mk 0" }
+medium_plane_airframe_0 = { owner = "AAA" amount = 50 version_name = "Oepp Mk 0" }
+
+	}
+	29 = { 								
+		medium_plane_airframe_0 = { owner = "AAA" amount = 50 version_name = "Oepp Mk 0" }
+
+	}
+	7 = { 								
+		medium_plane_airframe_0 = { owner = "AAA" amount = 50 version_name = "Oepp Mk 0" }
+
+	}
+	36 = { 								
+		large_plane_airframe_1 = { owner = "AAA" amount = 50 version_name = "Eppeo Mk 0" }
+
+	}
+	38 = { 								
+		medium_plane_airframe_0 = { owner = "AAA" amount = 50 version_name = "Oepp Mk 0" }
+
+	}
+	41 = { 								
+		medium_plane_airframe_0 = { owner = "AAA" amount = 50 version_name = "Oepp Mk 0" }
+
+	}
+	44 = { 								
+		medium_plane_airframe_0 = { owner = "AAA" amount = 50 version_name = "Oepp Mk 0" }
+
+	}
+	49 = { 								
+		medium_plane_airframe_0 = { owner = "AAA" amount = 50 version_name = "Oepp Mk 0" }
+medium_plane_airframe_0 = { owner = "AAA" amount = 50 version_name = "Oepp Mk 0" }
+
+	}
+	52 = { 								
+		medium_plane_airframe_0 = { owner = "AAA" amount = 50 version_name = "Oepp Mk 0" }
+
+	}
+	56 = { 								
+		medium_plane_airframe_0 = { owner = "AAA" amount = 50 version_name = "Oepp Mk 0" }
+
+	}
+	58 = { 								
+		small_plane_airframe_1 = { owner = "AAA" amount = 50 version_name = "Oeglux Mk 2" }
+
+	}
+	60 = { 								
+		medium_plane_airframe_0 = { owner = "AAA" amount = 50 version_name = "Oepp Mk 0" }
+
+	}
+	61 = { 								
+		medium_plane_airframe_0 = { owner = "AAA" amount = 50 version_name = "Oepp Mk 0" }
+large_plane_airframe_1 = { owner = "AAA" amount = 50 version_name = "Eppeo Mk 0" }
+
+	}
+	62 = { 								
+		medium_plane_airframe_0 = { owner = "AAA" amount = 50 version_name = "Oepp Mk 0" }
+medium_plane_airframe_0 = { owner = "AAA" amount = 50 version_name = "Oepp Mk 0" }
+small_plane_airframe_1 = { owner = "AAA" amount = 50 version_name = "Oeglux Mk 2" }
+
+	}
+	90 = { 								
+		medium_plane_airframe_0 = { owner = "AAA" amount = 50 version_name = "Oepp Mk 0" }
+
+	}
+	74 = { 								
+		large_plane_airframe_0 = { owner = "AAA" amount = 50 version_name = "Eoplaeng Mk 2" }
+
+	}
+	99 = { 								
+		medium_plane_airframe_0 = { owner = "AAA" amount = 50 version_name = "Oepp Mk 0" }
+
+	}
+	82 = { 								
+		medium_plane_airframe_0 = { owner = "AAA" amount = 50 version_name = "Ondua Mk 1" }
+
+	}
+	86 = { 								
+		large_plane_airframe_0 = { owner = "AAA" amount = 50 version_name = "Eoplaeng Mk 2" }
+
+	}
+	69 = { 								
+		medium_plane_airframe_0 = { owner = "AAA" amount = 50 version_name = "Oepp Mk 0" }
+
+	}
+	72 = { 								
+		medium_plane_airframe_0 = { owner = "AAA" amount = 50 version_name = "Oepp Mk 0" }
+
+	}
+	65 = { 								
+		medium_plane_airframe_0 = { owner = "AAA" amount = 50 version_name = "Oepp Mk 0" }
+small_plane_airframe_1 = { owner = "AAA" amount = 50 version_name = "Oeglux Mk 2" }
+small_plane_airframe_0 = { owner = "AAA" amount = 50 version_name = "Ishoa Mk 0" }
+
+	}
+	116 = { 								
+		medium_plane_airframe_0 = { owner = "AAA" amount = 50 version_name = "Oepp Mk 0" }
+medium_plane_airframe_0 = { owner = "AAA" amount = 50 version_name = "Oepp Mk 0" }
+
+	}
+	112 = { 								
+		medium_plane_airframe_0 = { owner = "AAA" amount = 50 version_name = "Oepp Mk 0" }
+
+	}
+	84 = { 								
+		medium_plane_airframe_0 = { owner = "AAA" amount = 50 version_name = "Oepp Mk 0" }
+
+	}
+	75 = { 								
+		large_plane_airframe_1 = { owner = "AAA" amount = 50 version_name = "Eppeo Mk 0" }
+
+	}
+	89 = { 								
+		medium_plane_airframe_0 = { owner = "AAA" amount = 50 version_name = "Oepp Mk 0" }
+
+	}
+	92 = { 								
+		medium_plane_airframe_0 = { owner = "AAA" amount = 50 version_name = "Oepp Mk 0" }
+medium_plane_airframe_0 = { owner = "AAA" amount = 50 version_name = "Oepp Mk 0" }
+
+	}
+	71 = { 								
+		medium_plane_airframe_0 = { owner = "AAA" amount = 50 version_name = "Oepp Mk 0" }
+
+	}
+	94 = { 								
+		medium_plane_airframe_0 = { owner = "AAA" amount = 50 version_name = "Oepp Mk 0" }
+large_plane_airframe_1 = { owner = "AAA" amount = 50 version_name = "Eppeo Mk 0" }
+
+	}
+	98 = { 								
+		medium_plane_airframe_0 = { owner = "AAA" amount = 50 version_name = "Oepp Mk 0" }
+
+	}
+	102 = { 								
+		medium_plane_airframe_0 = { owner = "AAA" amount = 50 version_name = "Ondua Mk 1" }
+
+	}
+	107 = { 								
+		medium_plane_airframe_0 = { owner = "AAA" amount = 50 version_name = "Oepp Mk 0" }
+
+	}
+	108 = { 								
+		medium_plane_airframe_0 = { owner = "AAA" amount = 50 version_name = "Oepp Mk 0" }
+
+	}
+	115 = { 								
+		medium_plane_airframe_0 = { owner = "AAA" amount = 50 version_name = "Oepp Mk 0" }
+
+	}
+	119 = { 								
+		medium_plane_airframe_0 = { owner = "AAA" amount = 50 version_name = "Oepp Mk 0" }
+
+	}
+	121 = { 								
+		large_plane_airframe_1 = { owner = "AAA" amount = 50 version_name = "Eppeo Mk 0" }
+
+	}
+	120 = { 								
+		medium_plane_airframe_0 = { owner = "AAA" amount = 50 version_name = "Oepp Mk 0" }
+medium_plane_airframe_0 = { owner = "AAA" amount = 50 version_name = "Ondua Mk 1" }
+
+	}
+	122 = { 								
+		medium_plane_airframe_0 = { owner = "AAA" amount = 50 version_name = "Oepp Mk 0" }
+
+	}
+	127 = { 								
+		medium_plane_airframe_0 = { owner = "AAA" amount = 50 version_name = "Oepp Mk 0" }
+medium_plane_airframe_0 = { owner = "AAA" amount = 50 version_name = "Oepp Mk 0" }
+
+	}
+	136 = { 								
+		medium_plane_airframe_0 = { owner = "AAA" amount = 50 version_name = "Oepp Mk 0" }
+medium_plane_airframe_0 = { owner = "AAA" amount = 50 version_name = "Oepp Mk 0" }
+
+	}
+	143 = { 								
+		small_plane_cas_airframe_1 = { owner = "AAA" amount = 50 version_name = "Uablaoss Mk 0" }
+
+	}
+	155 = { 								
+		medium_plane_airframe_0 = { owner = "AAA" amount = 50 version_name = "Oepp Mk 0" }
+
+	}
+	173 = { 								
+		medium_plane_airframe_0 = { owner = "AAA" amount = 50 version_name = "Oepp Mk 0" }
+
+	}
+	135 = { 								
+		medium_plane_airframe_0 = { owner = "AAA" amount = 50 version_name = "Oepp Mk 0" }
+
+	}
+	178 = { 								
+		medium_plane_airframe_0 = { owner = "AAA" amount = 50 version_name = "Oepp Mk 0" }
+
+	}
+	139 = { 								
+		medium_plane_airframe_0 = { owner = "AAA" amount = 50 version_name = "Ondua Mk 1" }
+
+	}
+	144 = { 								
+		small_plane_cas_airframe_1 = { owner = "AAA" amount = 50 version_name = "Uablaoss Mk 0" }
+
+	}
+	141 = { 								
+		medium_plane_airframe_0 = { owner = "AAA" amount = 50 version_name = "Oepp Mk 0" }
+
+	}
+	152 = { 								
+		medium_plane_airframe_0 = { owner = "AAA" amount = 50 version_name = "Oepp Mk 0" }
+
+	}
+	156 = { 								
+		small_plane_airframe_1 = { owner = "AAA" amount = 50 version_name = "Oeglux Mk 2" }
+
+	}
+	158 = { 								
+		medium_plane_airframe_0 = { owner = "AAA" amount = 50 version_name = "Oepp Mk 0" }
+
+	}
+	128 = { 								
+		medium_plane_airframe_0 = { owner = "AAA" amount = 50 version_name = "Oepp Mk 0" }
+
+	}
+	154 = { 								
+		medium_plane_airframe_0 = { owner = "AAA" amount = 50 version_name = "Oepp Mk 0" }
+medium_plane_airframe_0 = { owner = "AAA" amount = 50 version_name = "Oepp Mk 0" }
+
+	}
+	163 = { 								
+		medium_plane_airframe_0 = { owner = "AAA" amount = 50 version_name = "Oepp Mk 0" }
+
+	}
+	138 = { 								
+		medium_plane_airframe_0 = { owner = "AAA" amount = 50 version_name = "Oepp Mk 0" }
+medium_plane_airframe_0 = { owner = "AAA" amount = 50 version_name = "Oepp Mk 0" }
+medium_plane_airframe_0 = { owner = "AAA" amount = 50 version_name = "Oepp Mk 0" }
+small_plane_cas_airframe_0 = { owner = "AAA" amount = 50 version_name = "Iospog Mk 2" }
+
+	}
+	175 = { 								
+		medium_plane_airframe_0 = { owner = "AAA" amount = 50 version_name = "Oepp Mk 0" }
+
+	}
+	149 = { 								
+		large_plane_airframe_0 = { owner = "AAA" amount = 50 version_name = "Eoplaeng Mk 2" }
+
+	}
+	134 = { 								
+		medium_plane_airframe_0 = { owner = "AAA" amount = 50 version_name = "Oepp Mk 0" }
+
+	}
+	133 = { 								
+		medium_plane_airframe_0 = { owner = "AAA" amount = 50 version_name = "Oepp Mk 0" }
+medium_plane_airframe_0 = { owner = "AAA" amount = 50 version_name = "Oepp Mk 0" }
+large_plane_airframe_0 = { owner = "AAA" amount = 50 version_name = "Eoplaeng Mk 2" }
+
+	}
+	147 = { 								
+		medium_plane_airframe_0 = { owner = "AAA" amount = 50 version_name = "Oepp Mk 0" }
+
+	}
+	161 = { 								
+		medium_plane_airframe_0 = { owner = "AAA" amount = 50 version_name = "Ondua Mk 1" }
+
+	}
+	168 = { 								
+		medium_plane_airframe_0 = { owner = "AAA" amount = 50 version_name = "Ondua Mk 1" }
+
+	}
+	169 = { 								
+		medium_plane_airframe_0 = { owner = "AAA" amount = 50 version_name = "Oepp Mk 0" }
+medium_plane_airframe_0 = { owner = "AAA" amount = 50 version_name = "Oepp Mk 0" }
+
+	}
+	172 = { 								
+		medium_plane_airframe_0 = { owner = "AAA" amount = 50 version_name = "Oepp Mk 0" }
+
+	}
+	181 = { 								
+		medium_plane_airframe_0 = { owner = "AAA" amount = 50 version_name = "Oepp Mk 0" }
+small_plane_cas_airframe_0 = { owner = "AAA" amount = 50 version_name = "Iospog Mk 2" }
+
+	}
+	182 = { 								
+		medium_plane_airframe_0 = { owner = "AAA" amount = 50 version_name = "Oepp Mk 0" }
+large_plane_airframe_1 = { owner = "AAA" amount = 50 version_name = "Eppeo Mk 0" }
+
+	}
+	185 = { 								
+		medium_plane_airframe_0 = { owner = "AAA" amount = 50 version_name = "Ondua Mk 1" }
+
+	}
+	187 = { 								
+		medium_plane_airframe_0 = { owner = "AAA" amount = 50 version_name = "Oepp Mk 0" }
+
+	}
+	188 = { 								
+		small_plane_airframe_1 = { owner = "AAA" amount = 50 version_name = "Oeglux Mk 2" }
+
+	}
+	190 = { 								
+		medium_plane_airframe_0 = { owner = "AAA" amount = 50 version_name = "Oepp Mk 0" }
+
+	}
+	222 = { 								
+		small_plane_cas_airframe_0 = { owner = "AAA" amount = 50 version_name = "Iospog Mk 2" }
+
+	}
+	192 = { 								
+		medium_plane_airframe_0 = { owner = "AAA" amount = 50 version_name = "Oepp Mk 0" }
+
+	}
+	226 = { 								
+		medium_plane_airframe_0 = { owner = "AAA" amount = 50 version_name = "Oepp Mk 0" }
+
+	}
+	201 = { 								
+		medium_plane_airframe_0 = { owner = "AAA" amount = 50 version_name = "Oepp Mk 0" }
+medium_plane_airframe_0 = { owner = "AAA" amount = 50 version_name = "Oepp Mk 0" }
+
+	}
+	220 = { 								
+		medium_plane_airframe_0 = { owner = "AAA" amount = 50 version_name = "Oepp Mk 0" }
+
+	}
+	231 = { 								
+		small_plane_cas_airframe_1 = { owner = "AAA" amount = 50 version_name = "Uablaoss Mk 0" }
+
+	}
+	244 = { 								
+		medium_plane_airframe_0 = { owner = "AAA" amount = 50 version_name = "Oepp Mk 0" }
+small_plane_cas_airframe_1 = { owner = "AAA" amount = 50 version_name = "Uablaoss Mk 0" }
+
+	}
+	203 = { 								
+		medium_plane_airframe_0 = { owner = "AAA" amount = 50 version_name = "Oepp Mk 0" }
+large_plane_airframe_1 = { owner = "AAA" amount = 50 version_name = "Eppeo Mk 0" }
+
+	}
+	214 = { 								
+		medium_plane_airframe_0 = { owner = "AAA" amount = 50 version_name = "Ondua Mk 1" }
+
+	}
+	218 = { 								
+		medium_plane_airframe_0 = { owner = "AAA" amount = 50 version_name = "Oepp Mk 0" }
+medium_plane_airframe_0 = { owner = "AAA" amount = 50 version_name = "Oepp Mk 0" }
+
+	}
+	206 = { 								
+		medium_plane_airframe_0 = { owner = "AAA" amount = 50 version_name = "Oepp Mk 0" }
+
+	}
+	221 = { 								
+		medium_plane_airframe_0 = { owner = "AAA" amount = 50 version_name = "Oepp Mk 0" }
+medium_plane_airframe_0 = { owner = "AAA" amount = 50 version_name = "Oepp Mk 0" }
+small_plane_airframe_1 = { owner = "AAA" amount = 50 version_name = "Oeglux Mk 2" }
+large_plane_airframe_1 = { owner = "AAA" amount = 50 version_name = "Eppeo Mk 0" }
+
+	}
+	200 = { 								
+		small_plane_cas_airframe_1 = { owner = "AAA" amount = 50 version_name = "Uablaoss Mk 0" }
+
+	}
+	208 = { 								
+		medium_plane_airframe_0 = { owner = "AAA" amount = 50 version_name = "Oepp Mk 0" }
+
+	}
+	209 = { 								
+		large_plane_airframe_0 = { owner = "AAA" amount = 50 version_name = "Eoplaeng Mk 2" }
+
+	}
+	199 = { 								
+		small_plane_airframe_1 = { owner = "AAA" amount = 50 version_name = "Oeglux Mk 2" }
+
+	}
+	229 = { 								
+		medium_plane_airframe_0 = { owner = "AAA" amount = 50 version_name = "Oepp Mk 0" }
+medium_plane_airframe_0 = { owner = "AAA" amount = 50 version_name = "Oepp Mk 0" }
+
+	}
+	234 = { 								
+		medium_plane_airframe_0 = { owner = "AAA" amount = 50 version_name = "Oepp Mk 0" }
+
+	}
+	235 = { 								
+		medium_plane_airframe_0 = { owner = "AAA" amount = 50 version_name = "Oepp Mk 0" }
+medium_plane_airframe_0 = { owner = "AAA" amount = 50 version_name = "Ondua Mk 1" }
+
+	}
+	227 = { 								
+		medium_plane_airframe_0 = { owner = "AAA" amount = 50 version_name = "Oepp Mk 0" }
+
+	}
+	238 = { 								
+		medium_plane_airframe_0 = { owner = "AAA" amount = 50 version_name = "Oepp Mk 0" }
+large_plane_airframe_1 = { owner = "AAA" amount = 50 version_name = "Eppeo Mk 0" }
+small_plane_cas_airframe_0 = { owner = "AAA" amount = 50 version_name = "Iospog Mk 2" }
+
+	}
+	239 = { 								
+		small_plane_cas_airframe_1 = { owner = "AAA" amount = 50 version_name = "Uablaoss Mk 0" }
+
+	}
+	241 = { 								
+		medium_plane_airframe_0 = { owner = "AAA" amount = 50 version_name = "Oepp Mk 0" }
+medium_plane_airframe_0 = { owner = "AAA" amount = 50 version_name = "Oepp Mk 0" }
+medium_plane_airframe_0 = { owner = "AAA" amount = 50 version_name = "Oepp Mk 0" }
+
+	}
+	242 = { 								
+		small_plane_airframe_1 = { owner = "AAA" amount = 50 version_name = "Oeglux Mk 2" }
+
+	}
+	243 = { 								
+		small_plane_cas_airframe_0 = { owner = "AAA" amount = 50 version_name = "Iospog Mk 2" }
+
+	}
+	254 = { 								
+		medium_plane_airframe_0 = { owner = "AAA" amount = 50 version_name = "Oepp Mk 0" }
+small_plane_airframe_0 = { owner = "AAA" amount = 50 version_name = "Ishoa Mk 0" }
+small_plane_airframe_0 = { owner = "AAA" amount = 50 version_name = "Ishoa Mk 0" }
+large_plane_airframe_0 = { owner = "AAA" amount = 50 version_name = "Eoplaeng Mk 2" }
+
+	}
+	277 = { 								
+		large_plane_airframe_0 = { owner = "AAA" amount = 50 version_name = "Eoplaeng Mk 2" }
+
+	}
+	281 = { 								
+		medium_plane_airframe_0 = { owner = "AAA" amount = 50 version_name = "Oepp Mk 0" }
+
+	}
+	270 = { 								
+		medium_plane_airframe_0 = { owner = "AAA" amount = 50 version_name = "Oepp Mk 0" }
+medium_plane_airframe_0 = { owner = "AAA" amount = 50 version_name = "Oepp Mk 0" }
+
+	}
+	276 = { 								
+		medium_plane_airframe_0 = { owner = "AAA" amount = 50 version_name = "Oepp Mk 0" }
+
+	}
+	257 = { 								
+		medium_plane_airframe_0 = { owner = "AAA" amount = 50 version_name = "Oepp Mk 0" }
+
+	}
+	294 = { 								
+		medium_plane_airframe_0 = { owner = "AAA" amount = 50 version_name = "Oepp Mk 0" }
+
+	}
+	260 = { 								
+		small_plane_cas_airframe_1 = { owner = "AAA" amount = 50 version_name = "Uablaoss Mk 0" }
+
+	}
+	291 = { 								
+		medium_plane_airframe_0 = { owner = "AAA" amount = 50 version_name = "Oepp Mk 0" }
+small_plane_cas_airframe_0 = { owner = "AAA" amount = 50 version_name = "Iospog Mk 2" }
+small_plane_cas_airframe_0 = { owner = "AAA" amount = 50 version_name = "Iospog Mk 2" }
+
+	}
+	298 = { 								
+		medium_plane_airframe_0 = { owner = "AAA" amount = 50 version_name = "Oepp Mk 0" }
+medium_plane_airframe_0 = { owner = "AAA" amount = 50 version_name = "Oepp Mk 0" }
+
+	}
+	296 = { 								
+		medium_plane_airframe_0 = { owner = "AAA" amount = 50 version_name = "Oepp Mk 0" }
+
+	}
+	264 = { 								
+		small_plane_cas_airframe_0 = { owner = "AAA" amount = 50 version_name = "Iospog Mk 2" }
+
+	}
+	258 = { 								
+		medium_plane_airframe_0 = { owner = "AAA" amount = 50 version_name = "Oepp Mk 0" }
+medium_plane_airframe_0 = { owner = "AAA" amount = 50 version_name = "Oepp Mk 0" }
+
+	}
+	299 = { 								
+		medium_plane_airframe_0 = { owner = "AAA" amount = 50 version_name = "Oepp Mk 0" }
+large_plane_airframe_1 = { owner = "AAA" amount = 50 version_name = "Eppeo Mk 0" }
+
+	}
+	316 = { 								
+		small_plane_airframe_1 = { owner = "AAA" amount = 50 version_name = "Oeglux Mk 2" }
+
+	}
+	273 = { 								
+		medium_plane_airframe_0 = { owner = "AAA" amount = 50 version_name = "Oepp Mk 0" }
+
+	}
+	318 = { 								
+		medium_plane_airframe_0 = { owner = "AAA" amount = 50 version_name = "Oepp Mk 0" }
+
+	}
+	280 = { 								
+		medium_plane_airframe_0 = { owner = "AAA" amount = 50 version_name = "Oepp Mk 0" }
+medium_plane_airframe_0 = { owner = "AAA" amount = 50 version_name = "Oepp Mk 0" }
+
+	}
+	263 = { 								
+		medium_plane_airframe_0 = { owner = "AAA" amount = 50 version_name = "Oepp Mk 0" }
+
+	}
+	265 = { 								
+		medium_plane_airframe_0 = { owner = "AAA" amount = 50 version_name = "Oepp Mk 0" }
+small_plane_airframe_1 = { owner = "AAA" amount = 50 version_name = "Oeglux Mk 2" }
+
+	}
+	268 = { 								
+		small_plane_airframe_0 = { owner = "AAA" amount = 50 version_name = "Ishoa Mk 0" }
+
+	}
+	255 = { 								
+		medium_plane_airframe_0 = { owner = "AAA" amount = 50 version_name = "Oepp Mk 0" }
+medium_plane_airframe_0 = { owner = "AAA" amount = 50 version_name = "Oepp Mk 0" }
+large_plane_airframe_1 = { owner = "AAA" amount = 50 version_name = "Eppeo Mk 0" }
+
+	}
+	256 = { 								
+		small_plane_airframe_1 = { owner = "AAA" amount = 50 version_name = "Oeglux Mk 2" }
+
+	}
+	272 = { 								
+		large_plane_airframe_1 = { owner = "AAA" amount = 50 version_name = "Eppeo Mk 0" }
+
+	}
+	278 = { 								
+		medium_plane_airframe_0 = { owner = "AAA" amount = 50 version_name = "Oepp Mk 0" }
+
+	}
+	282 = { 								
+		large_plane_airframe_0 = { owner = "AAA" amount = 50 version_name = "Eoplaeng Mk 2" }
+
+	}
+	285 = { 								
+		medium_plane_airframe_0 = { owner = "AAA" amount = 50 version_name = "Oepp Mk 0" }
+medium_plane_airframe_0 = { owner = "AAA" amount = 50 version_name = "Oepp Mk 0" }
+
+	}
+	286 = { 								
+		small_plane_cas_airframe_1 = { owner = "AAA" amount = 50 version_name = "Uablaoss Mk 0" }
+
+	}
+	287 = { 								
+		medium_plane_airframe_0 = { owner = "AAA" amount = 50 version_name = "Oepp Mk 0" }
+medium_plane_airframe_0 = { owner = "AAA" amount = 50 version_name = "Oepp Mk 0" }
+small_plane_cas_airframe_0 = { owner = "AAA" amount = 50 version_name = "Iospog Mk 2" }
+
+	}
+	289 = { 								
+		small_plane_airframe_0 = { owner = "AAA" amount = 50 version_name = "Ishoa Mk 0" }
+
+	}
+	297 = { 								
+		small_plane_airframe_1 = { owner = "AAA" amount = 50 version_name = "Oeglux Mk 2" }
+
+	}
+	300 = { 								
+		medium_plane_airframe_0 = { owner = "AAA" amount = 50 version_name = "Oepp Mk 0" }
+large_plane_airframe_1 = { owner = "AAA" amount = 50 version_name = "Eppeo Mk 0" }
+
+	}
+	314 = { 								
+		medium_plane_airframe_0 = { owner = "AAA" amount = 50 version_name = "Oepp Mk 0" }
+medium_plane_airframe_0 = { owner = "AAA" amount = 50 version_name = "Oepp Mk 0" }
+
+	}
+	315 = { 								
+		medium_plane_airframe_0 = { owner = "AAA" amount = 50 version_name = "Oepp Mk 0" }
+
+	}
+	307 = { 								
+		medium_plane_airframe_0 = { owner = "AAA" amount = 50 version_name = "Oepp Mk 0" }
+
+	}
+	319 = { 								
+		medium_plane_airframe_0 = { owner = "AAA" amount = 50 version_name = "Oepp Mk 0" }
+
+	}
+	325 = { 								
+		medium_plane_airframe_0 = { owner = "AAA" amount = 50 version_name = "Oepp Mk 0" }
+small_plane_airframe_0 = { owner = "AAA" amount = 50 version_name = "Ishoa Mk 0" }
+
+	}
+	320 = { 								
+		medium_plane_airframe_0 = { owner = "AAA" amount = 50 version_name = "Oepp Mk 0" }
+
+	}
+	321 = { 								
+		medium_plane_airframe_0 = { owner = "AAA" amount = 50 version_name = "Oepp Mk 0" }
+medium_plane_airframe_0 = { owner = "AAA" amount = 50 version_name = "Oepp Mk 0" }
+
+	}
+	351 = { 								
+		medium_plane_airframe_0 = { owner = "AAA" amount = 50 version_name = "Oepp Mk 0" }
+
+	}
+	349 = { 								
+		small_plane_airframe_1 = { owner = "AAA" amount = 50 version_name = "Oeglux Mk 2" }
+
+	}
+	350 = { 								
+		medium_plane_airframe_0 = { owner = "AAA" amount = 50 version_name = "Oepp Mk 0" }
+
+	}
+	352 = { 								
+		medium_plane_airframe_0 = { owner = "AAA" amount = 50 version_name = "Oepp Mk 0" }
+
+	}
+	354 = { 								
+		medium_plane_airframe_0 = { owner = "AAA" amount = 50 version_name = "Oepp Mk 0" }
+
+	}
+	353 = { 								
+		small_plane_cas_airframe_1 = { owner = "AAA" amount = 50 version_name = "Uablaoss Mk 0" }
+
+	}
+	358 = { 								
+		medium_plane_airframe_0 = { owner = "AAA" amount = 50 version_name = "Oepp Mk 0" }
+
+	}
+	340 = { 								
+		medium_plane_airframe_0 = { owner = "AAA" amount = 50 version_name = "Oepp Mk 0" }
+
+	}
+	342 = { 								
+		medium_plane_airframe_0 = { owner = "AAA" amount = 50 version_name = "Ondua Mk 1" }
+
+	}
+	336 = { 								
+		medium_plane_airframe_0 = { owner = "AAA" amount = 50 version_name = "Oepp Mk 0" }
+medium_plane_airframe_0 = { owner = "AAA" amount = 50 version_name = "Oepp Mk 0" }
+
+	}
+	346 = { 								
+		medium_plane_airframe_0 = { owner = "AAA" amount = 50 version_name = "Oepp Mk 0" }
+
+	}
+	347 = { 								
+		medium_plane_airframe_0 = { owner = "AAA" amount = 50 version_name = "Oepp Mk 0" }
+
+	}
+	328 = { 								
+		medium_plane_airframe_0 = { owner = "AAA" amount = 50 version_name = "Oepp Mk 0" }
+
+	}
+	330 = { 								
+		medium_plane_airframe_0 = { owner = "AAA" amount = 50 version_name = "Oepp Mk 0" }
+small_plane_airframe_0 = { owner = "AAA" amount = 50 version_name = "Ishoa Mk 0" }
+
+	}
+	337 = { 								
+		small_plane_cas_airframe_1 = { owner = "AAA" amount = 50 version_name = "Uablaoss Mk 0" }
+small_plane_cas_airframe_0 = { owner = "AAA" amount = 50 version_name = "Iospog Mk 2" }
+
+	}
+	339 = { 								
+		medium_plane_airframe_0 = { owner = "AAA" amount = 50 version_name = "Oepp Mk 0" }
+large_plane_airframe_1 = { owner = "AAA" amount = 50 version_name = "Eppeo Mk 0" }
+
+	}
+	341 = { 								
+		small_plane_cas_airframe_0 = { owner = "AAA" amount = 50 version_name = "Iospog Mk 2" }
+
+	}
+	621 = { 								
+		medium_plane_airframe_0 = { owner = "AAA" amount = 50 version_name = "Oepp Mk 0" }
+
+	}
+	651 = { 								
+		medium_plane_airframe_0 = { owner = "AAA" amount = 50 version_name = "Oepp Mk 0" }
+medium_plane_airframe_0 = { owner = "AAA" amount = 50 version_name = "Oepp Mk 0" }
+
+	}
+	623 = { 								
+		large_plane_airframe_0 = { owner = "AAA" amount = 50 version_name = "Eoplaeng Mk 2" }
+
+	}
+	644 = { 								
+		large_plane_airframe_1 = { owner = "AAA" amount = 50 version_name = "Eppeo Mk 0" }
+
+	}
+	633 = { 								
+		medium_plane_airframe_0 = { owner = "AAA" amount = 50 version_name = "Oepp Mk 0" }
+large_plane_airframe_0 = { owner = "AAA" amount = 50 version_name = "Eoplaeng Mk 2" }
+
+	}
+	665 = { 								
+		small_plane_cas_airframe_1 = { owner = "AAA" amount = 50 version_name = "Uablaoss Mk 0" }
+
+	}
+	647 = { 								
+		medium_plane_airframe_0 = { owner = "AAA" amount = 50 version_name = "Oepp Mk 0" }
+
+	}
+	630 = { 								
+		medium_plane_airframe_0 = { owner = "AAA" amount = 50 version_name = "Oepp Mk 0" }
+small_plane_airframe_1 = { owner = "AAA" amount = 50 version_name = "Oeglux Mk 2" }
+
+	}
+	622 = { 								
+		medium_plane_airframe_0 = { owner = "AAA" amount = 50 version_name = "Oepp Mk 0" }
+
+	}
+	659 = { 								
+		small_plane_airframe_1 = { owner = "AAA" amount = 50 version_name = "Oeglux Mk 2" }
+
+	}
+	645 = { 								
+		medium_plane_airframe_0 = { owner = "AAA" amount = 50 version_name = "Oepp Mk 0" }
+
+	}
+	620 = { 								
+		large_plane_airframe_0 = { owner = "AAA" amount = 50 version_name = "Eoplaeng Mk 2" }
+
+	}
+	646 = { 								
+		small_plane_airframe_0 = { owner = "AAA" amount = 50 version_name = "Ishoa Mk 0" }
+
+	}
+	634 = { 								
+		large_plane_airframe_1 = { owner = "AAA" amount = 50 version_name = "Eppeo Mk 0" }
+
+	}
+	626 = { 								
+		medium_plane_airframe_0 = { owner = "AAA" amount = 50 version_name = "Oepp Mk 0" }
+
+	}
+	637 = { 								
+		medium_plane_airframe_0 = { owner = "AAA" amount = 50 version_name = "Oepp Mk 0" }
+medium_plane_airframe_0 = { owner = "AAA" amount = 50 version_name = "Oepp Mk 0" }
+medium_plane_airframe_0 = { owner = "AAA" amount = 50 version_name = "Ondua Mk 1" }
+
+	}
+	640 = { 								
+		large_plane_airframe_1 = { owner = "AAA" amount = 50 version_name = "Eppeo Mk 0" }
+
+	}
+	657 = { 								
+		medium_plane_airframe_0 = { owner = "AAA" amount = 50 version_name = "Oepp Mk 0" }
+medium_plane_airframe_0 = { owner = "AAA" amount = 50 version_name = "Oepp Mk 0" }
+
+	}
+	661 = { 								
+		medium_plane_airframe_0 = { owner = "AAA" amount = 50 version_name = "Oepp Mk 0" }
+
+	}
+	656 = { 								
+		medium_plane_airframe_0 = { owner = "AAA" amount = 50 version_name = "Oepp Mk 0" }
+
+	}
+	364 = { 								
+		medium_plane_airframe_0 = { owner = "AAA" amount = 50 version_name = "Oepp Mk 0" }
+
+	}
+	387 = { 								
+		medium_plane_airframe_0 = { owner = "AAA" amount = 50 version_name = "Oepp Mk 0" }
+
+	}
+	382 = { 								
+		medium_plane_airframe_0 = { owner = "AAA" amount = 50 version_name = "Oepp Mk 0" }
+
+	}
+	375 = { 								
+		medium_plane_airframe_0 = { owner = "AAA" amount = 50 version_name = "Oepp Mk 0" }
+
+	}
+	399 = { 								
+		medium_plane_airframe_0 = { owner = "AAA" amount = 50 version_name = "Oepp Mk 0" }
+
+	}
+	368 = { 								
+		medium_plane_airframe_0 = { owner = "AAA" amount = 50 version_name = "Oepp Mk 0" }
+
+	}
+	373 = { 								
+		small_plane_cas_airframe_1 = { owner = "AAA" amount = 50 version_name = "Uablaoss Mk 0" }
+
+	}
+	384 = { 								
+		small_plane_airframe_0 = { owner = "AAA" amount = 50 version_name = "Ishoa Mk 0" }
+
+	}
+	389 = { 								
+		medium_plane_airframe_0 = { owner = "AAA" amount = 50 version_name = "Oepp Mk 0" }
+
+	}
+	391 = { 								
+		medium_plane_airframe_0 = { owner = "AAA" amount = 50 version_name = "Oepp Mk 0" }
+
+	}
+	394 = { 								
+		large_plane_airframe_0 = { owner = "AAA" amount = 50 version_name = "Eoplaeng Mk 2" }
+
+	}
+	386 = { 								
+		medium_plane_airframe_0 = { owner = "AAA" amount = 50 version_name = "Ondua Mk 1" }
+
+	}
+	395 = { 								
+		medium_plane_airframe_0 = { owner = "AAA" amount = 50 version_name = "Oepp Mk 0" }
+medium_plane_airframe_0 = { owner = "AAA" amount = 50 version_name = "Oepp Mk 0" }
+medium_plane_airframe_0 = { owner = "AAA" amount = 50 version_name = "Ondua Mk 1" }
+
+	}
+	360 = { 								
+		medium_plane_airframe_0 = { owner = "AAA" amount = 50 version_name = "Oepp Mk 0" }
+
+	}
+	400 = { 								
+		medium_plane_airframe_0 = { owner = "AAA" amount = 50 version_name = "Oepp Mk 0" }
+
+	}
+	388 = { 								
+		small_plane_cas_airframe_0 = { owner = "AAA" amount = 50 version_name = "Iospog Mk 2" }
+
+	}
+	408 = { 								
+		small_plane_airframe_0 = { owner = "AAA" amount = 50 version_name = "Ishoa Mk 0" }
+
+	}
+	409 = { 								
+		medium_plane_airframe_0 = { owner = "AAA" amount = 50 version_name = "Oepp Mk 0" }
+medium_plane_airframe_0 = { owner = "AAA" amount = 50 version_name = "Oepp Mk 0" }
+
+	}
+	410 = { 								
+		medium_plane_airframe_0 = { owner = "AAA" amount = 50 version_name = "Oepp Mk 0" }
+
+	}
+	414 = { 								
+		large_plane_airframe_0 = { owner = "AAA" amount = 50 version_name = "Eoplaeng Mk 2" }
+
+	}
+	416 = { 								
+		medium_plane_airframe_0 = { owner = "AAA" amount = 50 version_name = "Oepp Mk 0" }
+
+	}
+	417 = { 								
+		medium_plane_airframe_0 = { owner = "AAA" amount = 50 version_name = "Oepp Mk 0" }
+medium_plane_airframe_0 = { owner = "AAA" amount = 50 version_name = "Ondua Mk 1" }
+
+	}
+	420 = { 								
+		medium_plane_airframe_0 = { owner = "AAA" amount = 50 version_name = "Oepp Mk 0" }
+large_plane_airframe_0 = { owner = "AAA" amount = 50 version_name = "Eoplaeng Mk 2" }
+
+	}
+	421 = { 								
+		small_plane_airframe_1 = { owner = "AAA" amount = 50 version_name = "Oeglux Mk 2" }
+
+	}
+	412 = { 								
+		large_plane_airframe_1 = { owner = "AAA" amount = 50 version_name = "Eppeo Mk 0" }
+
+	}
+	425 = { 								
+		medium_plane_airframe_0 = { owner = "AAA" amount = 50 version_name = "Oepp Mk 0" }
+small_plane_cas_airframe_1 = { owner = "AAA" amount = 50 version_name = "Uablaoss Mk 0" }
+
+	}
+	451 = { 								
+		small_plane_cas_airframe_1 = { owner = "AAA" amount = 50 version_name = "Uablaoss Mk 0" }
+small_plane_airframe_1 = { owner = "AAA" amount = 50 version_name = "Oeglux Mk 2" }
+
+	}
+	468 = { 								
+		small_plane_airframe_1 = { owner = "AAA" amount = 50 version_name = "Oeglux Mk 2" }
+
+	}
+	452 = { 								
+		medium_plane_airframe_0 = { owner = "AAA" amount = 50 version_name = "Oepp Mk 0" }
+medium_plane_airframe_0 = { owner = "AAA" amount = 50 version_name = "Oepp Mk 0" }
+
+	}
+	448 = { 								
+		large_plane_airframe_0 = { owner = "AAA" amount = 50 version_name = "Eoplaeng Mk 2" }
+
+	}
+	450 = { 								
+		small_plane_cas_airframe_0 = { owner = "AAA" amount = 50 version_name = "Iospog Mk 2" }
+
+	}
+	453 = { 								
+		medium_plane_airframe_0 = { owner = "AAA" amount = 50 version_name = "Oepp Mk 0" }
+
+	}
+	440 = { 								
+		small_plane_cas_airframe_1 = { owner = "AAA" amount = 50 version_name = "Uablaoss Mk 0" }
+
+	}
+	441 = { 								
+		medium_plane_airframe_0 = { owner = "AAA" amount = 50 version_name = "Oepp Mk 0" }
+
+	}
+	446 = { 								
+		small_plane_cas_airframe_0 = { owner = "AAA" amount = 50 version_name = "Iospog Mk 2" }
+
+	}
+	449 = { 								
+		medium_plane_airframe_0 = { owner = "AAA" amount = 50 version_name = "Oepp Mk 0" }
+
+	}
+	442 = { 								
+		medium_plane_airframe_0 = { owner = "AAA" amount = 50 version_name = "Oepp Mk 0" }
+
+	}
+	454 = { 								
+		medium_plane_airframe_0 = { owner = "AAA" amount = 50 version_name = "Oepp Mk 0" }
+
+	}
+	443 = { 								
+		medium_plane_airframe_0 = { owner = "AAA" amount = 50 version_name = "Oepp Mk 0" }
+medium_plane_airframe_0 = { owner = "AAA" amount = 50 version_name = "Oepp Mk 0" }
+medium_plane_airframe_0 = { owner = "AAA" amount = 50 version_name = "Oepp Mk 0" }
+
+	}
+	430 = { 								
+		medium_plane_airframe_0 = { owner = "AAA" amount = 50 version_name = "Oepp Mk 0" }
+
+	}
+	438 = { 								
+		medium_plane_airframe_0 = { owner = "AAA" amount = 50 version_name = "Oepp Mk 0" }
+
+	}
+	447 = { 								
+		small_plane_cas_airframe_1 = { owner = "AAA" amount = 50 version_name = "Uablaoss Mk 0" }
+small_plane_airframe_0 = { owner = "AAA" amount = 50 version_name = "Ishoa Mk 0" }
+
+	}
+	439 = { 								
+		small_plane_airframe_0 = { owner = "AAA" amount = 50 version_name = "Ishoa Mk 0" }
+
+	}
+	459 = { 								
+		medium_plane_airframe_0 = { owner = "AAA" amount = 50 version_name = "Oepp Mk 0" }
+
+	}
+	461 = { 								
+		medium_plane_airframe_0 = { owner = "AAA" amount = 50 version_name = "Oepp Mk 0" }
+
+	}
+	460 = { 								
+		medium_plane_airframe_0 = { owner = "AAA" amount = 50 version_name = "Oepp Mk 0" }
+
+	}
+	469 = { 								
+		medium_plane_airframe_0 = { owner = "AAA" amount = 50 version_name = "Oepp Mk 0" }
+
+	}
+	479 = { 								
+		small_plane_airframe_0 = { owner = "AAA" amount = 50 version_name = "Ishoa Mk 0" }
+
+	}
+	480 = { 								
+		medium_plane_airframe_0 = { owner = "AAA" amount = 50 version_name = "Oepp Mk 0" }
+medium_plane_airframe_0 = { owner = "AAA" amount = 50 version_name = "Oepp Mk 0" }
+large_plane_airframe_1 = { owner = "AAA" amount = 50 version_name = "Eppeo Mk 0" }
+
+	}
+	481 = { 								
+		medium_plane_airframe_0 = { owner = "AAA" amount = 50 version_name = "Oepp Mk 0" }
+medium_plane_airframe_0 = { owner = "AAA" amount = 50 version_name = "Oepp Mk 0" }
+small_plane_cas_airframe_0 = { owner = "AAA" amount = 50 version_name = "Iospog Mk 2" }
+
+	}
+	483 = { 								
+		medium_plane_airframe_0 = { owner = "AAA" amount = 50 version_name = "Oepp Mk 0" }
+
+	}
+	519 = { 								
+		medium_plane_airframe_0 = { owner = "AAA" amount = 50 version_name = "Oepp Mk 0" }
+
+	}
+	507 = { 								
+		medium_plane_airframe_0 = { owner = "AAA" amount = 50 version_name = "Oepp Mk 0" }
+
+	}
+	524 = { 								
+		large_plane_airframe_1 = { owner = "AAA" amount = 50 version_name = "Eppeo Mk 0" }
+medium_plane_airframe_0 = { owner = "AAA" amount = 50 version_name = "Ondua Mk 1" }
+
+	}
+	500 = { 								
+		small_plane_cas_airframe_0 = { owner = "AAA" amount = 50 version_name = "Iospog Mk 2" }
+
+	}
+	502 = { 								
+		medium_plane_airframe_0 = { owner = "AAA" amount = 50 version_name = "Ondua Mk 1" }
+medium_plane_airframe_0 = { owner = "AAA" amount = 50 version_name = "Ondua Mk 1" }
+
+	}
+	496 = { 								
+		medium_plane_airframe_0 = { owner = "AAA" amount = 50 version_name = "Oepp Mk 0" }
+medium_plane_airframe_0 = { owner = "AAA" amount = 50 version_name = "Oepp Mk 0" }
+small_plane_airframe_1 = { owner = "AAA" amount = 50 version_name = "Oeglux Mk 2" }
+
+	}
+	518 = { 								
+		small_plane_cas_airframe_1 = { owner = "AAA" amount = 50 version_name = "Uablaoss Mk 0" }
+
+	}
+	511 = { 								
+		medium_plane_airframe_0 = { owner = "AAA" amount = 50 version_name = "Oepp Mk 0" }
+large_plane_airframe_0 = { owner = "AAA" amount = 50 version_name = "Eoplaeng Mk 2" }
+
+	}
+	503 = { 								
+		medium_plane_airframe_0 = { owner = "AAA" amount = 50 version_name = "Oepp Mk 0" }
+medium_plane_airframe_0 = { owner = "AAA" amount = 50 version_name = "Oepp Mk 0" }
+
+	}
+	498 = { 								
+		medium_plane_airframe_0 = { owner = "AAA" amount = 50 version_name = "Oepp Mk 0" }
+
+	}
+	487 = { 								
+		medium_plane_airframe_0 = { owner = "AAA" amount = 50 version_name = "Oepp Mk 0" }
+
+	}
+	489 = { 								
+		medium_plane_airframe_0 = { owner = "AAA" amount = 50 version_name = "Oepp Mk 0" }
+medium_plane_airframe_0 = { owner = "AAA" amount = 50 version_name = "Oepp Mk 0" }
+
+	}
+	514 = { 								
+		medium_plane_airframe_0 = { owner = "AAA" amount = 50 version_name = "Oepp Mk 0" }
+medium_plane_airframe_0 = { owner = "AAA" amount = 50 version_name = "Oepp Mk 0" }
+
+	}
+	506 = { 								
+		medium_plane_airframe_0 = { owner = "AAA" amount = 50 version_name = "Oepp Mk 0" }
+
+	}
+	517 = { 								
+		medium_plane_airframe_0 = { owner = "AAA" amount = 50 version_name = "Oepp Mk 0" }
+
+	}
+	509 = { 								
+		large_plane_airframe_1 = { owner = "AAA" amount = 50 version_name = "Eppeo Mk 0" }
+
+	}
+	523 = { 								
+		medium_plane_airframe_0 = { owner = "AAA" amount = 50 version_name = "Oepp Mk 0" }
+medium_plane_airframe_0 = { owner = "AAA" amount = 50 version_name = "Oepp Mk 0" }
+
+	}
+	510 = { 								
+		medium_plane_airframe_0 = { owner = "AAA" amount = 50 version_name = "Oepp Mk 0" }
+
+	}
+	492 = { 								
+		large_plane_airframe_0 = { owner = "AAA" amount = 50 version_name = "Eoplaeng Mk 2" }
+
+	}
+	504 = { 								
+		medium_plane_airframe_0 = { owner = "AAA" amount = 50 version_name = "Oepp Mk 0" }
+medium_plane_airframe_0 = { owner = "AAA" amount = 50 version_name = "Oepp Mk 0" }
+
+	}
+	515 = { 								
+		small_plane_cas_airframe_0 = { owner = "AAA" amount = 50 version_name = "Iospog Mk 2" }
+
+	}
+	526 = { 								
+		medium_plane_airframe_0 = { owner = "AAA" amount = 50 version_name = "Oepp Mk 0" }
+medium_plane_airframe_0 = { owner = "AAA" amount = 50 version_name = "Oepp Mk 0" }
+
+	}
+	529 = { 								
+		medium_plane_airframe_0 = { owner = "AAA" amount = 50 version_name = "Oepp Mk 0" }
+
+	}
+	530 = { 								
+		medium_plane_airframe_0 = { owner = "AAA" amount = 50 version_name = "Oepp Mk 0" }
+
+	}
+	532 = { 								
+		small_plane_airframe_1 = { owner = "AAA" amount = 50 version_name = "Oeglux Mk 2" }
+
+	}
+	533 = { 								
+		medium_plane_airframe_0 = { owner = "AAA" amount = 50 version_name = "Oepp Mk 0" }
+
+	}
+	535 = { 								
+		medium_plane_airframe_0 = { owner = "AAA" amount = 50 version_name = "Oepp Mk 0" }
+medium_plane_airframe_0 = { owner = "AAA" amount = 50 version_name = "Oepp Mk 0" }
+medium_plane_airframe_0 = { owner = "AAA" amount = 50 version_name = "Oepp Mk 0" }
+
+	}
+	537 = { 								
+		small_plane_cas_airframe_0 = { owner = "AAA" amount = 50 version_name = "Iospog Mk 2" }
+
+	}
+	538 = { 								
+		medium_plane_airframe_0 = { owner = "AAA" amount = 50 version_name = "Oepp Mk 0" }
+
+	}
+	542 = { 								
+		small_plane_cas_airframe_0 = { owner = "AAA" amount = 50 version_name = "Iospog Mk 2" }
+large_plane_airframe_0 = { owner = "AAA" amount = 50 version_name = "Eoplaeng Mk 2" }
+
+	}
+	545 = { 								
+		medium_plane_airframe_0 = { owner = "AAA" amount = 50 version_name = "Ondua Mk 1" }
+
+	}
+	540 = { 								
+		medium_plane_airframe_0 = { owner = "AAA" amount = 50 version_name = "Oepp Mk 0" }
+
+	}
+	547 = { 								
+		medium_plane_airframe_0 = { owner = "AAA" amount = 50 version_name = "Oepp Mk 0" }
+
+	}
+	552 = { 								
+		medium_plane_airframe_0 = { owner = "AAA" amount = 50 version_name = "Oepp Mk 0" }
+
+	}
+	588 = { 								
+		medium_plane_airframe_0 = { owner = "AAA" amount = 50 version_name = "Ondua Mk 1" }
+
+	}
+	575 = { 								
+		small_plane_airframe_0 = { owner = "AAA" amount = 50 version_name = "Ishoa Mk 0" }
+
+	}
+	582 = { 								
+		medium_plane_airframe_0 = { owner = "AAA" amount = 50 version_name = "Oepp Mk 0" }
+
+	}
+	554 = { 								
+		large_plane_airframe_0 = { owner = "AAA" amount = 50 version_name = "Eoplaeng Mk 2" }
+
+	}
+	567 = { 								
+		small_plane_airframe_0 = { owner = "AAA" amount = 50 version_name = "Ishoa Mk 0" }
+
+	}
+	562 = { 								
+		medium_plane_airframe_0 = { owner = "AAA" amount = 50 version_name = "Oepp Mk 0" }
+
+	}
+	594 = { 								
+		medium_plane_airframe_0 = { owner = "AAA" amount = 50 version_name = "Oepp Mk 0" }
+
+	}
+	565 = { 								
+		medium_plane_airframe_0 = { owner = "AAA" amount = 50 version_name = "Ondua Mk 1" }
+
+	}
+	563 = { 								
+		medium_plane_airframe_0 = { owner = "AAA" amount = 50 version_name = "Oepp Mk 0" }
+medium_plane_airframe_0 = { owner = "AAA" amount = 50 version_name = "Oepp Mk 0" }
+
+	}
+	593 = { 								
+		medium_plane_airframe_0 = { owner = "AAA" amount = 50 version_name = "Oepp Mk 0" }
+
+	}
+	558 = { 								
+		small_plane_cas_airframe_0 = { owner = "AAA" amount = 50 version_name = "Iospog Mk 2" }
+
+	}
+	573 = { 								
+		medium_plane_airframe_0 = { owner = "AAA" amount = 50 version_name = "Oepp Mk 0" }
+
+	}
+	551 = { 								
+		medium_plane_airframe_0 = { owner = "AAA" amount = 50 version_name = "Oepp Mk 0" }
+medium_plane_airframe_0 = { owner = "AAA" amount = 50 version_name = "Oepp Mk 0" }
+
+	}
+	566 = { 								
+		medium_plane_airframe_0 = { owner = "AAA" amount = 50 version_name = "Ondua Mk 1" }
+
+	}
+	559 = { 								
+		small_plane_cas_airframe_1 = { owner = "AAA" amount = 50 version_name = "Uablaoss Mk 0" }
+
+	}
+	580 = { 								
+		medium_plane_airframe_0 = { owner = "AAA" amount = 50 version_name = "Oepp Mk 0" }
+medium_plane_airframe_0 = { owner = "AAA" amount = 50 version_name = "Oepp Mk 0" }
+
+	}
+	586 = { 								
+		medium_plane_airframe_0 = { owner = "AAA" amount = 50 version_name = "Oepp Mk 0" }
+
+	}
+	587 = { 								
+		large_plane_airframe_0 = { owner = "AAA" amount = 50 version_name = "Eoplaeng Mk 2" }
+
+	}
+	589 = { 								
+		small_plane_cas_airframe_0 = { owner = "AAA" amount = 50 version_name = "Iospog Mk 2" }
+
+	}
+	596 = { 								
+		medium_plane_airframe_0 = { owner = "AAA" amount = 50 version_name = "Oepp Mk 0" }
+medium_plane_airframe_0 = { owner = "AAA" amount = 50 version_name = "Oepp Mk 0" }
+
+	}
+	597 = { 								
+		small_plane_airframe_1 = { owner = "AAA" amount = 50 version_name = "Oeglux Mk 2" }
+
+	}
+	603 = { 								
+		medium_plane_airframe_0 = { owner = "AAA" amount = 50 version_name = "Oepp Mk 0" }
+
+	}
+	606 = { 								
+		medium_plane_airframe_0 = { owner = "AAA" amount = 50 version_name = "Oepp Mk 0" }
+
+	}
+	604 = { 								
+		small_plane_cas_airframe_1 = { owner = "AAA" amount = 50 version_name = "Uablaoss Mk 0" }
+medium_plane_airframe_0 = { owner = "AAA" amount = 50 version_name = "Ondua Mk 1" }
+
+	}
+	609 = { 								
+		small_plane_airframe_1 = { owner = "AAA" amount = 50 version_name = "Oeglux Mk 2" }
+
+	}
+	617 = { 								
+		large_plane_airframe_1 = { owner = "AAA" amount = 50 version_name = "Eppeo Mk 0" }
+
+	}
+	614 = { 								
+		large_plane_airframe_0 = { owner = "AAA" amount = 50 version_name = "Eoplaeng Mk 2" }
+
+	}
+	616 = { 								
+		medium_plane_airframe_0 = { owner = "AAA" amount = 50 version_name = "Oepp Mk 0" }
+
+	}
+	619 = { 								
+		medium_plane_airframe_0 = { owner = "AAA" amount = 50 version_name = "Oepp Mk 0" }
+
+	}
+	612 = { 								
+		medium_plane_airframe_0 = { owner = "AAA" amount = 50 version_name = "Oepp Mk 0" }
+small_plane_cas_airframe_1 = { owner = "AAA" amount = 50 version_name = "Uablaoss Mk 0" }
+
+	}
+	615 = { 								
+		medium_plane_airframe_0 = { owner = "AAA" amount = 50 version_name = "Oepp Mk 0" }
+
+	}
+	613 = { 								
+		small_plane_cas_airframe_1 = { owner = "AAA" amount = 50 version_name = "Uablaoss Mk 0" }
+
+	}
+
+
+}

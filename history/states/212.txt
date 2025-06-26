@@ -2,35 +2,39 @@
 state={
 	id=212
 	name="STATE_212"
-	manpower = 300105
+	manpower = 967213
 	
-	state_category = wasteland
+	state_category = city
 	resources={
-		aluminium=1
+		aluminium=0
 		chromium=0
-		oil=1
-		rubber=-2147483648
+		oil=0
+		rubber=0
 		steel=1
 		tungsten=0
 	}
 
 	history={
-		victory_points = { 618 1}
+		victory_points = { 954 5}
+		victory_points = { 956 11}
 		
-		owner = aaa
+		owner = AAA
 		buildings = {
-			infrastructure = 1
-			
+			infrastructure = 3
+			air_base = 1
 			arms_factory = 0
-			industrial_complex = 0
-			
+			industrial_complex = 2
+			dockyard = 1
+			956 = {
+				naval_base = 1
+			}
 			
 		}
-		add_core_of = aaa
+		add_core_of = AAA
 	}
 
 	provinces={
-		617 618 
+		953 954 955 956 
 	}
 	local_supplies=0.0 
 }

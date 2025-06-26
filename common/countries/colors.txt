@@ -1114,7 +1114,7 @@ KUR = {
 
 
 
-aaa = {
-	color = rgb { 137 211 77 }
-	color_ui = rgb { 137 211 77 }
+AAA = {
+	color = rgb { 80 146 28 }
+	color_ui = rgb { 80 146 28 }
 }

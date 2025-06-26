@@ -45,15 +45,15 @@ default = {
 }
 
 
-aaa = {
+AAA = {
 	male = {
 		names = {  }
 	}
 	female = {
-		names = { "Trae" 
+		names = { "Yea" 
 			 }
 	}
-	surnames = { "Ubloert" 
+	surnames = { "Cheolt" 
 			 }
 	callsigns = { "Easy Kill" "The Lightning" "The Devil" "Grasshopper" "Handsome" "Moose" "Mouse" "Pebbles" "Sunshine" Demon}
 

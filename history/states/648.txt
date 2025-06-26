@@ -2,35 +2,38 @@
 state={
 	id=648
 	name="STATE_648"
-	manpower = 194740
+	manpower = 2458536
 	
-	state_category = small_island
+	state_category = large_city
 	resources={
-		aluminium=0
+		aluminium=1
 		chromium=0
-		oil=0
-		rubber=-2147483648
-		steel=0
+		oil=2
+		rubber=0
+		steel=2
 		tungsten=0
 	}
 
 	history={
-		victory_points = { 1751 1}
+		victory_points = { 2902 1}
+		victory_points = { 2904 6}
+		victory_points = { 2906 6}
+		victory_points = { 2909 18}
 		
-		owner = aaa
+		owner = AAA
 		buildings = {
-			infrastructure = 1
+			infrastructure = 2
 			
-			arms_factory = 0
-			industrial_complex = 0
+			arms_factory = 3
+			industrial_complex = 1
 			
 			
 		}
-		add_core_of = aaa
+		add_core_of = AAA
 	}
 
 	provinces={
-		1751 
+		2901 2902 2903 2904 2905 2906 2907 2908 2909 2910 2911 2912 2913 2914 2915 
 	}
 	local_supplies=0.0 
 }

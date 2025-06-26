@@ -2,35 +2,41 @@
 state={
 	id=171
 	name="STATE_171"
-	manpower = 230638
+	manpower = 1212656
 	
-	state_category = small_island
+	state_category = city
 	resources={
 		aluminium=0
 		chromium=0
 		oil=0
-		rubber=-2147483648
+		rubber=0
 		steel=0
 		tungsten=0
 	}
 
 	history={
-		victory_points = { 484 1}
+		victory_points = { 739 5}
+		victory_points = { 740 2}
+		victory_points = { 741 5}
+		victory_points = { 744 8}
 		
-		owner = aaa
+		owner = AAA
 		buildings = {
-			infrastructure = 1
-			
+			infrastructure = 3
+			air_base = 1
 			arms_factory = 0
-			industrial_complex = 0
+			industrial_complex = 4
 			
+			743 = {
+				naval_base = 1
+			}
 			
 		}
-		add_core_of = aaa
+		add_core_of = AAA
 	}
 
 	provinces={
-		484 
+		739 740 741 742 743 744 
 	}
 	local_supplies=0.0 
 }

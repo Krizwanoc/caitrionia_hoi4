@@ -2,34 +2,37 @@
 state={
 	id=292
 	name="STATE_292"
-	manpower = 791254
+	manpower = 862717
 	
-	state_category = wasteland
+	state_category = large_town
 	resources={
 		aluminium=0
 		chromium=0
-		oil=1
-		rubber=-2147483648
+		oil=0
+		rubber=0
 		steel=0
 		tungsten=0
 	}
 
 	history={
+		victory_points = { 1348 6}
+		victory_points = { 1349 3}
+		victory_points = { 1350 4}
 		
-		owner = aaa
+		owner = AAA
 		buildings = {
-			infrastructure = 1
+			infrastructure = 3
 			
 			arms_factory = 0
-			industrial_complex = 0
+			industrial_complex = 3
 			
 			
 		}
-		add_core_of = aaa
+		add_core_of = AAA
 	}
 
 	provinces={
-		853 854 855 856 857 
+		1348 1349 1350 1351 
 	}
 	local_supplies=0.0 
 }

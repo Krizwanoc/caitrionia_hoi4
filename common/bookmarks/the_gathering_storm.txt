@@ -7,9 +7,9 @@ bookmarks = {
 		default = yes
 		
 		
-		aaa={
+		AAA={
 			history = "generic_GATHERING_STORM_DESC"
-			ideology = neutrality
+			ideology = democratic
 			ideas = {
 			}
 			focuses = {

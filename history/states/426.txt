@@ -2,38 +2,36 @@
 state={
 	id=426
 	name="STATE_426"
-	manpower = 305292
+	manpower = 694988
 	
-	state_category = small_island
+	state_category = town
 	resources={
 		aluminium=0
 		chromium=0
 		oil=0
-		rubber=-2147483648
-		steel=0
+		rubber=0
+		steel=1
 		tungsten=0
 	}
 
 	history={
-		victory_points = { 1203 1}
+		victory_points = { 1955 4}
+		victory_points = { 1957 5}
 		
-		owner = aaa
+		owner = AAA
 		buildings = {
-			infrastructure = 1
-			
-			arms_factory = 0
+			infrastructure = 2
+			air_base = 2
+			arms_factory = 1
 			industrial_complex = 0
 			
-			1203 = {
-				naval_base = 1
-			}
 			
 		}
-		add_core_of = aaa
+		add_core_of = AAA
 	}
 
 	provinces={
-		1203 
+		1955 1956 1957 
 	}
 	local_supplies=0.0 
 }

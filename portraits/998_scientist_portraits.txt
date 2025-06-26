@@ -1,4 +1,4 @@
-aaa = {
+AAA = {
 	scientist = {
 		female = {
 			"GFX_portrait_generic_africa_female_01"

@@ -2,38 +2,41 @@
 state={
 	id=551
 	name="STATE_551"
-	manpower = 86508
+	manpower = 1977790
 	
-	state_category = small_island
+	state_category = megalopolis
 	resources={
 		aluminium=0
 		chromium=0
 		oil=0
-		rubber=-2147483648
+		rubber=0
 		steel=0
 		tungsten=0
 	}
 
 	history={
-		victory_points = { 1525 1}
+		victory_points = { 2524 13}
+		victory_points = { 2526 1}
+		victory_points = { 2527 16}
+		victory_points = { 2528 4}
 		
-		owner = aaa
+		owner = AAA
 		buildings = {
-			infrastructure = 1
+			infrastructure = 4
+			air_base = 2
+			arms_factory = 2
+			industrial_complex = 5
 			
-			arms_factory = 0
-			industrial_complex = 0
-			
-			1525 = {
+			2529 = {
 				naval_base = 1
 			}
 			
 		}
-		add_core_of = aaa
+		add_core_of = AAA
 	}
 
 	provinces={
-		1525 
+		2524 2525 2526 2527 2528 2529 2530 2531 2532 
 	}
 	local_supplies=0.0 
 }
