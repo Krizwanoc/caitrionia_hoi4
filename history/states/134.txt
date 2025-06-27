@@ -1,40 +1,40 @@
-
 state={
-	id=134
-	name="STATE_134"
-	manpower = 1086207
-	
-	state_category = town
-	resources={
-		aluminium=0
-		chromium=2
-		oil=0
-		rubber=0
-		steel=1
-		tungsten=0
-	}
+id=134
+name="STATE_134"
+manpower=705251
 
-	history={
-		victory_points = { 548 2}
-		victory_points = { 549 2}
-		victory_points = { 551 3}
-		victory_points = { 552 6}
-		victory_points = { 553 1}
-		
-		owner = AAA
-		buildings = {
-			infrastructure = 2
-			
-			arms_factory = 1
-			industrial_complex = 1
-			
-			
-		}
-		add_core_of = AAA
-	}
+state_category = town
+resources = {
+aluminium = 0
+chromium = 0
+oil = 0
+rubber = 0
+steel = 0
+tungsten = 0
+}
 
-	provinces={
-		548 549 550 551 552 553 
-	}
-	local_supplies=0.0 
+history = {
+victory_points = { 2720 10}
+victory_points = { 2721 2}
+victory_points = { 412 8}
+victory_points = { 1911 5}
+victory_points = { 1913 3}
+victory_points = { 2803 9}
+victory_points = { 2805 1}
+owner = AAA
+add_core_of = AAA
+
+buildings = {
+    infrastructure = 3
+    arms_factory = 1
+    industrial_complex = 1
+2721 = {naval_base = 1}
+412 = {naval_base = 1}
+1913 = {naval_base = 1}
+2805 = {naval_base = 1}
+}
+}
+
+provinces = {2720 2721 2722 411 412 1911 1912 1913 2803 2804 2805}
+local_supplies = 1.0
 }

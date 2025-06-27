@@ -1,40 +1,59 @@
-
 state={
-	id=22
-	name="STATE_22"
-	manpower = 438892
-	
-	state_category = rural
-	resources={
-		aluminium=0
-		chromium=0
-		oil=0
-		rubber=0
-		steel=0
-		tungsten=0
-	}
+id=22
+name="STATE_22"
+manpower=969489
 
-	history={
-		victory_points = { 28 5}
-		victory_points = { 29 1}
-		
-		owner = AAA
-		buildings = {
-			infrastructure = 2
-			
-			arms_factory = 0
-			industrial_complex = 0
-			dockyard = 1
-			28 = {
-				naval_base = 1
-			}
-			
-		}
-		add_core_of = AAA
-	}
+state_category = town
+resources = {
+aluminium = 0
+chromium = 0
+oil = 0
+rubber = 0
+steel = 0
+tungsten = 1
+}
 
-	provinces={
-		28 29 
-	}
-	local_supplies=0.0 
+history = {
+victory_points = { 2723 7}
+victory_points = { 966 7}
+victory_points = { 967 3}
+victory_points = { 2889 13}
+victory_points = { 2892 1}
+victory_points = { 822 9}
+victory_points = { 2143 7}
+victory_points = { 2144 1}
+victory_points = { 394 15}
+victory_points = { 2583 6}
+victory_points = { 2585 4}
+victory_points = { 2933 7}
+victory_points = { 2934 1}
+victory_points = { 2936 7}
+victory_points = { 1519 5}
+victory_points = { 1520 1}
+victory_points = { 1521 8}
+victory_points = { 2524 13}
+victory_points = { 2526 1}
+victory_points = { 2527 16}
+victory_points = { 2528 4}
+victory_points = { 1895 4}
+victory_points = { 814 5}
+victory_points = { 2002 13}
+victory_points = { 2003 2}
+victory_points = { 2005 2}
+owner = AAA
+add_core_of = AAA
+
+buildings = {
+    infrastructure = 3
+    arms_factory = 1
+    industrial_complex = 1
+2723 = {naval_base = 1}
+2529 = {naval_base = 1}
+814 = {naval_base = 1}
+2002 = {naval_base = 1}
+}
+}
+
+provinces = {2723 966 967 968 2889 2890 2891 2892 821 822 2143 2144 392 393 394 395 396 2583 2584 2585 2933 2934 2935 2936 1518 1519 1520 1521 2524 2525 2526 2527 2528 2529 2530 2531 2532 1895 814 2002 2003 2004 2005}
+local_supplies = 1.0
 }

@@ -1,39 +1,55 @@
-
 state={
-	id=15
-	name="STATE_15"
-	manpower = 3205
-	
-	state_category = pastoral
-	resources={
-		aluminium=0
-		chromium=0
-		oil=0
-		rubber=0
-		steel=0
-		tungsten=0
-	}
+id=15
+name="STATE_15"
+manpower=1212656
 
-	history={
-		victory_points = { 15 1}
-		
-		owner = AAA
-		buildings = {
-			infrastructure = 1
-			air_base = 1
-			arms_factory = 0
-			industrial_complex = 0
-			
-			15 = {
-				naval_base = 1
-			}
-			
-		}
-		add_core_of = AAA
-	}
+state_category = town
+resources = {
+aluminium = 0
+chromium = 0
+oil = 0
+rubber = 0
+steel = 0
+tungsten = 0
+}
 
-	provinces={
-		15 
-	}
-	local_supplies=0.0 
+history = {
+victory_points = { 1206 3}
+victory_points = { 1208 8}
+victory_points = { 2389 8}
+victory_points = { 2390 4}
+victory_points = { 2497 4}
+victory_points = { 2499 7}
+victory_points = { 2864 1}
+victory_points = { 2866 9}
+victory_points = { 2605 1}
+victory_points = { 2606 6}
+victory_points = { 408 4}
+victory_points = { 409 7}
+victory_points = { 2351 1}
+victory_points = { 2354 20}
+victory_points = { 823 7}
+victory_points = { 824 7}
+victory_points = { 739 5}
+victory_points = { 740 2}
+victory_points = { 741 5}
+victory_points = { 744 8}
+owner = AAA
+add_core_of = AAA
+
+buildings = {
+    infrastructure = 3
+    arms_factory = 1
+    industrial_complex = 1
+1206 = {naval_base = 1}
+2499 = {naval_base = 1}
+408 = {naval_base = 1}
+2353 = {naval_base = 1}
+826 = {naval_base = 1}
+743 = {naval_base = 1}
+}
+}
+
+provinces = {1206 1207 1208 2389 2390 2391 2497 2498 2499 2864 2865 2866 2605 2606 408 409 410 2350 2351 2352 2353 2354 2355 823 824 825 826 739 740 741 742 743 744}
+local_supplies = 1.0
 }

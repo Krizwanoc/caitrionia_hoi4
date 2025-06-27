@@ -1,43 +1,32 @@
-
 state={
-	id=122
-	name="STATE_122"
-	manpower = 1821340
-	
-	state_category = megalopolis
-	resources={
-		aluminium=0
-		chromium=0
-		oil=0
-		rubber=0
-		steel=0
-		tungsten=0
-	}
+id=122
+name="STATE_122"
+manpower=1154201
 
-	history={
-		victory_points = { 479 1}
-		victory_points = { 482 2}
-		victory_points = { 484 1}
-		victory_points = { 485 19}
-		victory_points = { 486 8}
-		
-		owner = AAA
-		buildings = {
-			infrastructure = 4
-			air_base = 1
-			arms_factory = 1
-			industrial_complex = 1
-			dockyard = 4
-			486 = {
-				naval_base = 1
-			}
-			
-		}
-		add_core_of = AAA
-	}
+state_category = town
+resources = {
+aluminium = 0
+chromium = 0
+oil = 0
+rubber = 0
+steel = 2
+tungsten = 1
+}
 
-	provinces={
-		479 480 481 482 483 484 485 486 487 
-	}
-	local_supplies=0.0 
+history = {
+victory_points = { 834 3}
+victory_points = { 836 3}
+victory_points = { 841 3}
+owner = AAA
+add_core_of = AAA
+
+buildings = {
+    infrastructure = 3
+    arms_factory = 1
+    industrial_complex = 1
+}
+}
+
+provinces = {834 835 836 837 838 839 840 841}
+local_supplies = 1.0
 }

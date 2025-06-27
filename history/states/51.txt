@@ -1,42 +1,44 @@
-
 state={
-	id=51
-	name="STATE_51"
-	manpower = 943048
-	
-	state_category = town
-	resources={
-		aluminium=0
-		chromium=0
-		oil=0
-		rubber=0
-		steel=0
-		tungsten=0
-	}
+id=51
+name="STATE_51"
+manpower=540549
 
-	history={
-		victory_points = { 118 2}
-		victory_points = { 119 5}
-		victory_points = { 120 2}
-		victory_points = { 121 3}
-		
-		owner = AAA
-		buildings = {
-			infrastructure = 2
-			air_base = 1
-			arms_factory = 0
-			industrial_complex = 1
-			dockyard = 1
-			121 = {
-				naval_base = 1
-			}
-			
-		}
-		add_core_of = AAA
-	}
+state_category = town
+resources = {
+aluminium = 0
+chromium = 0
+oil = 0
+rubber = 0
+steel = 0
+tungsten = 0
+}
 
-	provinces={
-		117 118 119 120 121 
-	}
-	local_supplies=0.0 
+history = {
+victory_points = { 1418 5}
+victory_points = { 1420 2}
+victory_points = { 1422 2}
+victory_points = { 1423 5}
+victory_points = { 648 2}
+victory_points = { 652 11}
+victory_points = { 1642 2}
+victory_points = { 1643 5}
+victory_points = { 1644 4}
+victory_points = { 1825 8}
+victory_points = { 1673 9}
+victory_points = { 1674 3}
+victory_points = { 1675 1}
+victory_points = { 930 4}
+victory_points = { 932 1}
+owner = AAA
+add_core_of = AAA
+
+buildings = {
+    infrastructure = 3
+    arms_factory = 1
+    industrial_complex = 1
+}
+}
+
+provinces = {1418 1419 1420 1421 1422 1423 648 649 650 651 652 1641 1642 1643 1644 1824 1825 1826 1671 1672 1673 1674 1675 930 931 932}
+local_supplies = 1.0
 }

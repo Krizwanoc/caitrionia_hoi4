@@ -1,47 +1,49 @@
-
 state={
-	id=132
-	name="STATE_132"
-	manpower = 1879293
-	
-	state_category = metropolis
-	resources={
-		aluminium=1
-		chromium=1
-		oil=0
-		rubber=0
-		steel=1
-		tungsten=0
-	}
+id=132
+name="STATE_132"
+manpower=1559771
 
-	history={
-		victory_points = { 532 2}
-		victory_points = { 533 9}
-		victory_points = { 535 1}
-		victory_points = { 536 6}
-		victory_points = { 537 2}
-		victory_points = { 538 1}
-		victory_points = { 539 1}
-		victory_points = { 540 4}
-		victory_points = { 541 2}
-		
-		owner = AAA
-		buildings = {
-			infrastructure = 3
-			air_base = 1
-			arms_factory = 2
-			industrial_complex = 0
-			dockyard = 3
-			538 = {
-				naval_base = 1
-			}
-			
-		}
-		add_core_of = AAA
-	}
+state_category = town
+resources = {
+aluminium = 0
+chromium = 0
+oil = 0
+rubber = 0
+steel = 0
+tungsten = 1
+}
 
-	provinces={
-		532 533 534 535 536 537 538 539 540 541 
-	}
-	local_supplies=0.0 
+history = {
+victory_points = { 176 1}
+victory_points = { 177 9}
+victory_points = { 179 1}
+victory_points = { 182 13}
+victory_points = { 1523 2}
+victory_points = { 1524 3}
+victory_points = { 1530 27}
+victory_points = { 1096 4}
+victory_points = { 1098 4}
+victory_points = { 1099 6}
+victory_points = { 1102 10}
+victory_points = { 490 2}
+victory_points = { 491 3}
+victory_points = { 492 4}
+victory_points = { 1233 12}
+victory_points = { 1235 4}
+victory_points = { 1236 9}
+victory_points = { 1237 1}
+owner = AAA
+add_core_of = AAA
+
+buildings = {
+    infrastructure = 3
+    arms_factory = 1
+    industrial_complex = 1
+178 = {naval_base = 1}
+1233 = {naval_base = 1}
+}
+}
+
+provinces = {176 177 178 179 180 181 182 1522 1523 1524 1525 1526 1527 1528 1529 1530 1096 1097 1098 1099 1100 1101 1102 1103 490 491 492 1232 1233 1234 1235 1236 1237 1238}
+local_supplies = 1.0
 }

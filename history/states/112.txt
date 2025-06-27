@@ -1,40 +1,35 @@
-
 state={
-	id=112
-	name="STATE_112"
-	manpower = 1567248
-	
-	state_category = city
-	resources={
-		aluminium=0
-		chromium=0
-		oil=0
-		rubber=0
-		steel=1
-		tungsten=0
-	}
+id=112
+name="STATE_112"
+manpower=816310
 
-	history={
-		victory_points = { 423 3}
-		victory_points = { 424 8}
-		victory_points = { 428 2}
-		victory_points = { 430 6}
-		victory_points = { 431 1}
-		
-		owner = AAA
-		buildings = {
-			infrastructure = 2
-			
-			arms_factory = 1
-			industrial_complex = 2
-			
-			
-		}
-		add_core_of = AAA
-	}
+state_category = town
+resources = {
+aluminium = 0
+chromium = 0
+oil = 0
+rubber = 0
+steel = 0
+tungsten = 0
+}
 
-	provinces={
-		423 424 425 426 427 428 429 430 431 
-	}
-	local_supplies=0.0 
+history = {
+victory_points = { 2200 8}
+victory_points = { 2202 5}
+victory_points = { 270 6}
+victory_points = { 272 11}
+victory_points = { 1195 6}
+victory_points = { 1196 8}
+owner = AAA
+add_core_of = AAA
+
+buildings = {
+    infrastructure = 3
+    arms_factory = 1
+    industrial_complex = 1
+}
+}
+
+provinces = {2200 2201 2202 2203 269 270 271 272 273 1193 1194 1195 1196}
+local_supplies = 1.0
 }

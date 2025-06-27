@@ -1,39 +1,32 @@
-
 state={
-	id=9
-	name="STATE_9"
-	manpower = 1459
-	
-	state_category = pastoral
-	resources={
-		aluminium=0
-		chromium=0
-		oil=0
-		rubber=0
-		steel=0
-		tungsten=0
-	}
+id=9
+name="STATE_9"
+manpower=438892
 
-	history={
-		victory_points = { 9 1}
-		
-		owner = AAA
-		buildings = {
-			infrastructure = 1
-			air_base = 1
-			arms_factory = 0
-			industrial_complex = 0
-			
-			9 = {
-				naval_base = 1
-			}
-			
-		}
-		add_core_of = AAA
-	}
+state_category = town
+resources = {
+aluminium = 0
+chromium = 0
+oil = 0
+rubber = 0
+steel = 0
+tungsten = 0
+}
 
-	provinces={
-		9 
-	}
-	local_supplies=0.0 
+history = {
+victory_points = { 28 5}
+victory_points = { 29 1}
+owner = AAA
+add_core_of = AAA
+
+buildings = {
+    infrastructure = 3
+    arms_factory = 1
+    industrial_complex = 1
+28 = {naval_base = 1}
+}
+}
+
+provinces = {28 29}
+local_supplies = 1.0
 }

@@ -1,41 +1,47 @@
-
 state={
-	id=32
-	name="STATE_32"
-	manpower = 594007
-	
-	state_category = rural
-	resources={
-		aluminium=0
-		chromium=0
-		oil=1
-		rubber=0
-		steel=0
-		tungsten=0
-	}
+id=32
+name="STATE_32"
+manpower=746351
 
-	history={
-		victory_points = { 60 3}
-		victory_points = { 61 2}
-		victory_points = { 62 3}
-		
-		owner = AAA
-		buildings = {
-			infrastructure = 2
-			
-			arms_factory = 1
-			industrial_complex = 0
-			
-			61 = {
-				naval_base = 1
-			}
-			
-		}
-		add_core_of = AAA
-	}
+state_category = town
+resources = {
+aluminium = 0
+chromium = 0
+oil = 0
+rubber = 0
+steel = 0
+tungsten = 0
+}
 
-	provinces={
-		60 61 62 
-	}
-	local_supplies=0.0 
+history = {
+victory_points = { 1994 2}
+victory_points = { 1995 8}
+victory_points = { 1997 8}
+victory_points = { 785 7}
+victory_points = { 787 6}
+victory_points = { 788 11}
+victory_points = { 789 1}
+victory_points = { 1580 12}
+victory_points = { 1344 9}
+victory_points = { 1346 7}
+victory_points = { 2757 7}
+victory_points = { 2758 6}
+victory_points = { 418 7}
+victory_points = { 420 4}
+owner = AAA
+add_core_of = AAA
+
+buildings = {
+    infrastructure = 3
+    arms_factory = 1
+    industrial_complex = 1
+1996 = {naval_base = 1}
+789 = {naval_base = 1}
+1580 = {naval_base = 1}
+1344 = {naval_base = 1}
+}
+}
+
+provinces = {1993 1994 1995 1996 1997 784 785 786 787 788 789 790 1580 1581 1582 1344 1345 1346 1347 2755 2756 2757 2758 418 419 420}
+local_supplies = 1.0
 }

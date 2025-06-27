@@ -16,6 +16,10 @@ class State:
         self.navalBases = []
 
     def compile(self, newid):
+        if self.provinces == []:
+            raise Exception("No provinces!")
+            return
+
         out = ""
         out += "state={\n"
         out += f'id={newid}\n'
@@ -58,10 +62,15 @@ def getValueFromLine(s:str):
         x = int(x)
     return x
 
+###########
+SOURCE_STATES = "./history/.states"
+OUTPUT_STATES = "./history/states"
+###########
+
 def merge(ids:list, newid):
     newState = State()
     for i in ids:
-        with open(f"./history/states/{i}.txt") as statefile:
+        with open(f"{SOURCE_STATES}/{i}.txt") as statefile:
             for line in statefile:
                 # match list of provinces
                 if re.match(r"^\s*(\d* )+$", line, re.M):
@@ -91,15 +100,21 @@ def merge(ids:list, newid):
                     newState.steel = getValueFromLine(line)
                 elif "tungsten" in line:
                     newState.tungsten = getValueFromLine(line)
-        os.remove(f"./history/states/{i}.txt")
 
-    with open(f"./history/states/{newid}.txt", "w") as f:
+    with open(f"{OUTPUT_STATES}/{newid}.txt", "w") as f:
         f.write(newState.compile(newid))
-    with open("statemerger/states.txt", "a") as sl:
-        for i in ids:
-            sl.write(f"{i}\n")
+    # with open("history/statemerger/states.txt", "a") as sl:
+    #     for i in ids:
+    #         sl.write(f"{i}\n")
 
-
-STATES = input("state ids: (use spaces to seperate) ").split()
-NEW = input("new id: ")
-merge(STATES, NEW)
+n = 1
+while True:
+    STATES = input("state ids (use spaces to seperate): ").split()
+    NEW = input(f"new id (leave blank for {n}): ")
+    if NEW == "":
+        NEW = n
+    else:
+        n = int(NEW)
+    merge(STATES, NEW)
+    print(f"genereated state #{n}\n\n")
+    n += 1

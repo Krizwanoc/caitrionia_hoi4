@@ -1,37 +1,36 @@
-
 state={
-	id=99
-	name="STATE_99"
-	manpower = 473791
-	
-	state_category = rural
-	resources={
-		aluminium=0
-		chromium=0
-		oil=0
-		rubber=0
-		steel=0
-		tungsten=0
-	}
+id=99
+name="STATE_99"
+manpower=1056758
 
-	history={
-		victory_points = { 364 5}
-		victory_points = { 365 2}
-		
-		owner = AAA
-		buildings = {
-			infrastructure = 3
-			air_base = 1
-			arms_factory = 0
-			industrial_complex = 1
-			
-			
-		}
-		add_core_of = AAA
-	}
+state_category = town
+resources = {
+aluminium = 0
+chromium = 0
+oil = 0
+rubber = 0
+steel = 1
+tungsten = 0
+}
 
-	provinces={
-		364 365 
-	}
-	local_supplies=0.0 
+history = {
+victory_points = { 1304 4}
+victory_points = { 1306 4}
+victory_points = { 1308 4}
+victory_points = { 343 2}
+victory_points = { 344 5}
+victory_points = { 346 2}
+victory_points = { 347 2}
+owner = AAA
+add_core_of = AAA
+
+buildings = {
+    infrastructure = 3
+    arms_factory = 1
+    industrial_complex = 1
+}
+}
+
+provinces = {1302 1303 1304 1305 1306 1307 1308 343 344 345 346 347 348}
+local_supplies = 1.0
 }

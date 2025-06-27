@@ -1,39 +1,63 @@
-
 state={
-	id=20
-	name="STATE_20"
-	manpower = 929957
-	
-	state_category = town
-	resources={
-		aluminium=0
-		chromium=0
-		oil=0
-		rubber=0
-		steel=1
-		tungsten=0
-	}
+id=20
+name="STATE_20"
+manpower=1039560
 
-	history={
-		victory_points = { 20 2}
-		victory_points = { 22 5}
-		victory_points = { 23 3}
-		victory_points = { 24 1}
-		
-		owner = AAA
-		buildings = {
-			infrastructure = 2
-			air_base = 5
-			arms_factory = 1
-			industrial_complex = 1
-			
-			
-		}
-		add_core_of = AAA
-	}
+state_category = town
+resources = {
+aluminium = 0
+chromium = 0
+oil = 1
+rubber = 0
+steel = 0
+tungsten = 0
+}
 
-	provinces={
-		20 21 22 23 24 
-	}
-	local_supplies=0.0 
+history = {
+victory_points = { 1763 11}
+victory_points = { 1764 3}
+victory_points = { 1766 8}
+victory_points = { 2113 2}
+victory_points = { 2116 21}
+victory_points = { 2117 3}
+victory_points = { 906 5}
+victory_points = { 907 7}
+victory_points = { 909 12}
+victory_points = { 910 2}
+victory_points = { 913 3}
+victory_points = { 543 19}
+victory_points = { 544 7}
+victory_points = { 2022 5}
+victory_points = { 2024 20}
+victory_points = { 2745 7}
+victory_points = { 2747 5}
+victory_points = { 887 10}
+victory_points = { 889 1}
+victory_points = { 890 10}
+victory_points = { 195 1}
+victory_points = { 197 4}
+victory_points = { 198 14}
+victory_points = { 2159 4}
+victory_points = { 2160 7}
+victory_points = { 1918 6}
+victory_points = { 1919 2}
+victory_points = { 1920 8}
+victory_points = { 1921 1}
+owner = AAA
+add_core_of = AAA
+
+buildings = {
+    infrastructure = 3
+    arms_factory = 1
+    industrial_complex = 1
+1763 = {naval_base = 1}
+2023 = {naval_base = 1}
+2746 = {naval_base = 1}
+887 = {naval_base = 1}
+197 = {naval_base = 1}
+}
+}
+
+provinces = {1762 1763 1764 1765 1766 2113 2114 2115 2116 2117 2118 2119 906 907 908 909 910 911 912 913 914 542 543 544 545 546 547 2022 2023 2024 2025 2026 2027 2028 2745 2746 2747 887 888 889 890 891 194 195 196 197 198 2158 2159 2160 1918 1919 1920 1921 1922}
+local_supplies = 1.0
 }

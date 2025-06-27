@@ -1,40 +1,54 @@
-
 state={
-	id=25
-	name="STATE_25"
-	manpower = 559561
-	
-	state_category = rural
-	resources={
-		aluminium=0
-		chromium=0
-		oil=0
-		rubber=0
-		steel=0
-		tungsten=0
-	}
+id=25
+name="STATE_25"
+manpower=1303720
 
-	history={
-		victory_points = { 40 3}
-		victory_points = { 41 5}
-		
-		owner = AAA
-		buildings = {
-			infrastructure = 2
-			air_base = 3
-			arms_factory = 1
-			industrial_complex = 0
-			
-			40 = {
-				naval_base = 1
-			}
-			
-		}
-		add_core_of = AAA
-	}
+state_category = town
+resources = {
+aluminium = 0
+chromium = 0
+oil = 1
+rubber = 0
+steel = 1
+tungsten = 1
+}
 
-	provinces={
-		40 41 42 
-	}
-	local_supplies=0.0 
+history = {
+victory_points = { 2173 1}
+victory_points = { 2540 4}
+victory_points = { 2541 1}
+victory_points = { 1035 4}
+victory_points = { 1038 4}
+victory_points = { 1531 1}
+victory_points = { 1532 5}
+victory_points = { 2210 2}
+victory_points = { 2211 2}
+victory_points = { 2601 1}
+victory_points = { 2603 3}
+victory_points = { 2604 4}
+victory_points = { 918 11}
+victory_points = { 919 2}
+victory_points = { 1741 5}
+victory_points = { 1744 5}
+victory_points = { 1060 5}
+victory_points = { 1061 1}
+victory_points = { 2566 4}
+victory_points = { 2567 6}
+victory_points = { 2569 6}
+victory_points = { 2570 3}
+victory_points = { 369 1}
+victory_points = { 370 9}
+victory_points = { 373 4}
+owner = AAA
+add_core_of = AAA
+
+buildings = {
+    infrastructure = 3
+    arms_factory = 1
+    industrial_complex = 1
+}
+}
+
+provinces = {2173 2540 2541 1035 1036 1037 1038 1531 1532 1533 1534 926 927 2210 2211 2600 2601 2602 2603 2604 917 918 919 920 921 1741 1742 1743 1744 1745 1060 1061 1062 2564 2565 2566 2567 2568 2569 2570 2571 2572 366 367 368 369 370 371 372 373}
+local_supplies = 1.0
 }

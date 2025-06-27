@@ -1,38 +1,46 @@
-
 state={
-	id=69
-	name="STATE_69"
-	manpower = 1284115
-	
-	state_category = large_town
-	resources={
-		aluminium=0
-		chromium=0
-		oil=0
-		rubber=0
-		steel=0
-		tungsten=0
-	}
+id=69
+name="STATE_69"
+manpower=555923
 
-	history={
-		victory_points = { 189 10}
-		victory_points = { 191 3}
-		victory_points = { 193 5}
-		
-		owner = AAA
-		buildings = {
-			infrastructure = 2
-			air_base = 2
-			arms_factory = 1
-			industrial_complex = 2
-			
-			
-		}
-		add_core_of = AAA
-	}
+state_category = town
+resources = {
+aluminium = 0
+chromium = 0
+oil = 0
+rubber = 0
+steel = 0
+tungsten = 0
+}
 
-	provinces={
-		187 188 189 190 191 192 193 
-	}
-	local_supplies=0.0 
+history = {
+victory_points = { 2811 29}
+victory_points = { 2815 4}
+victory_points = { 2821 9}
+victory_points = { 2823 10}
+victory_points = { 159 9}
+victory_points = { 161 9}
+victory_points = { 162 8}
+victory_points = { 164 7}
+victory_points = { 2368 6}
+victory_points = { 2369 2}
+victory_points = { 2371 17}
+victory_points = { 2373 1}
+victory_points = { 1669 8}
+owner = AAA
+add_core_of = AAA
+
+buildings = {
+    infrastructure = 3
+    arms_factory = 1
+    industrial_complex = 1
+2821 = {naval_base = 1}
+159 = {naval_base = 1}
+2371 = {naval_base = 1}
+1669 = {naval_base = 1}
+}
+}
+
+provinces = {2810 2811 2812 2813 2814 2815 2816 2817 2818 2819 2820 2821 2822 2823 2824 2825 159 160 161 162 163 164 165 166 167 2366 2367 2368 2369 2370 2371 2372 2373 1669 1670}
+local_supplies = 1.0
 }
