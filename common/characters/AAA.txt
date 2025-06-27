@@ -1413,16 +1413,6 @@ characters = {
 		}
 
 	}
-	AAA_Uaphuand_Und={
-		name="Uaphuand Und"
-
-		advisor={
-			slot = navy_chief
-			idea_token = AAA_Uaphuand_Und
-				traits = {	navy_chief_reform_2 	}
-		}
-
-	}
 	AAA_Aopp_Aobloass={
 		name="Aopp Aobloass"
 
@@ -1592,16 +1582,6 @@ characters = {
 			slot = army_chief
 			idea_token = AAA_Oephuend_Undio
 				traits = {	army_chief_organizational_1 	}
-		}
-
-	}
-	AAA_Ashoe_Aoplim={
-		name="Ashoe Aoplim"
-
-		advisor={
-			slot = army_chief
-			idea_token = AAA_Ashoe_Aoplim
-				traits = {	army_chief_drill_2 	}
 		}
 
 	}

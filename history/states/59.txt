@@ -27,6 +27,6 @@ buildings = {
 }
 }
 
-provinces = {1601 1602 1603}
+provinces = {1375 1376 1377 1601 1602 1603 2294 2295 2296}
 local_supplies = 1.0
 }

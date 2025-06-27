@@ -1,4 +1,4 @@
-capital = 623
+capital = 49
 
 oob = "AAA_1936"
 if = {
@@ -304,7 +304,6 @@ if = {
 			engine_type_slot = tank_petrol_electric_engine
 			main_armament_slot = tank_medium_cannon
 			special_type_slot_1 = wet_ammo_storage
-			special_type_slot_2 = extra_ammo_storage
 			suspension_type_slot = tank_bogie_suspension
 			turret_type_slot = tank_medium_fixed_superstructure_turret
 
@@ -1182,7 +1181,6 @@ recruit_character = AAA_Oeplel_Aobloess
 recruit_character = AAA_Oppeo_Esseo
 recruit_character = AAA_Uephur_Undio
 recruit_character = AAA_Uand_Ushue
-recruit_character = AAA_Ashoe_Aoplim
 recruit_character = AAA_Ishau_Iuglay
 recruit_character = AAA_Oeplel_And
 recruit_character = AAA_Indau_Ishiu
@@ -1236,7 +1234,6 @@ recruit_character = AAA_Oass_And
 recruit_character = AAA_Oss_Oableong
 recruit_character = AAA_Uld_Oaglag
 recruit_character = AAA_Ashoe_Aublox
-recruit_character = AAA_Uaphuand_Und
 recruit_character = AAA_Aopp_Aobloass
 recruit_character = AAA_Uephur_Uablaepp
 recruit_character = AAA_Ippae_Ioplar

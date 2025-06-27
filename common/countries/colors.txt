@@ -1,5 +1,15 @@
 #reload countrycolors
 
+
+
+AAA = {
+	color = rgb {44 173 5}
+	color_ui = rgb {44 173 5}
+}
+
+
+
+
 GER = {
 	color = HSV { 0.1 0.15 0.4 }
 	color_ui = rgb { 138 155 116 }
@@ -1110,11 +1120,4 @@ BLC = {
 KUR = {
 	color = rgb { 234 179 30 }
 	color_ui = rgb { 255 153 0 }	
-}
-
-
-
-AAA = {
-	color = rgb { 80 146 28 }
-	color_ui = rgb { 80 146 28 }
 }

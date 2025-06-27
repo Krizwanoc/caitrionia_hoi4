@@ -35,10 +35,10 @@ buildings = {
 77 = {naval_base = 1}
 96 = {naval_base = 1}
 43 = {naval_base = 1}
-61 = {naval_base = 1}
+83 = {naval_base = 1}
 }
 }
 
-provinces = {74 75 76 77 78 96 97 98 99 43 44 45 46 47 48 60 61 62}
+provinces = {43 44 45 46 47 48 60 62 74 75 76 77 78 96 97 98 99 61 83}
 local_supplies = 1.0
 }

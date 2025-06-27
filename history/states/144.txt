@@ -16,25 +16,12 @@ tungsten = 0
 history = {
 victory_points = { 2237 3}
 victory_points = { 2238 9}
-victory_points = { 933 3}
-victory_points = { 934 8}
-victory_points = { 935 1}
 victory_points = { 2332 3}
 victory_points = { 2334 3}
 victory_points = { 2336 5}
 victory_points = { 2337 3}
-victory_points = { 810 2}
-victory_points = { 812 6}
-victory_points = { 813 2}
 victory_points = { 2717 2}
 victory_points = { 2719 2}
-victory_points = { 1153 7}
-victory_points = { 1154 1}
-victory_points = { 1156 1}
-victory_points = { 1244 12}
-victory_points = { 1952 3}
-victory_points = { 1953 1}
-victory_points = { 1954 3}
 victory_points = { 2625 2}
 victory_points = { 2627 6}
 owner = AAA
@@ -47,6 +34,6 @@ buildings = {
 }
 }
 
-provinces = {2234 2235 2236 2237 2238 933 934 935 936 937 2332 2333 2334 2335 2336 2337 810 811 812 813 2717 2718 2719 1153 1154 1155 1156 1241 1242 1243 1244 1245 1952 1953 1954 2625 2626 2627}
+provinces = {2234 2235 2236 2237 2238 2717 2718 2719  2625 2626 2627}
 local_supplies = 1.0
 }

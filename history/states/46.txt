@@ -39,7 +39,6 @@ buildings = {
     arms_factory = 1
     industrial_complex = 1
 2137 = {naval_base = 1}
-706 = {naval_base = 1}
 2806 = {naval_base = 1}
 2855 = {naval_base = 1}
 463 = {naval_base = 1}
@@ -47,6 +46,6 @@ buildings = {
 }
 }
 
-provinces = {2137 705 706 2806 2807 2855 463 464 465 466 1013 1014 1015 1016 1017 2297 2298 2299 2300 687 688 689}
+provinces = {2137 2806 2807 2855 463 464 465 466 1013 1014 1015 1016 1017 2297 2298 2299 2300 687 688 689}
 local_supplies = 1.0
 }

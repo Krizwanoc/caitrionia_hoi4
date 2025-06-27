@@ -23,11 +23,9 @@ buildings = {
     infrastructure = 3
     arms_factory = 1
     industrial_complex = 1
-2112 = {naval_base = 1}
-2888 = {naval_base = 1}
 }
 }
 
-provinces = {2112 2888}
+provinces = {274 275 276 277 278 279 280 281 282 283 284 707 708 709 710 1564 1565 1566 1567 1568 1569 1570 1571 1572 1573 1574 1835 1836 1837 1839 1840 1902 2672 2673 2674 2675 2676 2677 2867 2868 2869 2870 2871}
 local_supplies = 1.0
 }
