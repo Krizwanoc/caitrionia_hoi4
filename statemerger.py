@@ -1,4 +1,4 @@
-import re
+import re, os
 
 class State:
     def __init__(self):
@@ -23,7 +23,7 @@ class State:
         out += f'manpower={self.mp}\n\n'
 
         out += f'state_category = town\n'
-        out += "resource = {\n"
+        out += "resources = {\n"
         out += f'aluminium = {self.aluminium}\n'
         out += f'chromium = {self.chromium}\n'
         out += f'oil = {self.oil}\n'
@@ -91,9 +91,13 @@ def merge(ids:list, newid):
                     newState.steel = getValueFromLine(line)
                 elif "tungsten" in line:
                     newState.tungsten = getValueFromLine(line)
+        os.remove(f"./history/states/{i}.txt")
 
-    with open(f"statemerger/{newid}.txt", "w") as f:
+    with open(f"./history/states/{newid}.txt", "w") as f:
         f.write(newState.compile(newid))
+    with open("statemerger/states.txt", "a") as sl:
+        for i in ids:
+            sl.write(f"{i}\n")
 
 
 STATES = input("state ids: (use spaces to seperate) ").split()
