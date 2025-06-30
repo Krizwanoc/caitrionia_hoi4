@@ -1,0 +1,58 @@
+state={
+id=14
+name="STATE_14"
+manpower=1121012
+
+state_category = town
+resources = {
+aluminium = 0
+chromium = 0
+oil = 0
+rubber = 0
+steel = 0
+tungsten = 0
+}
+
+history = {
+victory_points = { 218 9}
+victory_points = { 219 2}
+victory_points = { 220 1}
+victory_points = { 1010 2}
+victory_points = { 1011 4}
+victory_points = { 1012 8}
+victory_points = { 2522 2}
+victory_points = { 2523 7}
+victory_points = { 954 5}
+victory_points = { 956 11}
+victory_points = { 1318 4}
+victory_points = { 1319 7}
+victory_points = { 1321 1}
+victory_points = { 1322 6}
+victory_points = { 1579 5}
+victory_points = { 1282 7}
+victory_points = { 2043 7}
+victory_points = { 2655 11}
+victory_points = { 2656 3}
+victory_points = { 445 2}
+victory_points = { 447 16}
+owner = AAA
+add_core_of = AAA
+
+buildings = {
+    infrastructure = 3
+    arms_factory = 1
+    industrial_complex = 1
+219 = {naval_base = 1}
+1011 = {naval_base = 1}
+2522 = {naval_base = 1}
+956 = {naval_base = 1}
+1322 = {naval_base = 1}
+2043 = {naval_base = 1}
+2656 = {naval_base = 1}
+446 = {naval_base = 1}
+}
+}
+
+provinces = {218 219 220 1009 1010 1011 1012 2522 2523 953 954 955 956 1318 1319 1320 1321 1322 1579 1282 1283 2042 2043 2654 2655 2656 445 446 447 448 449}
+local_supplies = 1.0
+}

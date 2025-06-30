@@ -1,0 +1,66 @@
+units= {
+	##### NAVAL UNITS #####
+	
+		fleet = {
+		name = "Oipo Fleet"			
+		naval_base = 2971
+		task_force = {
+			name = "Oipo Fleet"
+			location = 2971
+			
+						ship = { name = "App" definition = battle_cruiser equipment = { ship_hull_heavy_2 = { amount = 1 owner = AAA version_name = "Ashae Class" } }	}
+			ship = { name = "Oeglol" definition = heavy_cruiser equipment = { ship_hull_cruiser_1 = { amount = 1 owner = AAA version_name = "Assao Class" } }	}
+			ship = { name = "Esseo" definition = heavy_cruiser equipment = { ship_hull_cruiser_1 = { amount = 1 owner = AAA version_name = "Assao Class" } }	}
+			ship = { name = "Aspua" definition = heavy_cruiser equipment = { ship_hull_cruiser_1 = { amount = 1 owner = AAA version_name = "Assao Class" } }	}
+			ship = { name = "Auglil" definition = destroyer equipment = { ship_hull_light_2 = { amount = 1 owner = AAA version_name = "Andao Class" } }	}
+			ship = { name = "Assue" definition = destroyer equipment = { ship_hull_light_2 = { amount = 1 owner = AAA version_name = "Andao Class" } }	}
+			ship = { name = "Appoe" definition = destroyer equipment = { ship_hull_light_2 = { amount = 1 owner = AAA version_name = "Andao Class" } }	}
+			ship = { name = "Uand" definition = destroyer equipment = { ship_hull_light_1 = { amount = 1 owner = AAA version_name = "Uand Class" } }	}
+			ship = { name = "Ispue" definition = destroyer equipment = { ship_hull_light_2 = { amount = 1 owner = AAA version_name = "Andao Class" } }	}
+			ship = { name = "Uaphil" definition = light_cruiser equipment = { ship_hull_cruiser_1 = { amount = 1 owner = AAA version_name = "Ess Class" } }	}
+			ship = { name = "Oapp" definition = destroyer equipment = { ship_hull_light_1 = { amount = 1 owner = AAA version_name = "Uand Class" } }	}
+			ship = { name = "Uass" definition = destroyer equipment = { ship_hull_light_2 = { amount = 1 owner = AAA version_name = "Andao Class" } }	}
+			ship = { name = "Auphoh" definition = destroyer equipment = { ship_hull_light_2 = { amount = 1 owner = AAA version_name = "Andao Class" } }	}
+			ship = { name = "Epp" definition = destroyer equipment = { ship_hull_light_2 = { amount = 1 owner = AAA version_name = "Andao Class" } }	}
+			ship = { name = "Ondao" definition = light_cruiser equipment = { ship_hull_cruiser_1 = { amount = 1 owner = AAA version_name = "Ess Class" } }	}
+
+		}
+	}
+	fleet = {
+		name = "Oipo Fleet"			
+		naval_base = 2971
+		task_force = {
+			name = "Oipo Fleet"
+			location = 2971
+			
+						ship = { name = "App" definition = battle_cruiser equipment = { ship_hull_heavy_2 = { amount = 1 owner = AAA version_name = "Ashae Class" } }	}
+			ship = { name = "Oeglol" definition = heavy_cruiser equipment = { ship_hull_cruiser_1 = { amount = 1 owner = AAA version_name = "Assao Class" } }	}
+			ship = { name = "Esseo" definition = heavy_cruiser equipment = { ship_hull_cruiser_1 = { amount = 1 owner = AAA version_name = "Assao Class" } }	}
+			ship = { name = "Aspua" definition = heavy_cruiser equipment = { ship_hull_cruiser_1 = { amount = 1 owner = AAA version_name = "Assao Class" } }	}
+			ship = { name = "Auglil" definition = destroyer equipment = { ship_hull_light_2 = { amount = 1 owner = AAA version_name = "Andao Class" } }	}
+			ship = { name = "Assue" definition = destroyer equipment = { ship_hull_light_2 = { amount = 1 owner = AAA version_name = "Andao Class" } }	}
+			ship = { name = "Appoe" definition = destroyer equipment = { ship_hull_light_2 = { amount = 1 owner = AAA version_name = "Andao Class" } }	}
+			ship = { name = "Uand" definition = destroyer equipment = { ship_hull_light_1 = { amount = 1 owner = AAA version_name = "Uand Class" } }	}
+			ship = { name = "Ispue" definition = destroyer equipment = { ship_hull_light_2 = { amount = 1 owner = AAA version_name = "Andao Class" } }	}
+			ship = { name = "Uaphil" definition = light_cruiser equipment = { ship_hull_cruiser_1 = { amount = 1 owner = AAA version_name = "Ess Class" } }	}
+			ship = { name = "Oapp" definition = destroyer equipment = { ship_hull_light_1 = { amount = 1 owner = AAA version_name = "Uand Class" } }	}
+			ship = { name = "Uass" definition = destroyer equipment = { ship_hull_light_2 = { amount = 1 owner = AAA version_name = "Andao Class" } }	}
+			ship = { name = "Auphoh" definition = destroyer equipment = { ship_hull_light_2 = { amount = 1 owner = AAA version_name = "Andao Class" } }	}
+			ship = { name = "Epp" definition = destroyer equipment = { ship_hull_light_2 = { amount = 1 owner = AAA version_name = "Andao Class" } }	}
+			ship = { name = "Ondao" definition = light_cruiser equipment = { ship_hull_cruiser_1 = { amount = 1 owner = AAA version_name = "Ess Class" } }	}
+
+		}
+	}
+
+}
+
+
+#########################
+## STARTING PRODUCTION ##
+#########################
+
+instant_effect = {
+
+}
+
+#####################

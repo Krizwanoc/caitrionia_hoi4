@@ -1,0 +1,40 @@
+state={
+id=11
+name="STATE_11"
+manpower=778322
+
+state_category = town
+resources = {
+aluminium = 0
+chromium = 0
+oil = 0
+rubber = 0
+steel = 0
+tungsten = 0
+}
+
+history = {
+victory_points = { 107 1}
+victory_points = { 108 8}
+victory_points = { 110 5}
+victory_points = { 112 5}
+victory_points = { 113 8}
+victory_points = { 114 1}
+victory_points = { 115 2}
+victory_points = { 116 9}
+owner = AAA
+add_core_of = AAA
+
+buildings = {
+    infrastructure = 3
+    arms_factory = 1
+    industrial_complex = 1
+110 = {naval_base = 1}
+111 = {naval_base = 1}
+115 = {naval_base = 1}
+}
+}
+
+provinces = {107 108 109 110 111 112 113 114 115 116}
+local_supplies = 1.0
+}

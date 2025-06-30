@@ -1,0 +1,38 @@
+state={
+id=18
+name="STATE_18"
+manpower=1423340
+
+state_category = town
+resources = {
+aluminium = 0
+chromium = 0
+oil = 0
+rubber = 0
+steel = 0
+tungsten = 0
+}
+
+history = {
+victory_points = { 2876 4}
+victory_points = { 2878 13}
+victory_points = { 2881 20}
+victory_points = { 2650 8}
+victory_points = { 2651 7}
+victory_points = { 2680 11}
+victory_points = { 472 9}
+victory_points = { 473 1}
+victory_points = { 474 13}
+owner = AAA
+add_core_of = AAA
+
+buildings = {
+    infrastructure = 3
+    arms_factory = 1
+    industrial_complex = 1
+}
+}
+
+provinces = {2876 2877 2878 2879 2880 2881 2882 2883 2884 2885 2650 2651 2652 2653 2679 2680 2681 472 473 474 475 476 477 478}
+local_supplies = 1.0
+}

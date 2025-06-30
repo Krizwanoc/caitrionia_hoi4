@@ -1,0 +1,70 @@
+state={
+id=23
+name="STATE_23"
+manpower=867727
+
+state_category = town
+resources = {
+aluminium = 0
+chromium = 0
+oil = 0
+rubber = 0
+steel = 0
+tungsten = 0
+}
+
+history = {
+victory_points = { 1594 1}
+victory_points = { 1597 11}
+victory_points = { 211 5}
+victory_points = { 212 4}
+victory_points = { 2231 6}
+victory_points = { 2232 6}
+victory_points = { 1158 3}
+victory_points = { 1159 3}
+victory_points = { 1160 1}
+victory_points = { 2069 7}
+victory_points = { 2070 3}
+victory_points = { 1901 2}
+victory_points = { 1902 3}
+victory_points = { 1835 11}
+victory_points = { 1839 1}
+victory_points = { 2868 7}
+victory_points = { 2870 6}
+victory_points = { 707 4}
+victory_points = { 708 2}
+victory_points = { 709 2}
+victory_points = { 1565 15}
+victory_points = { 1568 8}
+victory_points = { 1571 7}
+victory_points = { 274 12}
+victory_points = { 277 17}
+victory_points = { 281 1}
+victory_points = { 282 6}
+victory_points = { 2674 7}
+victory_points = { 2675 7}
+victory_points = { 2676 5}
+victory_points = { 2284 5}
+victory_points = { 2285 7}
+victory_points = { 2286 8}
+victory_points = { 2290 3}
+victory_points = { 1402 7}
+victory_points = { 1403 1}
+victory_points = { 2472 6}
+victory_points = { 2474 5}
+owner = AAA
+add_core_of = AAA
+
+buildings = {
+    infrastructure = 3
+    arms_factory = 1
+    industrial_complex = 1
+1594 = {naval_base = 1}
+2283 = {naval_base = 1}
+1402 = {naval_base = 1}
+}
+}
+
+provinces = {211 212 213 1158 1159 1160 1402 1403 1594 1595 1596 1597 1838 1901 1903 2068 2069 2070 2071 2229 2230 2231 2232 2233 2283 2284 2285 2286 2287 2288 2289 2290 2471 2472 2473 2474 }
+local_supplies = 1.0
+}

@@ -1,0 +1,33 @@
+state={
+id=126
+name="STATE_126"
+manpower=1388185
+
+state_category = town
+resources = {
+aluminium = 0
+chromium = 0
+oil = 0
+rubber = 0
+steel = 1
+tungsten = 0
+}
+
+history = {
+victory_points = { 1794 5}
+victory_points = { 1795 4}
+victory_points = { 1796 4}
+victory_points = { 1800 4}
+owner = AAA
+add_core_of = AAA
+
+buildings = {
+    infrastructure = 3
+    arms_factory = 1
+    industrial_complex = 1
+}
+}
+
+provinces = {1794 1795 1796 1797 1798 1799 1800 1801}
+local_supplies = 1.0
+}

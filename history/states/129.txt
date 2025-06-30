@@ -1,0 +1,58 @@
+state={
+id=129
+name="STATE_129"
+manpower=1197654
+
+state_category = town
+resources = {
+aluminium = 0
+chromium = 2
+oil = 0
+rubber = 0
+steel = 1
+tungsten = 1
+}
+
+history = {
+victory_points = { 2533 2}
+victory_points = { 2534 2}
+victory_points = { 2536 5}
+victory_points = { 1905 2}
+victory_points = { 1906 2}
+victory_points = { 1907 5}
+victory_points = { 1908 1}
+victory_points = { 360 4}
+victory_points = { 361 7}
+victory_points = { 363 2}
+victory_points = { 2161 3}
+victory_points = { 2162 5}
+victory_points = { 2163 1}
+victory_points = { 776 3}
+victory_points = { 777 3}
+victory_points = { 779 7}
+victory_points = { 780 9}
+victory_points = { 1048 16}
+victory_points = { 1051 4}
+victory_points = { 352 9}
+victory_points = { 355 18}
+victory_points = { 587 2}
+victory_points = { 588 4}
+victory_points = { 590 4}
+victory_points = { 591 4}
+victory_points = { 592 1}
+owner = AAA
+add_core_of = AAA
+
+buildings = {
+    infrastructure = 3
+    arms_factory = 1
+    industrial_complex = 1
+777 = {naval_base = 1}
+1050 = {naval_base = 1}
+356 = {naval_base = 1}
+}
+}
+
+provinces = {2533 2534 2535 2536 1904 1905 1906 1907 1908 360 361 362 363 2161 2162 2163 776 777 778 779 780 781 1046 1047 1048 1049 1050 1051 349 350 351 352 353 354 355 356 357 358 359 587 588 589 590 591 592}
+local_supplies = 1.0
+}

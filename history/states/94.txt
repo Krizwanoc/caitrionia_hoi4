@@ -1,0 +1,55 @@
+state={
+id=94
+name="STATE_94"
+manpower=825147
+
+state_category = town
+resources = {
+aluminium = 0
+chromium = 0
+oil = 0
+rubber = 0
+steel = 0
+tungsten = 0
+}
+
+history = {
+victory_points = { 659 4}
+victory_points = { 879 7}
+victory_points = { 881 1}
+victory_points = { 882 12}
+victory_points = { 885 1}
+victory_points = { 886 7}
+victory_points = { 1827 4}
+victory_points = { 1830 10}
+victory_points = { 1424 7}
+victory_points = { 1425 6}
+victory_points = { 1427 2}
+victory_points = { 2123 13}
+victory_points = { 2126 11}
+victory_points = { 2127 5}
+victory_points = { 285 2}
+victory_points = { 286 5}
+victory_points = { 287 4}
+victory_points = { 288 2}
+victory_points = { 1914 4}
+victory_points = { 1916 6}
+victory_points = { 1917 3}
+owner = AAA
+add_core_of = AAA
+
+buildings = {
+    infrastructure = 3
+    arms_factory = 1
+    industrial_complex = 1
+659 = {naval_base = 1}
+880 = {naval_base = 1}
+1828 = {naval_base = 1}
+1425 = {naval_base = 1}
+2124 = {naval_base = 1}
+}
+}
+
+provinces = {659 879 880 881 882 883 884 885 886 1827 1828 1829 1830 1424 1425 1426 1427 2122 2123 2124 2125 2126 2127 2128 2129 285 286 287 288 1914 1915 1916 1917}
+local_supplies = 1.0
+}

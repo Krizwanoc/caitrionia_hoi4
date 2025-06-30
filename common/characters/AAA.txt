@@ -1,0 +1,14 @@
+characters = {
+	AAA_Oppua_Ispae={
+		name="Oppua Ispae"
+
+		
+		country_leader={
+			ideology=liberalism
+			traits = { celebrity_junta_leader  }
+			expire="1965.1.1.1"
+			id=-1
+		}
+
+	}
+}

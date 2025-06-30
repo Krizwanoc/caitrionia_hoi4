@@ -1,0 +1,48 @@
+state={
+id=39
+name="STATE_39"
+manpower=1615361
+
+state_category = town
+resources = {
+aluminium = 0
+chromium = 0
+oil = 0
+rubber = 0
+steel = 1
+tungsten = 0
+}
+
+history = {
+victory_points = { 2703 2}
+victory_points = { 2704 6}
+victory_points = { 2271 2}
+victory_points = { 2272 7}
+victory_points = { 2275 7}
+victory_points = { 2277 6}
+victory_points = { 2362 12}
+victory_points = { 1324 6}
+victory_points = { 1325 1}
+victory_points = { 2833 7}
+victory_points = { 2099 2}
+victory_points = { 2101 6}
+victory_points = { 2102 2}
+victory_points = { 2103 9}
+victory_points = { 450 6}
+victory_points = { 452 1}
+victory_points = { 453 7}
+victory_points = { 454 3}
+victory_points = { 458 3}
+owner = AAA
+add_core_of = AAA
+
+buildings = {
+    infrastructure = 3
+    arms_factory = 1
+    industrial_complex = 1
+}
+}
+
+provinces = {2703 2704 2705 2271 2272 2273 2274 2275 2276 2277 2278 2362 2363 2364 2365 1323 1324 1325 2831 2832 2833 2097 2098 2099 2100 2101 2102 2103 2104 450 451 452 453 454 455 456 457 458}
+local_supplies = 1.0
+}
